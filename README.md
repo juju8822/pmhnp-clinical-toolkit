@@ -77,3 +77,14 @@ Run `node test.cjs`. Tests cover keyword boundaries, literal phrase escaping, pr
 ## GitHub handoff
 
 Repository: https://github.com/juju8822/pmhnp-clinical-toolkit (private). Never upload real visit text or exported clinical reviews. Use development branches for subsequent work. Add an appropriate source-code license before redistribution.
+
+
+## Reference library update — November 13, 2026
+
+Ten supplied course PDFs (158 total PDF pages) now inform 72 paraphrased summary/update cards across the five topic tabs. Each card identifies its source file and PDF page(s). A 152-page source catalog includes title, content, exam, and reference pages; blank notes pages are omitted. Indexed pages are not a claim of exhaustive transcription. Illustrations, exact criteria lists, quizzes, and original dosing tables are not reproduced. Source files & coverage lists pages without dedicated summaries explicitly.
+
+The Medication tab includes a name/brand index plus six selected label-checked product references, separating tablet strengths, indication/population, start, titration, dose range, example instructions, cautions, and external labels. These are selected fields, not complete monographs or patient-specific prescriptions. The remaining source-mentioned medicines do not receive invented doses. Manufacturer strengths are not a market-wide inventory.
+
+Primary-source updates flag clonidine ER, clozapine REMS, St. John's wort, benzodiazepine tapers, RLS management, lamotrigine rash, reproductive-safety framing, pediatric sertraline, and esketamine. Other course summaries remain subject to clinical review. The original demonstration diagnostic matcher is unchanged and has no licensed full DSM criteria.
+
+`knowledge.json` is the editable structured reference dataset. It is also embedded into `index.html` to keep the app offline and avoid network requests. Keep both in sync when editing; `node test.cjs` checks equality, provenance, and other reference-library invariants. Source hashes and exclusions are documented in `SOURCE_NOTES.md`. No patient content or original PDF files are committed.
