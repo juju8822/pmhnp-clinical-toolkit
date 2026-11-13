@@ -1,0 +1,9 @@
+# Keep secrets and local visit exports out of version control
+.env
+.env.*
+!.env.example
+clinical-review.json
+visits/
+patient-data/
+node_modules/
+.DS_Store

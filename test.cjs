@@ -1,0 +1,16 @@
+const fs=require('node:fs');const vm=require('node:vm');const assert=require('node:assert/strict');
+const html=fs.readFileSync(__dirname+'/index.html','utf8');const script=html.match(/<script>([\s\S]*)<\/script>/)[1];new vm.Script(script);
+const extract=script.slice(script.indexOf('function extractEvidence'),script.indexOf('function resetReview'));
+const validate=script.slice(script.indexOf('function validateLibrary'),script.indexOf('function exportTemplate'));
+const ctx=vm.createContext({});vm.runInContext(extract+'\n'+validate,ctx);
+const items=[{id:'mood',phrases:['low mood']},{id:'psychosis',phrases:['hallucinations']},{id:'activation',phrases:['racing thoughts']},{id:'fear',phrases:['fear']}];
+let r=ctx.extractEvidence('Patient reports low mood. Patient denies hallucinations. Father had racing thoughts.',items);
+assert.equal(r.mood.length,1);assert.equal(r.psychosis[0].classification,'unclassified');assert.equal(r.activation[0].classification,'unclassified');assert.equal(r.fear.length,0);
+assert.equal(ctx.extractEvidence('Fearful but no fear.',items).fear.length,1);
+assert.equal(ctx.extractEvidence('Fearful.',items).fear.length,0);
+assert.equal(ctx.extractEvidence('test a+b?', [{id:'x',phrases:['a+b']}]).x.length,1);
+assert.equal(ctx.extractEvidence('No text matches.',items).mood.length,0);
+const valid={name:'Example',version:'1',source:'Authorized source',items:[{id:'a',label:'Example',phrases:['test']}]};assert.equal(ctx.validateLibrary(valid),valid);
+for(const bad of [{}, {...valid,items:[]}, {...valid,items:[...valid.items,...valid.items]}, {...valid,items:[{id:'x',label:'x',phrases:['']}]}, {...valid,items:[{id:'x',label:'x',phrases:[' '.repeat(4)]}]}])assert.throws(()=>ctx.validateLibrary(bad));
+const proto=ctx.extractEvidence('test',[{id:'__proto__',phrases:['test']}]);assert.equal(proto['__proto__'].length,1);
+console.log('Passed: script syntax, evidence boundaries/literals, unclassified contextual hits, missing evidence, import validation, prototype-safe evidence keys.');
