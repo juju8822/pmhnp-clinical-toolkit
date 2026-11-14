@@ -88,3 +88,20 @@ The Medication tab includes a name/brand index plus six selected label-checked p
 Primary-source updates flag clonidine ER, clozapine REMS, St. John's wort, benzodiazepine tapers, RLS management, lamotrigine rash, reproductive-safety framing, pediatric sertraline, and esketamine. Other course summaries remain subject to clinical review. The original demonstration diagnostic matcher is unchanged and has no licensed full DSM criteria.
 
 `knowledge.json` is the editable structured reference dataset. It is also embedded into `index.html` to keep the app offline and avoid network requests. Keep both in sync when editing; `node test.cjs` checks equality, provenance, and other reference-library invariants. Source hashes and exclusions are documented in `SOURCE_NOTES.md`. No patient content or original PDF files are committed.
+
+
+## Diagnosis cards — November 14, 2026
+
+The Diagnoses tab now opens a board of 30 separate assessment cards. These are original prompts, not a full or licensed DSM-5-TR criteria library. They include psychiatric diagnostic possibilities plus selected sleep conditions already discussed in the study references. Some cards share symptom prompts; overlapping matches are not competing confirmed diagnoses.
+
+- Neutral: no positive findings or required-review items are checked.
+- Yellow: some findings or review items are checked, or transcript suggestions remain unconfirmed.
+- Green: at least one positive finding is clinician-confirmed, no checked transcript finding remains unconfirmed, and every required manual review task has been confirmed. Green means review-task completion, not an autonomous diagnosis or validated DSM threshold result.
+
+Positive symptom examples are optional; not all are required for every diagnosis. Required review tasks cover the actual symptom pattern/threshold, duration/frequency/course/development/settings, impairment, exclusions/differentials, and remaining clinician assessment/testing/safety. The clinician must verify those requirements against an authorized diagnostic source. No time threshold or exclusion is inferred from a keyword hit.
+
+Transcripts use a conservative local phrase matcher. Matches in affirmative current patient statements can be prechecked as unconfirmed suggestions. Each includes literal source text and character offsets. Denials, historical and family context, questions/provider speech, unclear assertions, and conflicting positive/negative statements are held for review. This matcher is not validated NLP: it can miss findings or misread context. Every suggested finding requires review, and required-review tasks are always manual. Editing/importing a visit or changing a checklist clears card checks and notes. Clinical data remains memory-only.
+
+Use the card search and progress filter to focus the board. Card checks and rationale are included in JSON review export, which also supports manual review without extraction. A custom checklist cannot enable the old default diagnostic mapping by reusing the default name/version.
+
+Validation: `npm install` then `npm test` runs the existing code/data checks plus 22 simulated-DOM card-workflow checks. `jsdom` is used only for development tests, not by the offline app. These checks are not visual browser testing or clinical validation.

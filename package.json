@@ -1,0 +1,15 @@
+{
+  "name": "pmhnp-clinical-toolkit",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Offline clinical assessment prototype with clinician-reviewed findings",
+  "scripts": {
+    "test": "node test.cjs && node diagnosis-test.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "31.0.1"
+  },
+  "engines": {
+    "node": "^22.22.2 || ^24.15.0 || >=26.0.0"
+  }
+}
