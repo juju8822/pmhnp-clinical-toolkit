@@ -1,0 +1,964 @@
+{
+  "version": "0.5-medication-reference",
+  "checked": "2026-11-14",
+  "scope": "Selected medication references, not an exhaustive drug catalog, complete monographs, a treatment recommendation, or a prescription. Verify the complete current label and patient-specific factors. FDA status refers to the stated US product, indication and age group.",
+  "drugs": {
+    "sertraline": {
+      "name": "Sertraline",
+      "form": "Oral tablet",
+      "strengths": "25, 50, 100, 150, 200 mg (linked product)",
+      "sideEffects": "Nausea, diarrhea, sweating, tremor, sexual dysfunction.",
+      "contraindications": "Hypersensitivity; pimozide; MAOI use or within 14 days (includes linezolid/IV methylene blue).",
+      "cautions": "Suicidality warning in younger patients; review hepatic impairment and serotonergic/bleeding interactions.",
+      "labs": "No routine serum drug level. Consider sodium with hyponatremia risk or symptoms; other labs follow the clinical assessment.",
+      "monitoring": "Monitor mood/suicidality, activation/mania, serotonin toxicity, bleeding, and discontinuation effects.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c9e89324-0834-4434-8168-b4f2fa1e0a08"
+      ]
+    },
+    "escitalopram": {
+      "name": "Escitalopram",
+      "form": "Oral tablet",
+      "strengths": "5, 10, 20 mg",
+      "sideEffects": "Nausea, insomnia/somnolence, sweating, sexual dysfunction.",
+      "contraindications": "Hypersensitivity to escitalopram/citalopram; MAOI restrictions including linezolid/IV methylene blue.",
+      "cautions": "Review QT risk, hepatic/older-adult dosing and suicidality warning.",
+      "labs": "No routine serum drug level. Consider sodium with hyponatremia risk or symptoms; other labs follow the clinical assessment.",
+      "monitoring": "Monitor mood/suicidality, activation/mania, serotonin toxicity, bleeding, and discontinuation effects.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccbe97b5-da68-4fff-929a-240dd705fe6f"
+      ]
+    },
+    "fluoxetine": {
+      "name": "Fluoxetine (Prozac)",
+      "form": "Oral capsule",
+      "strengths": "10, 20, 40 mg (Prozac)",
+      "sideEffects": "Nausea, insomnia, anxiety, reduced appetite, sexual dysfunction.",
+      "contraindications": "MAOIs: wait at least 14 days after an MAOI and at least 5 weeks after fluoxetine before an MAOI; pimozide; thioridazine (including 5-week washout).",
+      "cautions": "Long half-life; CYP2D6 interactions, QT risk and suicidality warning. Do not use antidepressant monotherapy for bipolar I depression.",
+      "labs": "No routine serum drug level. Consider sodium with hyponatremia risk or symptoms; other labs follow the clinical assessment.",
+      "monitoring": "Monitor mood/suicidality, activation/mania, serotonin toxicity, bleeding, and discontinuation effects.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299"
+      ]
+    },
+    "venlafaxine": {
+      "name": "Venlafaxine XR",
+      "form": "Oral extended-release capsule",
+      "strengths": "37.5, 75, 150 mg",
+      "sideEffects": "Nausea, sweating, insomnia, sexual dysfunction, constipation.",
+      "contraindications": "Hypersensitivity to venlafaxine/desvenlafaxine; MAOI restrictions.",
+      "cautions": "Suicidality warning; dose reductions for renal/hepatic impairment; gradual discontinuation.",
+      "labs": "No routine serum drug level. Consider sodium with hyponatremia risk or symptoms; other labs follow the clinical assessment. Consider lipids during long-term therapy.",
+      "monitoring": "Monitor BP/pulse as well as mood, activation and discontinuation symptoms.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c4312b7b-7a42-45f1-b6e6-e20ea76020c4"
+      ]
+    },
+    "buspirone": {
+      "name": "Buspirone",
+      "form": "Oral tablet",
+      "strengths": "5, 7.5, 10, 15, 30 mg (product-dependent)",
+      "sideEffects": "Dizziness, nausea, headache, nervousness.",
+      "contraindications": "Hypersensitivity; MAOI restrictions including linezolid/IV methylene blue.",
+      "cautions": "Not a rescue drug. Review CYP3A4 interactions; severe renal/hepatic impairment: use not recommended.",
+      "labs": "No routine serum level or universal lab panel; assess renal/hepatic function when indicated.",
+      "monitoring": "Review dizziness, serotonin toxicity, response and adherence.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3da22999-f5fb-49fd-acde-c3006598e985"
+      ]
+    },
+    "lithium": {
+      "name": "Lithium carbonate",
+      "form": "Oral immediate-release capsule",
+      "strengths": "150, 300, 600 mg",
+      "sideEffects": "Tremor, thirst, polyuria, nausea.",
+      "contraindications": "Linked product: hypersensitivity to an inactive ingredient.",
+      "cautions": "Narrow therapeutic index; avoid severe renal impairment, dehydration and sodium depletion. NSAIDs, ACE inhibitors/ARBs and diuretics can raise levels; review pregnancy risk.",
+      "labs": "Baseline renal function, electrolytes, thyroid, calcium and pregnancy status when applicable. Obtain a 12-hour trough after 3 days per label, after changes, and regularly; repeat renal/thyroid/calcium monitoring.",
+      "monitoring": "Track hydration, tremor, GI/neurologic toxicity and interacting medicines. Serum concentrations guide dosing, not pill strength.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63b3790f-a9b5-47f4-bae1-ddf8b43c13c1"
+      ]
+    },
+    "lamotrigine": {
+      "name": "Lamotrigine",
+      "form": "Oral immediate-release tablet",
+      "strengths": "25, 100, 150, 200 mg",
+      "sideEffects": "Dizziness, headache, diplopia, nausea, rash.",
+      "contraindications": "Hypersensitivity to lamotrigine/ingredients.",
+      "cautions": "Serious rash/SJS/TEN warning: assess new rash urgently; stop unless clearly unrelated. Valproate, enzyme inducers and estrogen change dosing; restart after interruption may require retitration. Not an acute-mania treatment.",
+      "labs": "No established routine therapeutic serum target. Renal/hepatic assessment and CBC/LFTs when clinically indicated (e.g., systemic hypersensitivity).",
+      "monitoring": "Assess rash, fever/systemic symptoms, suicidality and cardiac disease risk. Never accelerate the titration.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=16323699-9bf8-43c7-b3aa-589156377872"
+      ]
+    },
+    "quetiapine": {
+      "name": "Quetiapine IR",
+      "form": "Oral immediate-release tablet",
+      "strengths": "25, 50, 100, 150, 200, 300, 400 mg",
+      "sideEffects": "Sedation, dry mouth, dizziness, constipation, weight gain.",
+      "contraindications": "Hypersensitivity to quetiapine/ingredients.",
+      "cautions": "Review metabolic effects, neuroleptic malignant syndrome and tardive dyskinesia. Boxed warning: increased mortality in older adults with dementia-related psychosis. CYP3A4 interactions and hepatic impairment require adjustments.",
+      "labs": "Baseline and follow-up glucose or HbA1c and lipids; CBC if prior low WBC/drug-related neutropenia. Additional tests are risk/symptom-directed.",
+      "monitoring": "Track weight/BMI, BP, orthostasis, movement symptoms/AIMS, and treatment response. ECG when cardiac/QT risk warrants.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=32bc1ecb-7285-4013-b266-ca783a62d617",
+        "https://www.nice.org.uk/guidance/cg178/chapter/recommendations"
+      ]
+    },
+    "aripiprazole": {
+      "name": "Aripiprazole",
+      "form": "Oral tablet",
+      "strengths": "2, 5, 10, 15, 20, 30 mg",
+      "sideEffects": "Akathisia, nausea, insomnia, restlessness.",
+      "contraindications": "Hypersensitivity to aripiprazole/ingredients.",
+      "cautions": "Review metabolic effects, neuroleptic malignant syndrome and tardive dyskinesia. Boxed warning: increased mortality in older adults with dementia-related psychosis. Review impulse-control problems and CYP2D6/CYP3A4 adjustments.",
+      "labs": "Baseline and follow-up glucose or HbA1c and lipids; CBC if prior low WBC/drug-related neutropenia. Additional tests are risk/symptom-directed.",
+      "monitoring": "Track weight/BMI, BP, orthostasis, movement symptoms/AIMS, and treatment response. ECG when cardiac/QT risk warrants. Assess compulsive behaviors.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06dda03f-8481-46d6-af02-4f51e1a3a065",
+        "https://www.nice.org.uk/guidance/cg178/chapter/recommendations"
+      ]
+    },
+    "risperidone": {
+      "name": "Risperidone",
+      "form": "Oral tablet",
+      "strengths": "0.25, 0.5, 1, 2, 3, 4 mg",
+      "sideEffects": "Sedation, EPS, weight gain, prolactin-related effects.",
+      "contraindications": "Hypersensitivity to risperidone, paliperidone or ingredients.",
+      "cautions": "Review metabolic effects, neuroleptic malignant syndrome and tardive dyskinesia. Boxed warning: increased mortality in older adults with dementia-related psychosis. Renal/hepatic impairment requires lower doses.",
+      "labs": "Baseline and follow-up glucose or HbA1c and lipids; CBC if prior low WBC/drug-related neutropenia. Additional tests are risk/symptom-directed. Check prolactin when symptoms or clinical risk warrant.",
+      "monitoring": "Track weight/BMI, BP, orthostasis, movement symptoms/AIMS, and treatment response. ECG when cardiac/QT risk warrants.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f11dae15-b057-4258-9229-3819d0c980fe",
+        "https://www.nice.org.uk/guidance/cg178/chapter/recommendations"
+      ]
+    },
+    "paliperidone": {
+      "name": "Paliperidone ER",
+      "form": "Oral extended-release tablet",
+      "strengths": "1.5, 3, 6, 9 mg",
+      "sideEffects": "EPS, akathisia, tachycardia, somnolence, prolactin effects.",
+      "contraindications": "Hypersensitivity to paliperidone, risperidone or ingredients.",
+      "cautions": "Review metabolic effects, neuroleptic malignant syndrome and tardive dyskinesia. Boxed warning: increased mortality in older adults with dementia-related psychosis. Renal dosing and QT risk require review; swallow whole.",
+      "labs": "Baseline and follow-up glucose or HbA1c and lipids; CBC if prior low WBC/drug-related neutropenia. Additional tests are risk/symptom-directed. Check renal function for dosing; prolactin if clinically indicated.",
+      "monitoring": "Track weight/BMI, BP, orthostasis, movement symptoms/AIMS, and treatment response. ECG when cardiac/QT risk warrants.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de95e29f-a030-4777-a601-874500ab8e91",
+        "https://www.nice.org.uk/guidance/cg178/chapter/recommendations"
+      ]
+    },
+    "concerta": {
+      "name": "Methylphenidate ER (Concerta)",
+      "form": "Oral OROS extended-release tablet",
+      "strengths": "18, 27, 36, 54 mg",
+      "sideEffects": "Appetite loss, insomnia, anxiety, headache, weight loss.",
+      "contraindications": "Hypersensitivity; concomitant MAOI or within 14 days.",
+      "cautions": "Boxed warning: abuse, misuse and addiction. Avoid serious cardiac disease; review glaucoma, tics and mania/psychosis risk. Swallow whole; other methylphenidate formulations are not interchangeable.",
+      "labs": "No universal routine lab panel. Obtain tests for specific history/examination concerns; ECG/cardiology assessment when indicated.",
+      "monitoring": "Check BP/pulse, weight/appetite, sleep, mood/psychosis and misuse risk. Pediatric use also requires growth monitoring.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a88218c-5b18-4220-8f56-526de1a276cd"
+      ]
+    },
+    "lisdexamfetamine": {
+      "name": "Lisdexamfetamine (Vyvanse)",
+      "form": "Oral capsule or chewable tablet",
+      "strengths": "Capsules 10, 20, 30, 40, 50, 60, 70 mg; chewables 10–60 mg in 10-mg steps",
+      "sideEffects": "Dry mouth, appetite loss, insomnia, anxiety, increased pulse.",
+      "contraindications": "Amphetamine/product hypersensitivity; MAOI use or within 14 days.",
+      "cautions": "Boxed warning: abuse, misuse and addiction. Avoid serious cardiac disease; assess mania/psychosis and serotonin toxicity risk. Renal limits apply; not for weight loss.",
+      "labs": "No universal routine lab panel. Obtain tests for specific history/examination concerns; ECG/cardiology assessment when indicated.",
+      "monitoring": "Check BP/pulse, weight/appetite, sleep, mood/psychosis and misuse risk. Pediatric use also requires growth monitoring.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=704e4378-ca83-445c-8b45-3cfa51c1ecad"
+      ]
+    },
+    "atomoxetine": {
+      "name": "Atomoxetine",
+      "form": "Oral capsule",
+      "strengths": "10, 18, 25, 40, 60, 80, 100 mg",
+      "sideEffects": "Nausea, dry mouth, appetite loss, constipation, sexual/urinary effects.",
+      "contraindications": "Hypersensitivity; MAOIs within 14 days; narrow-angle glaucoma; pheochromocytoma; severe cardiovascular disorders.",
+      "cautions": "Pediatric suicidality warning; rare severe liver injury. Hepatic impairment/CYP2D6 inhibitors or poor metabolism change dosing.",
+      "labs": "Liver tests if jaundice or liver-injury symptoms; routine lab testing is not universally required.",
+      "monitoring": "Monitor BP/pulse, weight, mood/suicidality and urinary symptoms.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1cceab35-dc4a-40bc-a245-10b64820e217"
+      ]
+    },
+    "clonidine-er": {
+      "name": "Clonidine ER",
+      "form": "Oral extended-release tablet",
+      "strengths": "0.1 mg",
+      "sideEffects": "Somnolence, fatigue, dry mouth, constipation, dizziness.",
+      "contraindications": "Hypersensitivity to clonidine/ingredients.",
+      "cautions": "Hypotension/bradycardia; taper to prevent rebound hypertension. Swallow whole; do not substitute immediate release mg-for-mg.",
+      "labs": "No universal routine labs; renal function if impairment is suspected.",
+      "monitoring": "BP/pulse before starting, after increases and periodically; assess sedation/syncope.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99485427-a120-4fc7-bb61-25857d1900ec"
+      ]
+    },
+    "doxepin": {
+      "name": "Low-dose doxepin (Silenor)",
+      "form": "Oral insomnia tablet",
+      "strengths": "3, 6 mg",
+      "sideEffects": "Somnolence, nausea.",
+      "contraindications": "Hypersensitivity; MAOIs within 14 days; untreated narrow-angle glaucoma or severe urinary retention.",
+      "cautions": "Avoid alcohol/CNS depressants; ordinarily not recommended in severe sleep apnea. These doses are not antidepressant-dose doxepin.",
+      "labs": "No routine serum level or universal lab panel.",
+      "monitoring": "Assess next-day sedation, abnormal sleep behaviors, mood and persistent insomnia.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1bec1223-5239-4eb6-a9e8-62444106d2c0"
+      ]
+    },
+    "ramelteon": {
+      "name": "Ramelteon",
+      "form": "Oral tablet",
+      "strengths": "8 mg",
+      "sideEffects": "Somnolence, dizziness, fatigue, nausea.",
+      "contraindications": "Prior ramelteon-associated angioedema; do not combine with fluvoxamine.",
+      "cautions": "Not recommended in severe hepatic impairment or severe sleep apnea; review CNS depressants.",
+      "labs": "No universal routine labs. Prolactin/testosterone assessment for relevant reproductive/endocrine symptoms.",
+      "monitoring": "Assess next-day impairment, abnormal behaviors and response.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00f0fbda-eb62-4f79-ae9c-286b31eca733"
+      ]
+    },
+    "modafinil": {
+      "name": "Modafinil",
+      "form": "Oral tablet",
+      "strengths": "100, 200 mg",
+      "sideEffects": "Headache, nausea, anxiety, insomnia.",
+      "contraindications": "Hypersensitivity to modafinil or armodafinil.",
+      "cautions": "Serious rash; psychiatric/cardiovascular effects; reduces steroidal contraceptive effectiveness during use and for 1 month after. For OSA, does not treat the obstruction.",
+      "labs": "No universal routine labs; hepatic assessment when indicated (severe impairment: half dose).",
+      "monitoring": "Track BP/pulse, psychiatric symptoms, rash, sleepiness and adherence to primary OSA therapy.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a309416-bd6a-45b1-982f-b689b097453d"
+      ]
+    },
+    "gabapentin-enacarbil": {
+      "name": "Gabapentin enacarbil (Horizant)",
+      "form": "Oral extended-release tablet",
+      "strengths": "300, 600 mg",
+      "sideEffects": "Somnolence, dizziness.",
+      "contraindications": "None listed in linked label; this does not mean risk-free.",
+      "cautions": "Respiratory depression with CNS depressants/respiratory disease; suicidality; renal adjustment. Not interchangeable with gabapentin.",
+      "labs": "Renal function for dosing; RLS assessment: ferritin and iron/TIBC-derived transferrin saturation.",
+      "monitoring": "Assess sedation, breathing, driving impairment and mood.",
+      "sources": [
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c486fc7-c8c4-4c6c-b30c-366dabaeaadd",
+        "https://www.irlssg.org/wp-content/uploads/2025/05/Tx-of-RLS-and-PLMD-2025.pdf"
+      ]
+    }
+  },
+  "diagnoses": {
+    "mdd": {
+      "note": "Compare monotherapy options by prior response, comorbidities and patient preference. Augmentation/TRD options are not comprehensively covered.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "sertraline",
+          "target": "Major depressive disorder",
+          "dose": "Start 50 mg orally daily; increase 25–50 mg no more often than weekly if needed; range 50–200 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "escitalopram",
+          "target": "Major depressive disorder",
+          "dose": "10 mg orally daily; maximum 20 mg/day. Adults: wait at least 1 week before an increase; older adults/hepatic impairment: recommended 10 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "fluoxetine",
+          "target": "Major depressive disorder",
+          "dose": "Start 20 mg orally each morning; increase only after several weeks if needed; maximum 80 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "venlafaxine",
+          "target": "Major depressive disorder",
+          "dose": "Start 37.5–75 mg orally daily with food; usual target 75 mg/day, maximum 225 mg/day; use label-specific titration.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "pdd": {
+      "note": "Psychotherapy and medication may be used; dose references below are extrapolated from adult MDD, not a separate labeled PDD regimen.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "sertraline",
+          "target": "Persistent depressive symptoms",
+          "dose": "Start 50 mg orally daily; increase 25–50 mg no more often than weekly if needed; range 50–200 mg/day.",
+          "status": "Off-label for this diagnosis",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "MDD dose reference; establish the depressive syndrome and individualize.",
+          "sources": []
+        },
+        {
+          "drug": "escitalopram",
+          "target": "Persistent depressive symptoms",
+          "dose": "10 mg orally daily; maximum 20 mg/day. Adults: wait at least 1 week before an increase; older adults/hepatic impairment: recommended 10 mg/day.",
+          "status": "Off-label for this diagnosis",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "MDD dose reference; no diagnosis-specific approved regimen shown.",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "bipolar-i": {
+      "note": "Select by episode phase. Antidepressant monotherapy is not an appropriate default for bipolar I depression.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "lithium",
+          "target": "Bipolar I: mania / maintenance",
+          "dose": "Label start 300 mg orally three times/day; adjust using 12-hour troughs. Label goals: acute 0.8–1.2 mEq/L; maintenance 0.8–1.0 mEq/L. Lower individualized starts may be needed.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "lamotrigine",
+          "target": "Bipolar I maintenance (not acute mania)",
+          "dose": "Without valproate or glucuronidation inducers: weeks 1–2, 25 mg/day; 3–4, 50 mg/day; week 5, 100 mg/day; week 6+, 200 mg/day. Other regimens require a different label schedule.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "quetiapine",
+          "target": "Bipolar depressive episode",
+          "dose": "IR bedtime schedule: day 1, 50 mg; day 2, 100 mg; day 3, 200 mg; day 4+, 300 mg/day. Adjust for tolerability/hepatic impairment.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "quetiapine",
+          "target": "Acute bipolar mania",
+          "dose": "Start 50 mg orally twice/day; label escalation to 400 mg/day by day 4; range 400–800 mg/day; maximum 800 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "bipolar-ii": {
+      "note": "Avoid treating hypomania and bipolar depression as the same medication phase. Maintenance choices need separate review.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "quetiapine",
+          "target": "Bipolar depressive episode",
+          "dose": "IR bedtime schedule: day 1, 50 mg; day 2, 100 mg; day 3, 200 mg; day 4+, 300 mg/day. Adjust for tolerability/hepatic impairment.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "cyclothymia": {
+      "note": "No FDA-approved cyclothymia-specific medication. Mood-stabilizer use is off-label and evidence is limited; no standardized cyclothymia dose is supplied.",
+      "coverage": "specialist-review",
+      "options": [],
+      "sources": [
+        "https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/cyclothymic-disorder"
+      ]
+    },
+    "gad": {
+      "note": "Consider CBT and medication according to severity and preference.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "escitalopram",
+          "target": "Generalized anxiety disorder",
+          "dose": "10 mg orally daily; maximum 20 mg/day. Adults: wait at least 1 week before an increase; older adults/hepatic impairment: recommended 10 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "venlafaxine",
+          "target": "Generalized anxiety disorder",
+          "dose": "Start 37.5–75 mg orally daily with food; usual target 75 mg/day, maximum 225 mg/day; use label-specific titration.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "buspirone",
+          "target": "Anxiety / GAD reference",
+          "dose": "Start 7.5 mg orally twice/day; increase total daily dose by 5 mg every 2–3 days if needed; common total 20–30 mg/day divided; maximum 60 mg/day. Take consistently with or without food.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "panic": {
+      "note": "CBT is an option; start antidepressants cautiously and reassess activation.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "sertraline",
+          "target": "Panic disorder",
+          "dose": "Start 25 mg orally daily; increase 25–50 mg no more often than weekly; range 50–200 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "fluoxetine",
+          "target": "Panic disorder",
+          "dose": "Start 10 mg orally daily; after 1 week increase to 20 mg/day; studied range 10–60 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "venlafaxine",
+          "target": "Panic disorder",
+          "dose": "Start 37.5 mg orally daily for 7 days, then 75 mg/day; maximum 225 mg/day; later increases at intervals of at least 7 days.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "social-anxiety": {
+      "note": "Include exposure-based CBT when appropriate.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "sertraline",
+          "target": "Social anxiety disorder",
+          "dose": "Start 25 mg orally daily; increase 25–50 mg no more often than weekly; range 50–200 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "venlafaxine",
+          "target": "Social anxiety disorder",
+          "dose": "75 mg orally once daily with food; higher doses have not shown additional benefit in the linked label.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "phobia": {
+      "note": "Exposure-based treatment is central. No routine medication regimen for the core phobia is supplied; symptom-specific adjuncts require separate assessment.",
+      "coverage": "no-routine-regimen",
+      "options": [],
+      "sources": [
+        "https://www.merckmanuals.com/professional/psychiatric-disorders/anxiety-and-trauma-and-stressor-related-disorders/specific-phobias"
+      ]
+    },
+    "separation": {
+      "note": "CBT and family/school work are important. SSRIs may be considered off-label for pediatric anxiety; age/weight-specific separation-anxiety doses are not yet in this catalog.",
+      "coverage": "specialist-review",
+      "options": [],
+      "sources": [
+        "https://www.jaacap.org/article/S089085672030280X/pdf"
+      ]
+    },
+    "mutism": {
+      "note": "Behavioral, speech-language and school interventions are central. Off-label SSRI use needs specialist assessment; no selective-mutism dosing monograph is included.",
+      "coverage": "specialist-review",
+      "options": [],
+      "sources": [
+        "https://www.asha.org/practice-portal/clinical-topics/selective-mutism/"
+      ]
+    },
+    "ocd": {
+      "note": "Exposure and response prevention is an important treatment option. Adequate trials and augmentation require separate review.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "sertraline",
+          "target": "Obsessive-compulsive disorder",
+          "dose": "Adult start 50 mg orally daily; increase 25–50 mg no more often than weekly; maximum 200 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "fluoxetine",
+          "target": "Obsessive-compulsive disorder",
+          "dose": "Adult start 20 mg orally each morning; recommended 20–60 mg/day, maximum 80 mg/day; increases after several weeks if needed.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "sertraline",
+          "target": "Pediatric OCD",
+          "dose": "Age 6–12: start 25 mg orally daily; age 13–17: 50 mg daily; increase no more often than weekly; maximum 200 mg/day, accounting for lower body weight.",
+          "status": "FDA-labeled",
+          "population": "youth",
+          "age": "Ages 6–17",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "ptsd": {
+      "note": "Trauma-focused psychotherapy is preferred when feasible. This panel does not cover all symptom-targeted adjuncts.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "sertraline",
+          "target": "PTSD",
+          "dose": "Start 25 mg orally daily; increase 25–50 mg no more often than weekly; range 50–200 mg/day.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "venlafaxine",
+          "target": "PTSD",
+          "dose": "VA/DoD reference range 75–300 mg/day orally; individualized initiation/titration. Above 225 mg/day exceeds the linked XR label maximum for its approved anxiety/depression indications.",
+          "status": "Off-label; VA/DoD-supported",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "Off-label PTSD regimen; not the labeled MDD maximum.",
+          "sources": [
+            "https://www.ptsd.va.gov/professional/treat/txessentials/clinician_guide_meds.asp"
+          ]
+        }
+      ],
+      "sources": [
+        "https://www.ptsd.va.gov/professional/treat/txessentials/clinician_guide_meds.asp"
+      ]
+    },
+    "schizophrenia": {
+      "note": "Selected oral options only. First-episode dosing, clozapine, long-acting injectables and treatment resistance require separate assessment.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "aripiprazole",
+          "target": "Schizophrenia",
+          "dose": "Start/target 10–15 mg orally daily; maximum 30 mg/day. Generally wait 2 weeks before increasing.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "risperidone",
+          "target": "Schizophrenia",
+          "dose": "Start 2 mg/day orally; recommended 4–8 mg/day. Titrate individually; higher studied doses are not routine targets.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "quetiapine",
+          "target": "Schizophrenia",
+          "dose": "Start 25 mg orally twice daily; titrate per label to 150–750 mg/day in divided doses; maximum 750 mg/day for this IR label.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "paliperidone",
+          "target": "Schizophrenia",
+          "dose": "6 mg orally once daily; range 3–12 mg/day, maximum 12 mg/day; renal dosing differs. Swallow ER tablets whole.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "schizophreniform": {
+      "note": "Antipsychotic treatment may be used off-label; duration and lower starting doses depend on first-episode tolerability and course. Doses below are schizophrenia-label references, not diagnosis-specific validated regimens.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "aripiprazole",
+          "target": "Psychotic symptoms",
+          "dose": "Start/target 10–15 mg orally daily; maximum 30 mg/day. Generally wait 2 weeks before increasing.",
+          "status": "Off-label for this diagnosis",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "Schizophrenia dose reference; individualize.",
+          "sources": []
+        },
+        {
+          "drug": "risperidone",
+          "target": "Psychotic symptoms",
+          "dose": "Start 2 mg/day orally; recommended 4–8 mg/day. Titrate individually; higher studied doses are not routine targets.",
+          "status": "Off-label for this diagnosis",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "Schizophrenia dose reference; individualize.",
+          "sources": []
+        }
+      ],
+      "sources": [
+        "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizophreniform-disorder"
+      ]
+    },
+    "brief-psychosis": {
+      "note": "Antipsychotic treatment may be used off-label; duration and lower starting doses depend on first-episode tolerability and course. Doses below are schizophrenia-label references, not diagnosis-specific validated regimens.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "aripiprazole",
+          "target": "Psychotic symptoms",
+          "dose": "Start/target 10–15 mg orally daily; maximum 30 mg/day. Generally wait 2 weeks before increasing.",
+          "status": "Off-label for this diagnosis",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "Schizophrenia dose reference; individualize.",
+          "sources": []
+        },
+        {
+          "drug": "risperidone",
+          "target": "Psychotic symptoms",
+          "dose": "Start 2 mg/day orally; recommended 4–8 mg/day. Titrate individually; higher studied doses are not routine targets.",
+          "status": "Off-label for this diagnosis",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "Schizophrenia dose reference; individualize.",
+          "sources": []
+        }
+      ],
+      "sources": [
+        "https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/brief-psychotic-disorder"
+      ]
+    },
+    "schizoaffective": {
+      "note": "Select treatment for both psychosis and the mood component; bipolar versus depressive type matters.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "paliperidone",
+          "target": "Schizoaffective disorder",
+          "dose": "6 mg orally once daily; range 3–12 mg/day, maximum 12 mg/day; renal adjustments apply. Monotherapy or adjunctive use per label.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "adhd": {
+      "note": "Selected formulations only. Assess cardiovascular history, misuse risk and coexisting conditions.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "concerta",
+          "target": "ADHD",
+          "dose": "Adults 18–65 new to methylphenidate: 18 or 36 mg orally each morning; increase 18 mg at weekly intervals; range 18–72 mg/day; swallow whole.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "lisdexamfetamine",
+          "target": "ADHD",
+          "dose": "Start 30 mg orally each morning; increase by 10–20 mg at weekly intervals; range 30–70 mg/day, maximum 70 mg/day; renal limits apply.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "atomoxetine",
+          "target": "ADHD",
+          "dose": "Adults: 40 mg/day orally, target 80 mg/day after at least 3 days; if needed after another 2–4 weeks, maximum 100 mg/day. CYP2D6/hepatic factors require slower/lower dosing.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "clonidine-er",
+          "target": "Pediatric ADHD",
+          "dose": "Start 0.1 mg orally at bedtime for 1 week; increase 0.1 mg/day at weekly intervals to at most 0.4 mg/day. Above 0.1 mg/day divide AM/bedtime with equal or larger bedtime portion. Taper by no more than 0.1 mg every 3–7 days.",
+          "status": "FDA-labeled pediatric evidence",
+          "population": "youth",
+          "age": "Ages 6–17",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "autism": {
+      "note": "Medication does not treat the core features. The pediatric options below target clinically significant irritability associated with autism; psychosocial assessment and support remain central.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "aripiprazole",
+          "target": "Irritability associated with autistic disorder",
+          "dose": "Start 2 mg orally daily; increase to 5 mg/day, then 10 or 15 mg/day if needed at intervals of at least 1 week; recommended 5–15 mg/day.",
+          "status": "FDA-labeled symptom target",
+          "population": "youth",
+          "age": "Ages 6–17",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "risperidone",
+          "target": "Irritability associated with autistic disorder",
+          "dose": "Under 20 kg: start 0.25 mg/day; 20 kg or more: 0.5 mg/day orally. After at least 4 days target 0.5 or 1 mg/day respectively; hold at least 14 days before further label-guided increases. Range 0.5–3 mg/day; no data below 15 kg.",
+          "status": "FDA-labeled symptom target",
+          "population": "youth",
+          "age": "Ages 5–16",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": [
+        "https://www.nice.org.uk/guidance/cg142/chapter/Recommendations"
+      ]
+    },
+    "odd": {
+      "note": "Behavioral/parent interventions first. Treat coexisting ADHD or other conditions according to their own assessment; no routine ODD-specific medication regimen.",
+      "coverage": "specialist-review",
+      "options": [],
+      "sources": [
+        "https://www.nice.org.uk/guidance/cg158/chapter/recommendations"
+      ]
+    },
+    "conduct": {
+      "note": "Psychosocial and parent interventions are central. Do not offer medication routinely for conduct problems; severe aggression may warrant short-term specialist treatment after psychosocial nonresponse.",
+      "coverage": "specialist-review",
+      "options": [],
+      "sources": [
+        "https://www.nice.org.uk/guidance/cg158/chapter/recommendations"
+      ]
+    },
+    "dmdd": {
+      "note": "No FDA-approved DMDD-specific medication. Psychotherapy, parent support and treatment of comorbidities guide care; stimulants, antidepressants or atypical antipsychotics may be used off-label for selected targets, with specialist review.",
+      "coverage": "specialist-review",
+      "options": [],
+      "sources": [
+        "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder"
+      ]
+    },
+    "anorexia": {
+      "note": "Nutritional rehabilitation, medical stabilization and eating-disorder therapy are central. Do not use medication as sole treatment. Off-label adjuncts/comorbidities require specialist review. Assess electrolytes, magnesium/phosphate and ECG based on malnutrition, purging and refeeding risk.",
+      "coverage": "specialist-review",
+      "options": [],
+      "sources": [
+        "https://www.nice.org.uk/guidance/ng69/chapter/recommendations"
+      ]
+    },
+    "bulimia": {
+      "note": "Medication complements eating-disorder treatment. Review electrolytes and ECG risk with purging. Bupropion is contraindicated with current/prior bulimia or anorexia.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "fluoxetine",
+          "target": "Bulimia nervosa",
+          "dose": "60 mg orally each morning; some patients require gradual titration to this dose.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": [
+        "https://www.nice.org.uk/guidance/ng69/chapter/recommendations",
+        "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=434aacf8-87f1-44fc-a66b-92ae0022de0e"
+      ]
+    },
+    "bed": {
+      "note": "Psychotherapy remains important. The stimulant reference is for moderate-to-severe BED in adults and is not a weight-loss treatment.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "lisdexamfetamine",
+          "target": "Moderate-to-severe binge-eating disorder",
+          "dose": "Start 30 mg orally each morning; increase by 20 mg at roughly weekly intervals; target 50–70 mg/day, maximum 70 mg/day. Stop if binge eating does not improve.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "insomnia": {
+      "note": "CBT-I is first-line. Match sleep-onset versus sleep-maintenance problems; assess sleep apnea and other causes.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "doxepin",
+          "target": "Sleep-maintenance insomnia",
+          "dose": "Adults: 6 mg orally within 30 minutes of bedtime (3 mg may suit some); older adults start 3 mg; maximum 6 mg/day. Avoid within 3 hours of food.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        },
+        {
+          "drug": "ramelteon",
+          "target": "Sleep-onset insomnia",
+          "dose": "8 mg orally within 30 minutes of bedtime; maximum 8 mg/day; avoid with or immediately after a high-fat meal.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "circadian": {
+      "note": "Timing-directed light, schedule and sometimes melatonin depend on subtype. No universal melatonin dose/timing fits all circadian disorders. The option below applies only to diagnosed shift-work disorder with excessive sleepiness.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "modafinil",
+          "target": "Excessive sleepiness associated with shift-work disorder",
+          "dose": "200 mg orally about 1 hour before the work shift. Not a general circadian phase-resetting treatment.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "narcolepsy": {
+      "note": "Selected wake-promoting reference only. Cataplexy and other symptoms require sleep-specialist management; other approved treatments are not yet cataloged.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "modafinil",
+          "target": "Excessive sleepiness in narcolepsy",
+          "dose": "200 mg orally once each morning. Severe hepatic impairment: half the recommended dose.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "osa": {
+      "note": "Treat the obstruction (e.g., PAP) first. This adjunct treats residual excessive sleepiness, not airway obstruction; confirm adequate primary treatment.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "modafinil",
+          "target": "Residual excessive sleepiness associated with OSA",
+          "dose": "200 mg orally each morning; not a substitute for effective treatment of the obstruction.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": []
+    },
+    "rls": {
+      "note": "Assess iron status and aggravating medications/sleep apnea. Iron replacement and other alpha-2-delta ligands need separate clinical dosing review.",
+      "coverage": "selected",
+      "options": [
+        {
+          "drug": "gabapentin-enacarbil",
+          "target": "Moderate-to-severe primary RLS",
+          "dose": "600 mg orally once daily around 5 PM with food; renal adjustment required. Swallow whole. Higher RLS doses add adverse effects without added benefit.",
+          "status": "FDA-labeled",
+          "population": "adult",
+          "age": "Adults",
+          "notes": "",
+          "sources": []
+        }
+      ],
+      "sources": [
+        "https://www.irlssg.org/wp-content/uploads/2025/05/Tx-of-RLS-and-PLMD-2025.pdf"
+      ]
+    }
+  }
+}
