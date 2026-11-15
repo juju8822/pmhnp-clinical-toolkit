@@ -105,3 +105,10 @@ Transcripts use a conservative local phrase matcher. Matches in affirmative curr
 Use the card search and progress filter to focus the board. Card checks and rationale are included in JSON review export, which also supports manual review without extraction. A custom checklist cannot enable the old default diagnostic mapping by reusing the default name/version.
 
 Validation: `npm install` then `npm test` runs the existing code/data checks plus 22 simulated-DOM card-workflow checks. `jsdom` is used only for development tests, not by the offline app. These checks are not visual browser testing or clinical validation.
+
+
+## Diagnosis-specific timeframes — November 14, 2026
+
+All 30 assessment cards now show a prominent **Timeframe & course** section with paraphrased duration, frequency, developmental-onset, and relevant course/subtype details. The previously generic course checkbox appears beside that information and is required before green. Transcript matching never confirms the timeframe automatically. Timing references are linked on each card, and the displayed requirements and confirmation state are included in JSON exports. Conditions without a fixed minimum duration say so; subtype look-back periods are distinguished from core diagnostic duration.
+
+This adds timing reference information, not a validated duration calculator or a full licensed DSM criteria engine. The clinician must verify the complete criteria and their applicability. Validation now includes 27 simulated-DOM workflow checks plus the existing syntax/data checks; visual browser and clinical validation remain outstanding.
