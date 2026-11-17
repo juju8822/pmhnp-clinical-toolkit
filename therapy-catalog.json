@@ -1,0 +1,912 @@
+{
+  "version": "0.6-therapy-directory",
+  "checked": "2026-11-17",
+  "scope": "Selected modalities and evidence, not an exhaustive guideline or therapist-training manual. Patient handouts and discussion prompts are original supportive materials, not validated standalone treatments or reproduced proprietary worksheets.",
+  "sources": {
+    "depression": {
+      "title": "NICE NG222: Depression in adults—treatment and management",
+      "year": "2022",
+      "type": "Clinical guideline",
+      "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+    },
+    "anxiety": {
+      "title": "NICE CG113: Generalised anxiety and panic disorder in adults",
+      "year": "2011; amended 2020",
+      "type": "Clinical guideline",
+      "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
+    },
+    "social": {
+      "title": "NICE CG159: Social anxiety disorder",
+      "year": "2013",
+      "type": "Clinical guideline",
+      "url": "https://www.nice.org.uk/guidance/cg159/chapter/recommendations"
+    },
+    "ocd": {
+      "title": "NICE CG31: Obsessive-compulsive disorder and body dysmorphic disorder",
+      "year": "2005",
+      "type": "Clinical guideline",
+      "url": "https://www.nice.org.uk/guidance/cg31/chapter/Recommendations"
+    },
+    "bpd": {
+      "title": "NIMH: Borderline Personality Disorder",
+      "year": "Current official overview",
+      "type": "Clinical education",
+      "url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder"
+    },
+    "dbttrial": {
+      "title": "Linehan et al.: DBT versus therapy by experts for suicidal behaviors and BPD",
+      "year": "2006",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16818865/"
+    },
+    "acttrial": {
+      "title": "Arch et al.: CBT versus ACT for mixed anxiety disorders",
+      "year": "2012",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22563639/"
+    },
+    "batrial": {
+      "title": "Richards et al.: COBRA—behavioral activation versus CBT for depression",
+      "year": "2016",
+      "type": "Randomized noninferiority trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27461440/"
+    },
+    "ipttrial": {
+      "title": "Elkin et al.: NIMH Treatment of Depression Collaborative Research Program",
+      "year": "1989",
+      "type": "Randomized multicenter trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2684085/"
+    },
+    "ptsd": {
+      "title": "VA National Center for PTSD: Overview of Psychotherapy for PTSD (2023 VA/DoD guideline)",
+      "year": "2023 guideline",
+      "type": "Guideline synthesis",
+      "url": "https://www.ptsd.va.gov/professional/treat/txessentials/overview_therapy.asp"
+    },
+    "ptsdtrial": {
+      "title": "Schnurr et al.: Prolonged Exposure versus Cognitive Processing Therapy in US veterans",
+      "year": "2022",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35044471/"
+    },
+    "emdrtrial": {
+      "title": "van der Kolk et al.: EMDR, fluoxetine and pill placebo for PTSD",
+      "year": "2007",
+      "type": "Randomized trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17284128/"
+    },
+    "cptpatient": {
+      "title": "VA: Cognitive Processing Therapy for PTSD",
+      "year": "Current official overview",
+      "type": "Patient education",
+      "url": "https://www.ptsd.va.gov/understand_tx/cognitive_processing.asp"
+    },
+    "pepatient": {
+      "title": "VA: Prolonged Exposure for PTSD",
+      "year": "Current official overview",
+      "type": "Patient education",
+      "url": "https://www.ptsd.va.gov/understand_tx/prolonged_exposure.asp"
+    },
+    "emdrpatient": {
+      "title": "VA: EMDR for PTSD",
+      "year": "Current official overview",
+      "type": "Patient education",
+      "url": "https://www.ptsd.va.gov/understand_tx/emdr.asp"
+    },
+    "sleep": {
+      "title": "Edinger et al.: AASM behavioral and psychological treatments for chronic insomnia",
+      "year": "2021",
+      "type": "Clinical practice guideline",
+      "url": "https://doi.org/10.5664/jcsm.8986"
+    },
+    "sleeppatient": {
+      "title": "AASM: Patient guide to behavioral and psychological insomnia treatments",
+      "year": "2021",
+      "type": "Patient education",
+      "url": "https://aasm.org/wp-content/uploads/2021/08/Behavioral-and-Psychological-Treatments-for-Insomnia-Patient-Guide.pdf"
+    },
+    "mi": {
+      "title": "SAMHSA: Using Motivational Interviewing in Substance Use Disorder Treatment",
+      "year": "2020",
+      "type": "Practice advisory",
+      "url": "https://www.samhsa.gov/sites/default/files/PEP20-02-02-014.pdf"
+    },
+    "mitrial": {
+      "title": "Carroll et al.: MI to improve substance-use treatment engagement and outcome",
+      "year": "2006",
+      "type": "Randomized multisite trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16169159/"
+    },
+    "psychosis": {
+      "title": "NICE CG178: Psychosis and schizophrenia in adults",
+      "year": "2014",
+      "type": "Clinical guideline",
+      "url": "https://www.nice.org.uk/guidance/cg178/chapter/recommendations"
+    },
+    "bipolar": {
+      "title": "NICE CG185: Bipolar disorder—assessment and management",
+      "year": "2014",
+      "type": "Clinical guideline",
+      "url": "https://www.nice.org.uk/guidance/cg185/chapter/Recommendations"
+    },
+    "parent": {
+      "title": "CDC: Parent training in behavior management for ADHD",
+      "year": "2026 page update",
+      "type": "Clinical guidance",
+      "url": "https://www.cdc.gov/adhd/treatment/behavior-therapy.html/"
+    },
+    "conduct": {
+      "title": "NICE CG158: Antisocial behavior and conduct disorders in children",
+      "year": "2013",
+      "type": "Clinical guideline",
+      "url": "https://www.nice.org.uk/guidance/cg158/chapter/Recommendations"
+    }
+  },
+  "modalities": [
+    {
+      "id": "cbt",
+      "short": "CBT",
+      "name": "Cognitive behavioral therapy",
+      "aliases": [],
+      "targets": [
+        "Major depressive disorder",
+        "Generalized anxiety disorder",
+        "Panic disorder",
+        "Social anxiety disorder"
+      ],
+      "diagnosisIds": [
+        "mdd",
+        "gad",
+        "panic",
+        "social-anxiety"
+      ],
+      "population": "Adults; children/adolescents need developmentally adapted protocols",
+      "overview": "CBT helps people notice links among thoughts, feelings and actions, then test more helpful ways of responding.",
+      "approach": "Use a diagnosis-specific formulation, collaborative goals and planned practice. Depression, worry, social fears and panic use different protocols.",
+      "guardrail": "A short thought record supports therapy; it is not a complete CBT course. Do not dismiss real adversity or interpret every distressing thought as inaccurate.",
+      "handout": {
+        "title": "A thought is a starting point, not a verdict",
+        "steps": [
+          "Choose a mild everyday situation to practice with. Describe what happened without deciding what it means.",
+          "Name the feeling and the first thought that appeared. Ask what supports the thought and what might point to another explanation.",
+          "Write a balanced response and choose one small useful action. Bring what you learned to your therapist."
+        ],
+        "prompts": [
+          "What happened, and what did I first think?",
+          "What is a fairer way to look at this?",
+          "What small action will I try, and what did I notice?"
+        ],
+        "example": "A friend has not replied. “They may be busy; I do not yet know why.” I can continue my activity and check in later."
+      },
+      "discussion": [
+        "Which situation should we work on first?",
+        "How will we tell whether the practice helps my daily life?",
+        "Does the thought reflect a real safety problem that needs action?"
+      ],
+      "evidence": [
+        {
+          "source": "depression",
+          "summary": "CBT is a guideline treatment option for adult depression.",
+          "limits": "Choice depends on severity, preference and clinical context."
+        },
+        {
+          "source": "anxiety",
+          "summary": "Diagnosis-specific CBT is recommended for adult GAD and panic.",
+          "limits": "A general worksheet is not the full tested protocol."
+        }
+      ]
+    },
+    {
+      "id": "dbt",
+      "short": "DBT",
+      "name": "Dialectical behavior therapy",
+      "aliases": [],
+      "targets": [
+        "Borderline personality disorder",
+        "Recurrent self-harm and emotion dysregulation"
+      ],
+      "diagnosisIds": [],
+      "population": "Evidence highlighted here: adults with BPD; adapted programs exist",
+      "overview": "DBT balances acceptance with change. A full program helps people build skills for intense emotions, relationships and reducing harmful behaviors.",
+      "approach": "Comprehensive DBT can include individual therapy, skills training, between-session coaching and a therapist consultation team.",
+      "guardrail": "A single coping skill is not comprehensive DBT and does not replace an individualized safety plan. Use the agreed urgent-care plan if safety worsens.",
+      "handout": {
+        "title": "Pause, name, choose",
+        "steps": [
+          "Practice first with a mild frustration. Pause and put both feet on the floor if that feels comfortable.",
+          "Name the emotion and urge without judging yourself: “I feel angry, and I want to send a harsh message.”",
+          "Choose one action that protects your longer-term goal. Write down a support or care-plan step if distress rises."
+        ],
+        "prompts": [
+          "What feeling and urge am I noticing?",
+          "What action fits my longer-term goal?",
+          "Who or what can support me if this gets harder?"
+        ],
+        "example": "I can wait before replying and draft a clear request. I can review the message with my therapist."
+      },
+      "discussion": [
+        "Would comprehensive DBT fit my needs?",
+        "What is our plan for between-session coaching?",
+        "How does this skill fit my existing safety plan?"
+      ],
+      "evidence": [
+        {
+          "source": "bpd",
+          "summary": "DBT is a psychotherapy used for BPD and emotion/relationship skills.",
+          "limits": "Applications outside BPD need condition-specific evidence."
+        },
+        {
+          "source": "dbttrial",
+          "summary": "Comprehensive DBT improved several self-harm and service-use outcomes versus expert community therapy in women with BPD.",
+          "limits": "A sustained program in a selected population; not proof that an isolated handout produces those outcomes."
+        }
+      ]
+    },
+    {
+      "id": "act",
+      "short": "ACT",
+      "name": "Acceptance and commitment therapy",
+      "aliases": [
+        "values",
+        "acceptance",
+        "psychological flexibility"
+      ],
+      "targets": [
+        "Anxiety disorders",
+        "Avoidance that interferes with valued activities"
+      ],
+      "diagnosisIds": [
+        "gad",
+        "panic",
+        "social-anxiety"
+      ],
+      "population": "Adults with anxiety disorders in the cited trial",
+      "overview": "ACT helps people make room for difficult inner experiences while moving toward what matters to them.",
+      "approach": "Clarify values, notice thoughts without treating them as commands, and plan workable actions. ACT may include exposure and other behavioral practice.",
+      "guardrail": "Acceptance does not mean accepting abuse, danger or untreated medical symptoms. The trial does not establish superiority across diagnoses.",
+      "handout": {
+        "title": "One value, one small step",
+        "steps": [
+          "Name something important to you, such as friendship, learning or caring for yourself.",
+          "Choose one manageable action that expresses that value. Notice a thought or feeling that may come along.",
+          "Try saying, “I am noticing the thought that…” Then take the agreed small step, allowing room for discomfort."
+        ],
+        "prompts": [
+          "What matters to me in this situation?",
+          "What thought or feeling might show up?",
+          "What is one workable next step?"
+        ],
+        "example": "Friendship matters. I can send one kind message even while noticing the thought that I may be rejected."
+      },
+      "discussion": [
+        "What is a value rather than a goal I must finish?",
+        "How can I tell willingness from pushing too hard?",
+        "Does an exposure plan need adjustment with my therapist?"
+      ],
+      "evidence": [
+        {
+          "source": "acttrial",
+          "summary": "ACT and CBT both improved outcomes in adults with mixed anxiety disorders.",
+          "limits": "Results varied by outcome/follow-up; both treatments included exposure. This is not a universal superiority finding."
+        }
+      ]
+    },
+    {
+      "id": "ipt",
+      "short": "IPT",
+      "name": "Interpersonal psychotherapy",
+      "aliases": [],
+      "targets": [
+        "Major depressive disorder",
+        "Depression linked to grief, relationship disputes or role transitions"
+      ],
+      "diagnosisIds": [
+        "mdd"
+      ],
+      "population": "Adult depression; adapted protocols required for other populations",
+      "overview": "IPT focuses on the connection between current relationships, life changes and depressive symptoms.",
+      "approach": "Therapist and patient choose an interpersonal focus, explore emotions and communication, and practice ways to seek support.",
+      "guardrail": "Grief is not automatically a psychiatric diagnosis. Do not start a difficult conversation where coercion, violence or retaliation is a concern.",
+      "handout": {
+        "title": "Prepare one supportive conversation",
+        "steps": [
+          "Name a current relationship stressor or life change. Describe one recent interaction.",
+          "Write what you felt and what support or change you need. Consider what the other person may have understood.",
+          "Prepare one clear, respectful request. Decide with your therapist whether and when to use it."
+        ],
+        "prompts": [
+          "Which relationship or role change is affecting my mood?",
+          "What do I want the other person to understand?",
+          "What is one specific request or source of support?"
+        ],
+        "example": "“Since my work hours changed, I have felt isolated. Could we plan a short call on Sunday?”"
+      },
+      "discussion": [
+        "Which interpersonal focus fits my depression?",
+        "What support is missing during this transition?",
+        "Would practicing the conversation in session help?"
+      ],
+      "evidence": [
+        {
+          "source": "depression",
+          "summary": "IPT is an adult depression treatment option, especially when relationships or roles are relevant.",
+          "limits": "Requires a trained therapist and a structured approach."
+        },
+        {
+          "source": "ipttrial",
+          "summary": "The NIMH depression trial compared IPT, CBT and medication/placebo conditions.",
+          "limits": "Primary findings did not show uniform superiority of IPT over other active treatments; recovery/severity analyses varied."
+        }
+      ]
+    },
+    {
+      "id": "ba",
+      "short": "BA",
+      "name": "Behavioral activation",
+      "aliases": [],
+      "targets": [
+        "Major depressive disorder",
+        "Depressive withdrawal and avoidance"
+      ],
+      "diagnosisIds": [
+        "mdd"
+      ],
+      "population": "Adults with depression",
+      "overview": "Behavioral activation builds small, meaningful activities into life when low mood and avoidance have reduced them.",
+      "approach": "Notice avoidance patterns, choose activities for enjoyment, connection or accomplishment, and review what happens rather than waiting for motivation.",
+      "guardrail": "Plan around physical limitations and energy. This is not advice to overexercise or to increase activity during mania; bipolar presentations need an adapted plan.",
+      "handout": {
+        "title": "A five-minute activity plan",
+        "steps": [
+          "Pick one small activity for enjoyment, connection or accomplishment. Make the first step small enough to start.",
+          "Choose when and where to try it and what might get in the way. Adjust the plan if it is too large.",
+          "Notice mood or energy before and after. Review the pattern with your therapist without judging one day as success or failure."
+        ],
+        "prompts": [
+          "What small activity will I try, and when?",
+          "What obstacle can I plan around?",
+          "What did I notice before and after?"
+        ],
+        "example": "At 4 PM I will sit outside for five minutes. If it rains, I will sit by a window and message a friend."
+      },
+      "discussion": [
+        "Which activities connect with what matters to me?",
+        "Is this plan manageable with my health and energy?",
+        "What should we change if avoidance continues?"
+      ],
+      "evidence": [
+        {
+          "source": "depression",
+          "summary": "BA is an adult depression treatment option.",
+          "limits": "Match the plan to severity and patient preference."
+        },
+        {
+          "source": "batrial",
+          "summary": "COBRA found trained-worker BA noninferior to CBT for adult MDD at 12 months.",
+          "limits": "Trial exclusions included bipolar disorder, psychosis, acute suicidality and substance dependence; do not generalize automatically."
+        }
+      ]
+    },
+    {
+      "id": "erp",
+      "short": "ERP",
+      "name": "Exposure and response prevention",
+      "aliases": [
+        "obsessions",
+        "compulsions",
+        "rituals"
+      ],
+      "targets": [
+        "Obsessive-compulsive disorder"
+      ],
+      "diagnosisIds": [
+        "ocd"
+      ],
+      "population": "Adults and youth with age-adapted OCD treatment",
+      "overview": "ERP helps people approach OCD triggers while reducing compulsions, reassurance and mental rituals that keep the cycle going.",
+      "approach": "Build an individualized, gradual practice plan with an OCD-trained clinician. Practice learning to tolerate uncertainty, not proving that nothing bad can ever happen.",
+      "guardrail": "Use only therapist-agreed practice. Do not create real contamination, medical, legal or other danger; do not skip necessary medical precautions or change medication.",
+      "handout": {
+        "title": "Know your OCD loop",
+        "steps": [
+          "Notice one trigger, the uncertainty it brings, and the action you feel driven to do. Include mental checking or repeated reassurance if relevant.",
+          "Write the exact small practice your therapist has approved, including which ritual you will work on reducing.",
+          "Record what you learned about handling uncertainty. Ask your therapist how to respond when a new ritual or avoidance appears."
+        ],
+        "prompts": [
+          "Trigger → worry/uncertainty → ritual: what is my loop?",
+          "What practice has my therapist agreed is safe?",
+          "What did I learn, and what will I ask at the next session?"
+        ],
+        "example": "If agreed with my therapist, I may send an ordinary message after one review rather than repeatedly rereading it."
+      },
+      "discussion": [
+        "Which actions are ordinary care and which are OCD rituals?",
+        "Am I using reassurance as another compulsion?",
+        "How should family members support the agreed plan?"
+      ],
+      "evidence": [
+        {
+          "source": "ocd",
+          "summary": "CBT including ERP is recommended for OCD, with intensity matched to impairment.",
+          "limits": "Trained delivery, assessment and supervision matter; generic exposure is not automatically ERP."
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "short": "Exposure",
+      "name": "Exposure-based CBT for anxiety",
+      "aliases": [
+        "phobia",
+        "fear ladder",
+        "avoidance"
+      ],
+      "targets": [
+        "Specific phobia",
+        "Social anxiety disorder",
+        "Panic disorder",
+        "Separation anxiety disorder"
+      ],
+      "diagnosisIds": [
+        "phobia",
+        "social-anxiety",
+        "panic",
+        "separation"
+      ],
+      "population": "Adults; child/adolescent plans need developmentally adapted care",
+      "overview": "Exposure-based CBT builds new learning by gradually approaching safe situations that anxiety has led someone to avoid.",
+      "approach": "Choose an anxiety-specific plan and reduce unhelpful safety behaviors. Interoceptive exposure for panic and trauma-memory exposure are distinct, clinician-guided practices.",
+      "guardrail": "Practice must be safe and consensual. Do not use flooding or approach actual hazards. Do not induce physical panic sensations without clinical assessment and an agreed plan.",
+      "handout": {
+        "title": "Plan a safe approach step",
+        "steps": [
+          "Name one everyday situation anxiety has made smaller. Ask your therapist whether it is suitable for practice.",
+          "Choose a manageable, safe approach step and a learning question. Agree what support or safety behaviors to adjust.",
+          "Afterward, write what happened and what you learned. Progress is about learning and participation, not reaching zero anxiety."
+        ],
+        "prompts": [
+          "What safe situation would I like to approach?",
+          "What exact step and learning question have we agreed?",
+          "What happened, and what shall we adjust?"
+        ],
+        "example": "For social anxiety, an agreed first step might be asking a familiar shop worker one ordinary question."
+      },
+      "discussion": [
+        "Is this task an anxiety fear or an actual safety issue?",
+        "What will count as useful learning?",
+        "How will we adapt this for age, disability or medical conditions?"
+      ],
+      "evidence": [
+        {
+          "source": "social",
+          "summary": "Individual, disorder-specific CBT for social anxiety includes exposure-related learning.",
+          "limits": "Not a recommendation to use one exposure worksheet for all anxiety disorders."
+        },
+        {
+          "source": "anxiety",
+          "summary": "CBT is recommended for panic/GAD; select the relevant protocol.",
+          "limits": "Medical assessment and therapist planning are needed for physical-sensation exercises."
+        }
+      ]
+    },
+    {
+      "id": "cpt",
+      "short": "CPT",
+      "name": "Cognitive processing therapy",
+      "aliases": [],
+      "targets": [
+        "Posttraumatic stress disorder"
+      ],
+      "diagnosisIds": [
+        "ptsd"
+      ],
+      "population": "PTSD; evidence highlighted here largely adults",
+      "overview": "CPT is a trauma-focused therapy that helps a person evaluate beliefs about the trauma and its impact on safety, trust, control, esteem and closeness.",
+      "approach": "A CPT-trained therapist guides the work. Session practice examines meanings and beliefs rather than requiring the person to blame themselves or forget the event.",
+      "guardrail": "This page is preparation and support, not trauma processing. Do not write a detailed trauma account or force re-exposure as a self-help task.",
+      "handout": {
+        "title": "Questions I can bring to CPT",
+        "steps": [
+          "Decide what you want to understand about treatment. You do not need to record trauma details here.",
+          "Notice a broad belief that gets in the way today, such as “I can never trust my judgment.” You may leave this blank.",
+          "Write one question for your therapist and one support you can use before or after sessions."
+        ],
+        "prompts": [
+          "What would I like to know before starting?",
+          "What belief or daily difficulty could I discuss, without event details?",
+          "What support or agreed care-plan step helps between sessions?"
+        ],
+        "example": "“How will we work on self-blame, and what should I do if practice feels overwhelming?”"
+      },
+      "discussion": [
+        "How does CPT fit my goals and preferences?",
+        "What practice is specifically agreed for this week?",
+        "How will we monitor distress and functioning?"
+      ],
+      "evidence": [
+        {
+          "source": "ptsd",
+          "summary": "CPT is among recommended trauma-focused PTSD psychotherapies.",
+          "limits": "A preparation handout is not the tested therapy."
+        },
+        {
+          "source": "ptsdtrial",
+          "summary": "A large veteran trial directly compared CPT with PE.",
+          "limits": "Both were structured treatments; comparative effects and dropout do not determine the best fit for every patient."
+        },
+        {
+          "source": "cptpatient",
+          "summary": "VA explains what patients can expect in CPT.",
+          "limits": "Education source, not an independent efficacy trial."
+        }
+      ]
+    },
+    {
+      "id": "pe",
+      "short": "PE",
+      "name": "Prolonged exposure therapy",
+      "aliases": [],
+      "targets": [
+        "Posttraumatic stress disorder"
+      ],
+      "diagnosisIds": [
+        "ptsd"
+      ],
+      "population": "PTSD; evidence highlighted here largely adults",
+      "overview": "PE is a structured trauma-focused therapy that addresses avoidance of trauma memories and safe reminders.",
+      "approach": "A trained therapist guides imaginal work and practice with safe situations. The plan is collaborative and includes monitoring and review.",
+      "guardrail": "Do not use this page to retell a trauma, replay recordings or design trauma exposure on your own. Those activities require a therapist-agreed plan.",
+      "handout": {
+        "title": "My PE session-support plan",
+        "steps": [
+          "List questions about the treatment and any practical barriers such as time, privacy or transportation. Leave out trauma details.",
+          "Choose a calming routine or support contact for after the session, consistent with the treatment plan.",
+          "Record only the between-session task assigned by your therapist and any questions to bring back."
+        ],
+        "prompts": [
+          "What do I want clarified before a session?",
+          "What practical support will help me attend and recover afterward?",
+          "What task was assigned, and what do I need to review?"
+        ],
+        "example": "I can arrange a quiet period after the session and ask my therapist how to handle a difficult practice day."
+      },
+      "discussion": [
+        "How do we distinguish safe reminders from current danger?",
+        "What should I do if the assigned task is too difficult?",
+        "How will we coordinate treatment with other health needs?"
+      ],
+      "evidence": [
+        {
+          "source": "ptsd",
+          "summary": "PE is a recommended trauma-focused PTSD treatment.",
+          "limits": "Exposure requires trained, individualized delivery."
+        },
+        {
+          "source": "ptsdtrial",
+          "summary": "The veteran PE/CPT trial informs comparison of two established PTSD treatments.",
+          "limits": "Results from veterans and structured protocols do not validate unsupervised trauma exercises."
+        },
+        {
+          "source": "pepatient",
+          "summary": "VA describes the patient experience of PE.",
+          "limits": "Education rather than a stand-alone treatment manual."
+        }
+      ]
+    },
+    {
+      "id": "emdr",
+      "short": "EMDR",
+      "name": "Eye movement desensitization and reprocessing",
+      "aliases": [],
+      "targets": [
+        "Posttraumatic stress disorder"
+      ],
+      "diagnosisIds": [
+        "ptsd"
+      ],
+      "population": "PTSD; cited trial in adults",
+      "overview": "EMDR is a structured trauma-focused psychotherapy that combines memory processing with therapist-guided procedures.",
+      "approach": "Treatment includes preparation, assessment, processing and review. Eye movements alone are not the complete therapy.",
+      "guardrail": "No self-directed bilateral-stimulation or trauma-reprocessing instructions are provided. Processing should be guided by an appropriately trained clinician.",
+      "handout": {
+        "title": "Getting ready for an EMDR discussion",
+        "steps": [
+          "Write what you hope could change in daily life. You do not need to describe the traumatic event.",
+          "List questions about preparation, pacing and how to signal that you need a pause.",
+          "Agree with the therapist on a simple between-session support plan and how to report new or difficult reactions."
+        ],
+        "prompts": [
+          "What everyday change matters to me?",
+          "What do I need to understand about pacing and pauses?",
+          "What support and follow-up plan have we agreed?"
+        ],
+        "example": "“How will we know I am ready to begin processing, and how can I ask to pause?”"
+      },
+      "discussion": [
+        "What training and approach will my therapist use?",
+        "What does preparation look like for me?",
+        "Which between-session practices are appropriate?"
+      ],
+      "evidence": [
+        {
+          "source": "ptsd",
+          "summary": "EMDR is a recommended trauma-focused PTSD psychotherapy.",
+          "limits": "Recommendation concerns a complete protocol, not eye movements in isolation."
+        },
+        {
+          "source": "emdrtrial",
+          "summary": "An adult PTSD trial found sustained benefits in EMDR, especially for adult-onset trauma.",
+          "limits": "Small study with differential results by trauma onset; not proof of universal superiority."
+        },
+        {
+          "source": "emdrpatient",
+          "summary": "VA explains EMDR to patients.",
+          "limits": "Education source, not an independent trial."
+        }
+      ]
+    },
+    {
+      "id": "cbt-i",
+      "short": "CBT-I",
+      "name": "Cognitive behavioral therapy for insomnia",
+      "aliases": [
+        "sleep",
+        "sleep hygiene",
+        "sleep diary"
+      ],
+      "targets": [
+        "Insomnia disorder"
+      ],
+      "diagnosisIds": [
+        "insomnia"
+      ],
+      "population": "Adults with chronic insomnia; adaptations may be needed",
+      "overview": "CBT-I treats the thoughts and habits that maintain insomnia. It is more than general sleep-hygiene advice.",
+      "approach": "A full program can include stimulus control, cognitive work and carefully tailored time-in-bed changes, with review of other sleep and medical conditions.",
+      "guardrail": "Do not restrict time in bed using this handout. Bipolar disorder, seizure disorders, sleep apnea, significant sleepiness and safety-sensitive work need specific clinical review.",
+      "handout": {
+        "title": "Notice your sleep pattern",
+        "steps": [
+          "For a few days, roughly note bedtime, wake time and how rested you felt. Estimates are enough; avoid clock-watching overnight.",
+          "Choose one gentle routine to discuss, such as a predictable wind-down or a consistent wake time that fits your care plan.",
+          "Bring the pattern to your clinician. Ask whether another sleep condition or medication effect needs assessment."
+        ],
+        "prompts": [
+          "What pattern have I noticed without judging my sleep?",
+          "What gentle routine could I discuss trying?",
+          "What daytime sleepiness, snoring or mood change should I report?"
+        ],
+        "example": "I can record a rough morning estimate and discuss a regular wake time; I will not calculate a restricted sleep window myself."
+      },
+      "discussion": [
+        "Is CBT-I appropriate with my other health conditions?",
+        "Do I need evaluation for sleep apnea or another sleep problem?",
+        "Which changes require clinician supervision?"
+      ],
+      "evidence": [
+        {
+          "source": "sleep",
+          "summary": "AASM strongly recommends multicomponent CBT-I for adults with chronic insomnia.",
+          "limits": "Sleep hygiene alone is not an adequate substitute; components require individualization."
+        },
+        {
+          "source": "sleeppatient",
+          "summary": "AASM provides an accessible guide to insomnia therapies.",
+          "limits": "Patient education does not replace a tailored CBT-I plan."
+        }
+      ]
+    },
+    {
+      "id": "mi",
+      "short": "MI",
+      "name": "Motivational interviewing",
+      "aliases": [
+        "addiction",
+        "substance",
+        "alcohol",
+        "ambivalence"
+      ],
+      "targets": [
+        "Substance use disorders",
+        "Ambivalence about a health behavior change"
+      ],
+      "diagnosisIds": [],
+      "population": "SUD care and selected health-behavior goals",
+      "overview": "MI is a collaborative conversation style that helps a person explore their own reasons for change without argument or pressure.",
+      "approach": "Use reflective listening, curiosity and respect for autonomy. MI can support engagement alongside diagnosis-specific treatment.",
+      "guardrail": "MI is not detoxification or a complete addiction treatment. Alcohol or sedative withdrawal may be dangerous; agree medical care before abruptly reducing use.",
+      "handout": {
+        "title": "My reasons, my next step",
+        "steps": [
+          "Choose one behavior you are considering changing. List what you value about it and what concerns you.",
+          "Rate how important change feels from 0 to 10. Ask why your number is not lower and what might increase your confidence.",
+          "Choose a small next step with your clinician and name the support you need. You can discuss uncertainty openly."
+        ],
+        "prompts": [
+          "What do I like, and what concerns me?",
+          "What matters to me about change, and how confident do I feel?",
+          "What small next step and support make sense?"
+        ],
+        "example": "I want more energy for my family. My next step may be discussing treatment choices rather than trying to stop alone."
+      },
+      "discussion": [
+        "What would change make possible in my life?",
+        "What makes change hard or risky?",
+        "Which treatment and practical supports can we explore?"
+      ],
+      "evidence": [
+        {
+          "source": "mi",
+          "summary": "SAMHSA describes MI for motivation and engagement in SUD treatment.",
+          "limits": "It complements a broader treatment plan."
+        },
+        {
+          "source": "mitrial",
+          "summary": "An MI-enhanced intake improved early treatment retention in a multisite SUD trial.",
+          "limits": "Substance-use outcomes were not significantly better in that trial; benefits depend on setting and target."
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "short": "Family",
+      "name": "Family psychoeducation and intervention",
+      "aliases": [
+        "psychoeducation",
+        "relapse prevention",
+        "caregiver"
+      ],
+      "targets": [
+        "Schizophrenia and psychosis",
+        "Bipolar disorder: relapse prevention/support"
+      ],
+      "diagnosisIds": [
+        "schizophrenia",
+        "schizoaffective",
+        "bipolar-i",
+        "bipolar-ii"
+      ],
+      "population": "Patient and chosen supporters, with consent and attention to safety",
+      "overview": "Family intervention builds shared understanding, communication and problem-solving so supporters can help without blame.",
+      "approach": "Coordinate education, early-warning plans and practical responses with the treatment team. Family participation should reflect the patient’s wishes and confidentiality needs.",
+      "guardrail": "Family work is not appropriate for every relationship. Assess coercion, abuse and safety; do not share confidential information without appropriate consent.",
+      "handout": {
+        "title": "A shared support plan",
+        "steps": [
+          "Ask the patient whom they want involved and what information they are comfortable sharing.",
+          "Choose one calm, specific communication goal. Agree one helpful response to an early warning sign.",
+          "Write down the agreed team contact and review date. Do not change medicines or argue about symptoms as part of this exercise."
+        ],
+        "prompts": [
+          "Who is included, and what may we share?",
+          "What early change should we notice, and how can we respond helpfully?",
+          "Who do we contact, and when will we review the plan?"
+        ],
+        "example": "“If sleep changes for several nights, we will ask how things are going and follow the contact plan we agreed with the team.”"
+      },
+      "discussion": [
+        "What support does the patient find helpful or unhelpful?",
+        "What privacy boundaries do we need?",
+        "How will we solve one practical problem together?"
+      ],
+      "evidence": [
+        {
+          "source": "psychosis",
+          "summary": "Family intervention is recommended within adult psychosis care.",
+          "limits": "Not simply asking relatives to monitor or confront the patient."
+        },
+        {
+          "source": "bipolar",
+          "summary": "Family intervention and structured bipolar-specific psychological work are options for longer-term care.",
+          "limits": "Adjunctive support does not replace acute assessment or medication review."
+        }
+      ]
+    },
+    {
+      "id": "parent-training",
+      "short": "Parent skills",
+      "name": "Behavioral parent training",
+      "aliases": [
+        "behavior management",
+        "parent management",
+        "PMT",
+        "PTBM"
+      ],
+      "targets": [
+        "ADHD in children",
+        "Oppositional defiant disorder",
+        "Conduct problems"
+      ],
+      "diagnosisIds": [
+        "adhd",
+        "odd",
+        "conduct"
+      ],
+      "population": "Parents/caregivers; programs matched to child age and needs",
+      "overview": "Parent training helps caregivers build predictable routines, clear instructions and positive reinforcement for behaviors they want to strengthen.",
+      "approach": "Work with a trained provider and coordinate home and school supports. Adapt expectations to developmental, communication and sensory needs.",
+      "guardrail": "Use supportive, non-shaming approaches. Do not withhold basic needs, use physical punishment or interpret disability-related difficulty as deliberate defiance.",
+      "handout": {
+        "title": "Notice and encourage one behavior",
+        "steps": [
+          "Choose one small, observable behavior and make the instruction short and concrete.",
+          "Notice an attempt promptly and use specific praise or a small agreed reward. Make success realistically achievable.",
+          "Record what worked and what got in the way. Discuss changes with the therapist rather than escalating consequences."
+        ],
+        "prompts": [
+          "What exact behavior are we practicing?",
+          "How will I give a clear instruction and notice progress?",
+          "What did we learn about the child’s needs or barriers?"
+        ],
+        "example": "“Please put your shoes by the door.” Then: “You put your shoes in their place—that helped us get ready.”"
+      },
+      "discussion": [
+        "Is the expectation realistic for my child’s development?",
+        "What communication, sensory or learning needs should we adapt for?",
+        "How can home and school use a consistent supportive plan?"
+      ],
+      "evidence": [
+        {
+          "source": "parent",
+          "summary": "Parent-delivered behavior management is recommended, particularly for young children with ADHD.",
+          "limits": "Age matters; generic talk/play therapy is not a substitute for the tested parent approach."
+        },
+        {
+          "source": "conduct",
+          "summary": "NICE recommends parent-training programs for specified younger children with ODD/conduct problems.",
+          "limits": "Match the program to age and severity; this handout is not a complete program."
+        }
+      ]
+    },
+    {
+      "id": "cbt-p",
+      "short": "CBTp",
+      "name": "CBT for psychosis",
+      "aliases": [
+        "psychosis",
+        "hallucinations",
+        "delusions"
+      ],
+      "targets": [
+        "Schizophrenia",
+        "Other psychotic disorders: individualized adjunctive care"
+      ],
+      "diagnosisIds": [
+        "schizophrenia",
+        "schizophreniform",
+        "schizoaffective"
+      ],
+      "population": "Adults with psychosis, alongside coordinated clinical care",
+      "overview": "CBTp works collaboratively on distress, meanings and coping around unusual experiences. It does not require arguing with the person’s beliefs.",
+      "approach": "Focus on the person’s goals, functioning and distress, using a psychosis-adapted formulation and a trained therapist.",
+      "guardrail": "Do not confront beliefs, encourage acting on voices or frame this worksheet as proof that an experience is true or false. Worsening safety or function needs prompt clinical assessment.",
+      "handout": {
+        "title": "What helps when experiences are distressing?",
+        "steps": [
+          "Without judging the experience, notice when distress tends to rise or fall. Leave out details you do not want to record.",
+          "Choose one ordinary coping option already agreed with your team, such as a simple activity or reaching a supportive person.",
+          "Record whether distress or functioning changed and what you want to discuss. Follow the existing care plan if symptoms or safety worsen."
+        ],
+        "prompts": [
+          "What situation affects my distress?",
+          "What team-agreed coping option can I try?",
+          "What changed, and what should my clinician know?"
+        ],
+        "example": "I notice distress is higher when I am alone late at night. I can try the routine agreed with my team and discuss the pattern."
+      },
+      "discussion": [
+        "What daily goal matters most to me?",
+        "Which coping strategies help without increasing risk?",
+        "What changes mean we should contact the treatment team sooner?"
+      ],
+      "evidence": [
+        {
+          "source": "psychosis",
+          "summary": "Individual CBT is recommended as part of adult psychosis care, including first episodes and recurrence.",
+          "limits": "It is an adjunct within coordinated treatment, not a stand-alone confirmation or cure of psychosis."
+        }
+      ]
+    }
+  ]
+}

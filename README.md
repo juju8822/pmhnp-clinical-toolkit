@@ -76,7 +76,7 @@ Run `node test.cjs`. Tests cover keyword boundaries, literal phrase escaping, pr
 
 ## GitHub handoff
 
-Repository: https://github.com/juju8822/pmhnp-clinical-toolkit (private). Never upload real visit text or exported clinical reviews. Use development branches for subsequent work. Add an appropriate source-code license before redistribution.
+Repository: https://github.com/juju8822/pmhnp-clinical-toolkit . Never upload real visit text or exported clinical reviews. Use development branches for subsequent work. Add an appropriate source-code license before redistribution.
 
 
 ## Reference library update — November 13, 2026
@@ -123,3 +123,13 @@ The new `diagnosis-medications.json` catalog contains **19 medications and 47 di
 Cards with no detailed regimen explain the distinction between nonmedication care, off-label specialist treatment, and missing catalog coverage. Examples include core autism features versus pediatric irritability, OSA airway treatment versus residual sleepiness, and phase-specific bipolar treatment. Missing entries do not mean no medication options exist. Complete monographs, interaction screening, a full drug database, patient-specific renal/hepatic/pregnancy adjustments, full pediatric coverage, clozapine/LAIs, and clinical validation remain outside this prototype.
 
 The JSON catalog is also embedded in `index.html` for offline use; keep both synchronized. `npm test` includes existing code/data tests, 27 diagnosis workflow checks, and 12 medication-panel checks. These are simulated-DOM functional checks, not visual browser or clinical validation. No patient data or original source PDFs are included.
+
+## Searchable therapy companions — November 17, 2026
+
+The Therapies tab now includes 15 searchable modalities: CBT, DBT, ACT, IPT, behavioral activation, ERP, exposure-based CBT, CPT, prolonged exposure, EMDR, CBT-I, motivational interviewing, family psychoeducation, behavioral parent training, and CBT for psychosis. Search by therapy, abbreviation, or associated diagnosis. Modality links also appear at the top of Diagnoses, with relevant links on individual diagnosis cards. Links from the clinical workspace open a separate page to preserve memory-only visit work.
+
+Each standalone therapy page has four accessible tabs: Overview & diagnoses, Patient tools & print, Discussion guide, and Evidence & research. The 30 original printable resources (one patient handout and one discussion guide per modality) support shared goals and between-session practice with a therapist. They are not validated standalone treatments or reproductions of proprietary worksheets. Trauma resources focus on preparation/support; CBT-I does not provide unsupervised sleep restriction. Evidence summaries distinguish clinical guidelines, trials, and patient education, with population limits and 23 linked sources. Evidence for full therapies does not validate these companion handouts.
+
+`therapy-catalog.json` is the canonical content dataset; its offline copy is embedded in `index.html`. Run `python3 build-therapies.py` after catalog edits to regenerate the 15 `therapy-*.html` pages, and synchronize the embedded catalog. Keep all HTML pages together when downloading the app; opening `index.html` alone without the other pages will leave therapy links unavailable. Handout notes remain in memory and print as literal text, including long notes. Browser print controls can print or save a PDF using the device's supported print dialog.
+
+`npm test` now runs code/data checks and 51 simulated-DOM workflow checks (27 diagnosis, 12 medication, 12 therapy). Therapy tests cover directory search, diagnosis associations, direct links, all 15 pages, keyboard tabs, source completeness, print targeting, note escaping and clearing, and runtime errors. Browser spot-checks covered the directory, PTSD search, CPT page and tabs. Native print dialog/output, mobile devices and clinical validation remain unverified.
