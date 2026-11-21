@@ -1,0 +1,136 @@
+{
+  "source": "Worksheets.pdf",
+  "compiler": "Eshaa Pitty",
+  "sourceSha256": "9c71a397600ac4357d863fd8f28a428f84039ef5fb0cc7f7a8ddf7f911dd0a1b",
+  "pageCount": 16,
+  "pages": [
+    {
+      "page": 1,
+      "title": "Workbook cover & credits",
+      "description": "About the workbook and its compiler.",
+      "preview": "worksheet-01.html",
+      "pdf": "worksheet-01.pdf",
+      "thumbnail": "worksheet-01.jpg"
+    },
+    {
+      "page": 2,
+      "title": "The Stress Bucket",
+      "description": "A visual page for stressors, coping options and reflection.",
+      "preview": "worksheet-02.html",
+      "pdf": "worksheet-02.pdf",
+      "thumbnail": "worksheet-02.jpg"
+    },
+    {
+      "page": 3,
+      "title": "Exposure Ladder",
+      "description": "A worksheet to plan a graded practice ladder with your therapist.",
+      "preview": "worksheet-03.html",
+      "pdf": "worksheet-03.pdf",
+      "thumbnail": "worksheet-03.jpg"
+    },
+    {
+      "page": 4,
+      "title": "Wheel of Life",
+      "description": "A visual reflection across different areas of life.",
+      "preview": "worksheet-04.html",
+      "pdf": "worksheet-04.pdf",
+      "thumbnail": "worksheet-04.jpg"
+    },
+    {
+      "page": 5,
+      "title": "Circle of Control",
+      "description": "Separate what is within your control from what is outside it.",
+      "preview": "worksheet-05.html",
+      "pdf": "worksheet-05.pdf",
+      "thumbnail": "worksheet-05.jpg"
+    },
+    {
+      "page": 6,
+      "title": "Worry Hill Exercise",
+      "description": "Prompts for exploring a worry and another perspective.",
+      "preview": "worksheet-06.html",
+      "pdf": "worksheet-06.pdf",
+      "thumbnail": "worksheet-06.jpg"
+    },
+    {
+      "page": 7,
+      "title": "Who Am I?",
+      "description": "Identity exploration and personal meaning.",
+      "preview": "worksheet-07.html",
+      "pdf": "worksheet-07.pdf",
+      "thumbnail": "worksheet-07.jpg"
+    },
+    {
+      "page": 8,
+      "title": "The Iceberg Exercise",
+      "description": "Explore visible behavior and what may be beneath the surface.",
+      "preview": "worksheet-08.html",
+      "pdf": "worksheet-08.pdf",
+      "thumbnail": "worksheet-08.jpg"
+    },
+    {
+      "page": 9,
+      "title": "Anger Diary",
+      "description": "Record triggers, warning signs, responses and outcomes.",
+      "preview": "worksheet-09.html",
+      "pdf": "worksheet-09.pdf",
+      "thumbnail": "worksheet-09.jpg"
+    },
+    {
+      "page": 10,
+      "title": "Letter to a Relationship",
+      "description": "A private letter-writing and reflection exercise.",
+      "preview": "worksheet-10.html",
+      "pdf": "worksheet-10.pdf",
+      "thumbnail": "worksheet-10.jpg"
+    },
+    {
+      "page": 11,
+      "title": "Feelings Wheel",
+      "description": "A visual vocabulary for naming emotions.",
+      "preview": "worksheet-11.html",
+      "pdf": "worksheet-11.pdf",
+      "thumbnail": "worksheet-11.jpg"
+    },
+    {
+      "page": 12,
+      "title": "5-4-3-2-1 Grounding Technique",
+      "description": "A sensory noticing and grounding worksheet.",
+      "preview": "worksheet-12.html",
+      "pdf": "worksheet-12.pdf",
+      "thumbnail": "worksheet-12.jpg"
+    },
+    {
+      "page": 13,
+      "title": "Energy Audit",
+      "description": "Notice what drains energy and what recharges it.",
+      "preview": "worksheet-13.html",
+      "pdf": "worksheet-13.pdf",
+      "thumbnail": "worksheet-13.jpg"
+    },
+    {
+      "page": 14,
+      "title": "Finding Your Window of Tolerance",
+      "description": "Reflect on activation, calm and personal regulation supports.",
+      "preview": "worksheet-14.html",
+      "pdf": "worksheet-14.pdf",
+      "thumbnail": "worksheet-14.jpg"
+    },
+    {
+      "page": 15,
+      "title": "Radical Acceptance",
+      "description": "Prompts for discussing acceptance and change.",
+      "preview": "worksheet-15.html",
+      "pdf": "worksheet-15.pdf",
+      "thumbnail": "worksheet-15.jpg"
+    },
+    {
+      "page": 16,
+      "title": "Values Compass",
+      "description": "Reflect on values and choose a small next action.",
+      "preview": "worksheet-16.html",
+      "pdf": "worksheet-16.pdf",
+      "thumbnail": "worksheet-16.jpg"
+    }
+  ]
+}

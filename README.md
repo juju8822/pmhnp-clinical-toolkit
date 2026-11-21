@@ -137,3 +137,9 @@ Each standalone therapy page has four accessible tabs: Overview & diagnoses, Pat
 ## Sidebar navigation — November 17, 2026
 
 The five clinical topics now use a sticky left sidebar with vertical tab semantics and Up/Down keyboard navigation. The therapy modality bar and directory search live in Therapies only; the duplicated diagnosis-page therapy finder was removed. Tropical colors and 14 pt headings/12 pt body text remain. Existing code/data checks and all 51 workflow checks pass; desktop browser navigation and layout were spot-checked.
+
+## Visual worksheet library — November 21, 2026
+
+Therapies includes 16 separate visual cards from the user-supplied Worksheets workbook (15 exercises plus its cover), compiled by Eshaa Pitty. Every card has a page thumbnail, title, short description, standalone print preview and original single-page PDF. The complete original workbook is retained as `worksheets-source.pdf`, with original attribution and artwork. `worksheets-manifest.json` records page ordering and source hash. Handout search is independent of the modality directory. These supplied worksheets are adjunct teaching resources, not independently validated treatments. Images are scans; they do not provide a full accessible text transcription.
+
+Keep the worksheet HTML, JPG, PDF and source PDF files beside `index.html` when downloading. Preview pages are self-contained with full-page images; PDF links retain the source page. `worksheet-test.cjs` checks all cards and assets, print handlers, source attribution, search, empty state and clearing.
