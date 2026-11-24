@@ -20,4 +20,17 @@ root=Path(__file__).parent;payload=json.dumps(result,separators=(',',':'),ensure
 index=root/'index.html';s=index.read_text();tag='<script id="rxterms-catalog-data" type="application/json">'+payload.replace('<','\\u003c')+'</script>'
 if 'id="rxterms-catalog-data"' in s:s=re.sub(r'<script id="rxterms-catalog-data" type="application/json">.*?</script>',lambda _:tag,s,flags=re.S)
 else:s=s.replace("<script>\n'use strict';",tag+"<script>\n'use strict';",1)
+# Refresh the mental-health name-group mappings when that optional directory is installed.
+mh_path=root/'mental-health-medications.json'
+if mh_path.exists():
+ mh=json.loads(mh_path.read_text())
+ def normalized(value):return ' '+re.sub(r'[^a-z0-9]+',' ',value.lower()).strip()+' '
+ cached=[(g,[normalized(v['generic']) for v in g['variants']],normalized(g['brand'])) for g in result['groups']]
+ for med in mh['medications']:
+  med['rxGroups']=[g['name'] for g,names,brand in cached if any(any(all(normalized(part) in name for part in term.split('/')) for name in names) for term in med['terms']) or any(normalized(alias) in brand for alias in med['aliases'])]
+ for med in mh['medications']:
+  med['rxGroups']=[name for name in med['rxGroups'] if not any(term.lower() in name.lower() for term in med.get('excludeGroupTerms',[]))]
+ mh['rxTermsRelease']=release;mh_path.write_text(json.dumps(mh,indent=2)+'\n')
+ mh_tag='<script id="mental-health-medications-data" type="application/json">'+json.dumps(mh,separators=(',',':')).replace('<','\\u003c')+'</script>'
+ s=re.sub(r'<script id="mental-health-medications-data" type="application/json">.*?</script>',lambda _:mh_tag,s,flags=re.S)
 index.write_text(s);print(len(groups),'groups,',sum(len(g['variants']) for g in groups.values()),'strength/form records')

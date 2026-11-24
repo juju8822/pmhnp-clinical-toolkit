@@ -1,0 +1,3270 @@
+{
+  "version": "mental-health-directory-1",
+  "scope": "Broad U.S. mental health and related-care directory. Categories organize browsing; inclusion is not an approved indication, efficacy claim, or exhaustive worldwide inventory. Historical aliases may have no current RxTerms listing.",
+  "sources": [
+    "https://www.nimh.nih.gov/health/topics/mental-health-medications",
+    "https://www.samhsa.gov/substance-use/treatment/options",
+    "https://www.fda.gov/consumers/consumer-updates/treating-and-dealing-adhd",
+    "https://lhncbc.nlm.nih.gov/MOR/RxTerms/"
+  ],
+  "medications": [
+    {
+      "id": "acamprosate",
+      "name": "Acamprosate",
+      "aliases": [
+        "Campral"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "acamprosate"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Acamprosate (Oral Pill)"
+      ]
+    },
+    {
+      "id": "alprazolam",
+      "name": "Alprazolam",
+      "aliases": [
+        "Xanax"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "alprazolam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ALPRAZolam (Oral Disintegrating)",
+        "ALPRAZolam (Oral Liquid)",
+        "ALPRAZolam (Oral Pill)",
+        "ALPRAZolam XR (Oral Pill)",
+        "XANAX (Oral Pill)",
+        "XANAX XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "amantadine",
+      "name": "Amantadine",
+      "aliases": [
+        "Symmetrel",
+        "Gocovri"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "amantadine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Amantadine (Oral Liquid)",
+        "Amantadine (Oral Pill)",
+        "Amantadine XR (Oral Pill)",
+        "GOCOVRI XR (Oral Pill)",
+        "OSMOLEX XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "amitriptyline",
+      "name": "Amitriptyline",
+      "aliases": [
+        "Elavil"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "amitriptyline"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Amitriptyline (Oral Pill)",
+        "Amitriptyline/chlordiazePOXIDE (Oral Pill)",
+        "Amitriptyline/Perphenazine (Oral Pill)",
+        "ELAVIL (Oral Pill)"
+      ]
+    },
+    {
+      "id": "amoxapine",
+      "name": "Amoxapine",
+      "aliases": [
+        "Asendin"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "amoxapine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Amoxapine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "amphetamine",
+      "name": "Amphetamine",
+      "aliases": [
+        "Adderall",
+        "Adzenys",
+        "Dyanavel"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "amphetamine",
+        "dextroamphetamine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ADDERALL (Oral Pill)",
+        "ADDERALL XR (Oral Pill)",
+        "ADZENYS XR (Oral Pill)",
+        "Amphetamine (Oral Disintegrating)",
+        "Amphetamine (Oral Pill)",
+        "Amphetamine XR (Oral Liquid)",
+        "Amphetamine XR (Oral Pill)",
+        "Amphetamine/Dextroamphetamine (Oral Pill)",
+        "Amphetamine/Dextroamphetamine XR (Oral Pill)",
+        "DEXEDRINE (Oral Pill)",
+        "DEXEDRINE XR (Oral Pill)",
+        "Dextroamphetamine (Oral Liquid)",
+        "Dextroamphetamine (Oral Pill)",
+        "Dextroamphetamine (Transdermal)",
+        "Dextroamphetamine XR (Oral Pill)",
+        "DYANAVEL XR (Oral Liquid)",
+        "DYANAVEL XR (Oral Pill)",
+        "EVEKEO (Oral Disintegrating)",
+        "EVEKEO (Oral Pill)",
+        "MYDAYIS XR (Oral Pill)",
+        "PROCENTRA (Oral Liquid)",
+        "XELSTRYM (Transdermal)",
+        "ZENZEDI (Oral Pill)"
+      ]
+    },
+    {
+      "id": "aripiprazole",
+      "name": "Aripiprazole",
+      "aliases": [
+        "Abilify",
+        "Aristada"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "aripiprazole"
+      ],
+      "referenceDrugIds": [
+        "aripiprazole"
+      ],
+      "productIds": [
+        "aripiprazole"
+      ],
+      "rxGroups": [
+        "ABILIFY (Injectable)",
+        "ABILIFY (Oral Pill)",
+        "ARIPiprazole (Injectable)",
+        "ARIPiprazole (Oral Disintegrating)",
+        "ARIPiprazole (Oral Film)",
+        "ARIPiprazole (Oral Liquid)",
+        "ARIPiprazole (Oral Pill)",
+        "ARIPiprazole lauroxil (Injectable)",
+        "ARISTADA (Injectable)",
+        "OPIPZA (Oral Film)"
+      ]
+    },
+    {
+      "id": "armodafinil",
+      "name": "Armodafinil",
+      "aliases": [
+        "Nuvigil"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "armodafinil"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Armodafinil (Oral Pill)",
+        "NUVIGIL (Oral Pill)"
+      ]
+    },
+    {
+      "id": "asenapine",
+      "name": "Asenapine",
+      "aliases": [
+        "Saphris",
+        "Secuado"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "asenapine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Asenapine (Sublingual)",
+        "Asenapine (Transdermal)",
+        "SAPHRIS (Sublingual)",
+        "SECUADO (Transdermal)"
+      ]
+    },
+    {
+      "id": "atenolol",
+      "name": "Atenolol",
+      "aliases": [
+        "Tenormin"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "atenolol"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Atenolol (Oral Pill)",
+        "Atenolol/Chlorthalidone (Oral Pill)",
+        "TENORETIC (Oral Pill)",
+        "TENORMIN (Oral Pill)"
+      ]
+    },
+    {
+      "id": "atomoxetine",
+      "name": "Atomoxetine",
+      "aliases": [
+        "Strattera"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "atomoxetine"
+      ],
+      "referenceDrugIds": [
+        "atomoxetine"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "Atomoxetine (Oral Liquid)",
+        "Atomoxetine (Oral Pill)",
+        "ATONCY (Oral Liquid)",
+        "STRATTERA (Oral Pill)"
+      ]
+    },
+    {
+      "id": "benztropine",
+      "name": "Benztropine",
+      "aliases": [
+        "Cogentin"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "benztropine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Benztropine (Injectable)",
+        "Benztropine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "brexanolone",
+      "name": "Brexanolone",
+      "aliases": [
+        "Zulresso"
+      ],
+      "categories": [
+        "Specialist depression treatments"
+      ],
+      "terms": [
+        "brexanolone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Brexanolone (Injectable)",
+        "ZULRESSO (Injectable)"
+      ]
+    },
+    {
+      "id": "brexpiprazole",
+      "name": "Brexpiprazole",
+      "aliases": [
+        "Rexulti"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "brexpiprazole"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Brexpiprazole (Oral Pill)",
+        "REXULTI (Oral Pill)"
+      ]
+    },
+    {
+      "id": "buprenorphine",
+      "name": "Buprenorphine",
+      "aliases": [
+        "Subutex",
+        "Sublocade",
+        "Brixadi"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "buprenorphine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "BELBUCA (Buccal)",
+        "BRIXADI (Injectable)",
+        "BUNAVAIL (Buccal)",
+        "BUPRENEX (Injectable)",
+        "Buprenorphine (Buccal)",
+        "Buprenorphine (Injectable)",
+        "Buprenorphine (Sublingual)",
+        "Buprenorphine (Transdermal)",
+        "Buprenorphine/Naloxone (Buccal)",
+        "Buprenorphine/Naloxone (Sublingual)",
+        "BUTRANS (Transdermal)",
+        "SUBLOCADE (Injectable)",
+        "SUBOXONE (Sublingual)",
+        "ZUBSOLV (Sublingual)"
+      ]
+    },
+    {
+      "id": "buprenorphine-naloxone",
+      "name": "Buprenorphine/naloxone",
+      "aliases": [
+        "Suboxone",
+        "Zubsolv"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "buprenorphine/naloxone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "BUNAVAIL (Buccal)",
+        "Buprenorphine/Naloxone (Buccal)",
+        "Buprenorphine/Naloxone (Sublingual)",
+        "SUBOXONE (Sublingual)",
+        "ZUBSOLV (Sublingual)"
+      ]
+    },
+    {
+      "id": "bupropion",
+      "name": "Bupropion",
+      "aliases": [
+        "Wellbutrin",
+        "Aplenzin",
+        "Forfivo",
+        "Zyban"
+      ],
+      "categories": [
+        "Antidepressants",
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "bupropion"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "APLENZIN XR (Oral Pill)",
+        "AUVELITY XR (Oral Pill)",
+        "buPROPion (Oral Pill)",
+        "buPROPion XR (Oral Pill)",
+        "buPROPion/Dextromethorphan XR (Oral Pill)",
+        "buPROPion/Naltrexone XR (Oral Pill)",
+        "CONTRAVE XR (Oral Pill)",
+        "FORFIVO XR (Oral Pill)",
+        "WELLBUTRIN XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "buspirone",
+      "name": "Buspirone",
+      "aliases": [
+        "Buspar"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "buspirone"
+      ],
+      "referenceDrugIds": [
+        "buspirone"
+      ],
+      "productIds": [
+        "buspirone"
+      ],
+      "rxGroups": [
+        "BUCAPSOL (Oral Pill)",
+        "BUSPAR (Oral Pill)",
+        "busPIRone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "carbamazepine",
+      "name": "Carbamazepine",
+      "aliases": [
+        "Tegretol",
+        "Equetro",
+        "Carbatrol"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "carbamazepine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "carBAMazepine (Chewable)",
+        "carBAMazepine (Oral Liquid)",
+        "carBAMazepine (Oral Pill)",
+        "carBAMazepine XR (Oral Pill)",
+        "CARBATROL XR (Oral Pill)",
+        "EPITOL (Oral Pill)",
+        "EQUETRO XR (Oral Pill)",
+        "TEGRETOL (Oral Liquid)",
+        "TEGRETOL (Oral Pill)",
+        "TEGRETOL XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "cariprazine",
+      "name": "Cariprazine",
+      "aliases": [
+        "Vraylar"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "cariprazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Cariprazine (Oral Pill)",
+        "VRAYLAR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "chlordiazepoxide",
+      "name": "Chlordiazepoxide",
+      "aliases": [
+        "Librium"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "chlordiazepoxide"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Amitriptyline/chlordiazePOXIDE (Oral Pill)",
+        "chlordiazePOXIDE (Oral Pill)",
+        "chlordiazePOXIDE/Clidinium (Oral Pill)",
+        "LIBRAX (Oral Pill)"
+      ]
+    },
+    {
+      "id": "chlorpromazine",
+      "name": "Chlorpromazine",
+      "aliases": [
+        "Thorazine"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "chlorpromazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "chlorproMAZINE (Injectable)",
+        "chlorproMAZINE (Oral Liquid)",
+        "chlorproMAZINE (Oral Pill)"
+      ]
+    },
+    {
+      "id": "citalopram",
+      "name": "Citalopram",
+      "aliases": [
+        "Celexa"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "citalopram"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "CeleXA (Oral Pill)",
+        "Citalopram (Oral Liquid)",
+        "Citalopram (Oral Pill)"
+      ]
+    },
+    {
+      "id": "clomipramine",
+      "name": "Clomipramine",
+      "aliases": [
+        "Anafranil"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "clomipramine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ANAFRANIL (Oral Pill)",
+        "clomiPRAMINE (Oral Pill)"
+      ]
+    },
+    {
+      "id": "clonazepam",
+      "name": "Clonazepam",
+      "aliases": [
+        "Klonopin"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "clonazepam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "clonazePAM (Oral Disintegrating)",
+        "clonazePAM (Oral Pill)",
+        "KlonoPIN (Oral Pill)"
+      ]
+    },
+    {
+      "id": "clonidine",
+      "name": "Clonidine",
+      "aliases": [
+        "Kapvay",
+        "Catapres",
+        "Onyda"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts",
+        "ADHD medications"
+      ],
+      "terms": [
+        "clonidine"
+      ],
+      "referenceDrugIds": [
+        "clonidine-er"
+      ],
+      "productIds": [
+        "clonidine-er"
+      ],
+      "rxGroups": [
+        "CATAPRES (Transdermal)",
+        "cloNIDine (Injectable)",
+        "cloNIDine (Oral Liquid)",
+        "cloNIDine (Oral Pill)",
+        "cloNIDine (Transdermal)",
+        "cloNIDine XR (Oral Liquid)",
+        "cloNIDine XR (Oral Pill)",
+        "DURACLON (Injectable)",
+        "JAVADIN (Oral Liquid)",
+        "KAPVAY XR (Oral Pill)",
+        "NEXICLON XR (Oral Pill)",
+        "ONYDA XR (Oral Liquid)",
+        "QLONILIK (Oral Liquid)"
+      ]
+    },
+    {
+      "id": "clorazepate",
+      "name": "Clorazepate",
+      "aliases": [
+        "Tranxene"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "clorazepate"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Clorazepate (Oral Pill)",
+        "TRANXENE (Oral Pill)"
+      ]
+    },
+    {
+      "id": "clozapine",
+      "name": "Clozapine",
+      "aliases": [
+        "Clozaril",
+        "Versacloz",
+        "FazaClo"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "clozapine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "cloZAPine (Oral Disintegrating)",
+        "cloZAPine (Oral Liquid)",
+        "cloZAPine (Oral Pill)",
+        "CLOZARIL (Oral Pill)",
+        "VERSACLOZ (Oral Liquid)"
+      ]
+    },
+    {
+      "id": "daridorexant",
+      "name": "Daridorexant",
+      "aliases": [
+        "Quviviq"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "daridorexant"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Daridorexant (Oral Pill)",
+        "QUVIVIQ (Oral Pill)"
+      ]
+    },
+    {
+      "id": "desipramine",
+      "name": "Desipramine",
+      "aliases": [
+        "Norpramin"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "desipramine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Desipramine (Oral Pill)",
+        "NORPRAMIN (Oral Pill)"
+      ]
+    },
+    {
+      "id": "desvenlafaxine",
+      "name": "Desvenlafaxine",
+      "aliases": [
+        "Pristiq"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "desvenlafaxine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Desvenlafaxine XR (Oral Pill)",
+        "KHEDEZLA XR (Oral Pill)",
+        "PRISTIQ XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "deutetrabenazine",
+      "name": "Deutetrabenazine",
+      "aliases": [
+        "Austedo"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "deutetrabenazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "AUSTEDO (Oral Pill)",
+        "AUSTEDO XR (Oral Pill)",
+        "Deutetrabenazine (Oral Pill)",
+        "Deutetrabenazine XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "dexmethylphenidate",
+      "name": "Dexmethylphenidate",
+      "aliases": [
+        "Focalin"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "dexmethylphenidate"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "AZSTARYS (Oral Pill)",
+        "Dexmethylphenidate (Oral Pill)",
+        "Dexmethylphenidate XR (Oral Pill)",
+        "Dexmethylphenidate/Serdexmethylphenidate (Oral Pill)",
+        "FOCALIN (Oral Pill)",
+        "FOCALIN XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "dextroamphetamine",
+      "name": "Dextroamphetamine",
+      "aliases": [
+        "Dexedrine",
+        "Zenzedi",
+        "Xelstrym"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "dextroamphetamine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ADDERALL (Oral Pill)",
+        "ADDERALL XR (Oral Pill)",
+        "Amphetamine/Dextroamphetamine (Oral Pill)",
+        "Amphetamine/Dextroamphetamine XR (Oral Pill)",
+        "DEXEDRINE (Oral Pill)",
+        "DEXEDRINE XR (Oral Pill)",
+        "Dextroamphetamine (Oral Liquid)",
+        "Dextroamphetamine (Oral Pill)",
+        "Dextroamphetamine (Transdermal)",
+        "Dextroamphetamine XR (Oral Pill)",
+        "MYDAYIS XR (Oral Pill)",
+        "PROCENTRA (Oral Liquid)",
+        "XELSTRYM (Transdermal)",
+        "ZENZEDI (Oral Pill)"
+      ]
+    },
+    {
+      "id": "dextromethorphan-bupropion",
+      "name": "Dextromethorphan/bupropion",
+      "aliases": [
+        "Auvelity"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "dextromethorphan/bupropion"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "AUVELITY XR (Oral Pill)",
+        "buPROPion/Dextromethorphan XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "dextromethorphan-quinidine",
+      "name": "Dextromethorphan/quinidine",
+      "aliases": [
+        "Nuedexta"
+      ],
+      "categories": [
+        "Cognition & related symptoms"
+      ],
+      "terms": [
+        "dextromethorphan/quinidine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Dextromethorphan/quiNIDine (Oral Pill)",
+        "NUEDEXTA (Oral Pill)"
+      ]
+    },
+    {
+      "id": "diazepam",
+      "name": "Diazepam",
+      "aliases": [
+        "Valium"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "diazepam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "DIASTAT (Rectal)",
+        "diazePAM (Buccal)",
+        "diazePAM (Injectable)",
+        "diazePAM (Nasal)",
+        "diazePAM (Oral Liquid)",
+        "diazePAM (Oral Pill)",
+        "diazePAM (Rectal)",
+        "LIBERVANT (Buccal)",
+        "VALIUM (Oral Pill)",
+        "VALTOCO (Nasal)"
+      ]
+    },
+    {
+      "id": "diphenhydramine",
+      "name": "Diphenhydramine",
+      "aliases": [
+        "Benadryl"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "diphenhydramine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ACETADRYL (Oral Pill)",
+        "Acetaminophen/diphenhydrAMINE (Chewable)",
+        "Acetaminophen/diphenhydrAMINE (Oral Liquid)",
+        "Acetaminophen/diphenhydrAMINE (Oral Pill)",
+        "Acetaminophen/diphenhydrAMINE (Oral Powder)",
+        "Acetaminophen/diphenhydrAMINE (Oral Solution Granules)",
+        "Acetaminophen/diphenhydrAMINE (Oral Solution Powder)",
+        "ALEVE PM (Oral Pill)",
+        "Allantoin/diphenhydrAMINE (Topical)",
+        "Aspirin/diphenhydrAMINE (Oral Pill)",
+        "BANOPHEN (Oral Liquid)",
+        "BANOPHEN (Oral Pill)",
+        "BANOPHEN CREAM (Topical)",
+        "BENADRYL (Chewable)",
+        "BENADRYL (Oral Disintegrating)",
+        "BENADRYL (Oral Liquid)",
+        "BENADRYL (Oral Pill)",
+        "BENADRYL (Topical)",
+        "BENADRYL ALLERGY PLUS CONGESTION (Oral Pill)",
+        "BENADRYL CHILDREN'S ANTI-ITCH (Topical)",
+        "BENADRYL ITCH STOPPING (Topical)",
+        "BENADRYL-D ALLERGY AND SINUS (Oral Liquid)",
+        "CALAGEL (Topical)",
+        "CALAGEL REFORMULATED JUN 2019 (Topical)",
+        "Calamine/diphenhydrAMINE (Topical)",
+        "DERMAMYCIN (Topical)",
+        "DIPHEDRYL (Oral Pill)",
+        "DIPHENHIST (Oral Pill)",
+        "diphenhydrAMINE (Chewable)",
+        "diphenhydrAMINE (Injectable)",
+        "diphenhydrAMINE (Oral Disintegrating)",
+        "diphenhydrAMINE (Oral Liquid)",
+        "diphenhydrAMINE (Oral Pill)",
+        "diphenhydrAMINE (Topical)",
+        "diphenhydrAMINE/Ibuprofen (Oral Pill)",
+        "diphenhydrAMINE/Magnesium salicylate (Oral Pill)",
+        "diphenhydrAMINE/Menthol (Topical)",
+        "diphenhydrAMINE/Naproxen (Oral Pill)",
+        "diphenhydrAMINE/Phenylephrine (Oral Liquid)",
+        "diphenhydrAMINE/Phenylephrine (Oral Pill)",
+        "diphenhydrAMINE/Pramoxine (Topical)",
+        "diphenhydrAMINE/Tripelennamine (Topical)",
+        "diphenhydrAMINE/Zinc acetate (Topical)",
+        "DOANS PM (Oral Pill)",
+        "DORMIN (Oral Pill)",
+        "EXCEDRIN PM (Oral Pill)",
+        "EXCEDRIN PM TRIPLE ACTION (Oral Pill)",
+        "GENAHIST (Oral Pill)",
+        "LEGATRIN PM (Oral Pill)",
+        "MOTRIN PM (Oral Pill)",
+        "NYTOL (Oral Pill)",
+        "PANADOL PM (Oral Pill)",
+        "PEDIACLEAR COUGH (Oral Liquid)",
+        "PERCOGESIC REFORMULATED JAN 2011 (Oral Pill)",
+        "SILADRYL (Oral Liquid)",
+        "SIMPLY SLEEP (Oral Pill)",
+        "SLEEPINAL (Oral Pill)",
+        "SOMINEX (Oral Pill)",
+        "THE ITCH ERASER (Topical)",
+        "TWILITE (Oral Pill)",
+        "TYLENOL PM (Oral Liquid)",
+        "TYLENOL PM (Oral Pill)",
+        "UNISOM SLEEP (Oral Disintegrating)",
+        "UNISOM SLEEP (Oral Pill)",
+        "UNISOM WITH PAIN RELIEF (Oral Pill)",
+        "VANAMINE (Oral Liquid)",
+        "WAL-DRYL (Topical)",
+        "WAL-DRYL ALLERGY (Oral Disintegrating)",
+        "WAL-DRYL ALLERGY (Oral Pill)",
+        "WAL-DRYL CHILDRENS (Oral Liquid)",
+        "WAL-DRYL PE (Oral Liquid)",
+        "WAL-DRYL-D (Oral Pill)",
+        "WAL-SLEEP Z (Oral Disintegrating)",
+        "WAL-SLEEP Z (Oral Liquid)",
+        "WAL-SLEEP Z (Oral Pill)",
+        "WAL-SOM (Oral Disintegrating)",
+        "WAL-SOM MAXIMUM STRENGTH (Oral Pill)",
+        "Z-SLEEP (Oral Liquid)",
+        "ZZZQUIL (Oral Liquid)",
+        "ZZZQUIL (Oral Pill)"
+      ]
+    },
+    {
+      "id": "disulfiram",
+      "name": "Disulfiram",
+      "aliases": [
+        "Antabuse"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "disulfiram"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ANTABUSE (Oral Pill)",
+        "Disulfiram (Oral Pill)"
+      ]
+    },
+    {
+      "id": "divalproex",
+      "name": "Divalproex",
+      "aliases": [
+        "Depakote"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "divalproex",
+        "valproate",
+        "valproic acid"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "DEPAKOTE (Oral Pill)",
+        "DEPAKOTE XR (Oral Pill)",
+        "Valproate (Injectable)",
+        "Valproate (Oral Liquid)",
+        "Valproate (Oral Pill)",
+        "Valproate XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "donepezil",
+      "name": "Donepezil",
+      "aliases": [
+        "Aricept",
+        "Adlarity"
+      ],
+      "categories": [
+        "Cognition & related symptoms"
+      ],
+      "terms": [
+        "donepezil"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ADLARITY (Transdermal)",
+        "ARICEPT (Oral Pill)",
+        "Donepezil (Oral Disintegrating)",
+        "Donepezil (Oral Pill)",
+        "Donepezil (Transdermal)",
+        "Donepezil/Memantine XR (Oral Pill)",
+        "NAMZARIC XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "donepezil-memantine",
+      "name": "Donepezil/memantine",
+      "aliases": [
+        "Namzaric"
+      ],
+      "categories": [
+        "Cognition & related symptoms"
+      ],
+      "terms": [
+        "donepezil/memantine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Donepezil/Memantine XR (Oral Pill)",
+        "NAMZARIC XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "doxepin",
+      "name": "Doxepin",
+      "aliases": [
+        "Silenor",
+        "Sinequan"
+      ],
+      "categories": [
+        "Antidepressants",
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "doxepin"
+      ],
+      "referenceDrugIds": [
+        "doxepin"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "Doxepin (Oral Liquid)",
+        "Doxepin (Oral Pill)",
+        "Doxepin (Topical)",
+        "PRUDOXIN (Topical)",
+        "SILENOR (Oral Pill)",
+        "ZONALON (Topical)"
+      ]
+    },
+    {
+      "id": "doxylamine",
+      "name": "Doxylamine",
+      "aliases": [
+        "Unisom"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "doxylamine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ALDEX AN (Chewable)",
+        "BONJESTA XR (Oral Pill)",
+        "Dextromethorphan/Doxylamine (Chewable)",
+        "Dextromethorphan/Doxylamine (Oral Liquid)",
+        "DICLEGIS (Oral Pill)",
+        "Doxylamine (Chewable)",
+        "Doxylamine (Oral Liquid)",
+        "Doxylamine (Oral Pill)",
+        "Doxylamine/Phenylephrine (Oral Pill)",
+        "Doxylamine/Pseudoephedrine (Oral Liquid)",
+        "Doxylamine/Pyridoxine (Oral Pill)",
+        "Doxylamine/Pyridoxine XR (Oral Pill)",
+        "UNISOM (Oral Pill)",
+        "UNISOM SLEEP (Oral Disintegrating)",
+        "UNISOM SLEEP (Oral Pill)",
+        "UNISOM WITH PAIN RELIEF (Oral Pill)",
+        "WAL-SOM (DOXYLAMINE) (Oral Pill)"
+      ]
+    },
+    {
+      "id": "duloxetine",
+      "name": "Duloxetine",
+      "aliases": [
+        "Cymbalta",
+        "Drizalma"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "duloxetine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "CYMBALTA (Oral Pill)",
+        "DRIZALMA (Oral Pill)",
+        "DULoxetine (Oral Pill)",
+        "IRENKA (Oral Pill)"
+      ]
+    },
+    {
+      "id": "escitalopram",
+      "name": "Escitalopram",
+      "aliases": [
+        "Lexapro"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "escitalopram"
+      ],
+      "referenceDrugIds": [
+        "escitalopram"
+      ],
+      "productIds": [
+        "escitalopram"
+      ],
+      "rxGroups": [
+        "Escitalopram (Oral Liquid)",
+        "Escitalopram (Oral Pill)",
+        "LEXAPRO (Oral Pill)"
+      ]
+    },
+    {
+      "id": "esketamine",
+      "name": "Esketamine",
+      "aliases": [
+        "Spravato"
+      ],
+      "categories": [
+        "Specialist depression treatments"
+      ],
+      "terms": [
+        "esketamine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Esketamine (Nasal)",
+        "SPRAVATO (Nasal)"
+      ]
+    },
+    {
+      "id": "estazolam",
+      "name": "Estazolam",
+      "aliases": [
+        "Prosom"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "estazolam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Estazolam (Oral Pill)"
+      ]
+    },
+    {
+      "id": "eszopiclone",
+      "name": "Eszopiclone",
+      "aliases": [
+        "Lunesta"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "eszopiclone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Eszopiclone (Oral Pill)",
+        "LUNESTA (Oral Pill)"
+      ]
+    },
+    {
+      "id": "fluoxetine",
+      "name": "Fluoxetine",
+      "aliases": [
+        "Prozac",
+        "Sarafem"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "fluoxetine"
+      ],
+      "referenceDrugIds": [
+        "fluoxetine"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "FLUoxetine (Oral Liquid)",
+        "FLUoxetine (Oral Pill)",
+        "FLUoxetine/OLANZapine (Oral Pill)",
+        "PROzac (Oral Pill)",
+        "SYMBYAX (Oral Pill)"
+      ]
+    },
+    {
+      "id": "fluoxetine-olanzapine",
+      "name": "Fluoxetine/olanzapine",
+      "aliases": [
+        "Symbyax"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "fluoxetine/olanzapine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "FLUoxetine/OLANZapine (Oral Pill)",
+        "SYMBYAX (Oral Pill)"
+      ]
+    },
+    {
+      "id": "fluphenazine",
+      "name": "Fluphenazine",
+      "aliases": [
+        "Prolixin"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "fluphenazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "fluPHENAZine (Injectable)",
+        "fluPHENAZine (Oral Liquid)",
+        "fluPHENAZine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "flurazepam",
+      "name": "Flurazepam",
+      "aliases": [
+        "Dalmane"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "flurazepam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Flurazepam (Oral Pill)"
+      ]
+    },
+    {
+      "id": "fluvoxamine",
+      "name": "Fluvoxamine",
+      "aliases": [
+        "Luvox"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "fluvoxamine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "fluvoxaMINE (Oral Pill)",
+        "fluvoxaMINE XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "gabapentin",
+      "name": "Gabapentin",
+      "aliases": [
+        "Neurontin",
+        "Gralise"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "gabapentin"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Gabapentin (Oral Liquid)",
+        "Gabapentin (Oral Pill)",
+        "Gabapentin XR (Oral Pill)",
+        "GABARONE (Oral Pill)",
+        "GRALISE (Oral Pill)",
+        "NEURONTIN (Oral Liquid)",
+        "NEURONTIN (Oral Pill)",
+        "RELGAABI (Oral Pill)"
+      ],
+      "excludeGroupTerms": [
+        "enacarbil",
+        "horizant"
+      ]
+    },
+    {
+      "id": "gabapentin-enacarbil",
+      "name": "Gabapentin enacarbil",
+      "aliases": [
+        "Horizant"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "gabapentin enacarbil"
+      ],
+      "referenceDrugIds": [
+        "gabapentin-enacarbil"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "Gabapentin XR (Oral Pill)",
+        "HORIZANT XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "galantamine",
+      "name": "Galantamine",
+      "aliases": [
+        "Razadyne"
+      ],
+      "categories": [
+        "Cognition & related symptoms"
+      ],
+      "terms": [
+        "galantamine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Galantamine (Oral Liquid)",
+        "Galantamine (Oral Pill)",
+        "Galantamine XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "guanfacine",
+      "name": "Guanfacine",
+      "aliases": [
+        "Intuniv",
+        "Tenex"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "guanfacine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "guanFACINE (Oral Pill)",
+        "guanFACINE XR (Oral Pill)",
+        "INTUNIV XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "haloperidol",
+      "name": "Haloperidol",
+      "aliases": [
+        "Haldol"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "haloperidol"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "HALDOL (Injectable)",
+        "Haloperidol (Injectable)",
+        "Haloperidol (Oral Liquid)",
+        "Haloperidol (Oral Pill)"
+      ]
+    },
+    {
+      "id": "hydroxyzine",
+      "name": "Hydroxyzine",
+      "aliases": [
+        "Vistaril",
+        "Atarax"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "hydroxyzine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "hydrOXYzine (Injectable)",
+        "hydrOXYzine (Oral Liquid)",
+        "hydrOXYzine (Oral Pill)",
+        "VISTARIL (Oral Pill)"
+      ]
+    },
+    {
+      "id": "iloperidone",
+      "name": "Iloperidone",
+      "aliases": [
+        "Fanapt"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "iloperidone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "FANAPT (Oral Pill)",
+        "Iloperidone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "imipramine",
+      "name": "Imipramine",
+      "aliases": [
+        "Tofranil"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "imipramine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Imipramine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "isocarboxazid",
+      "name": "Isocarboxazid",
+      "aliases": [
+        "Marplan"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "isocarboxazid"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Isocarboxazid (Oral Pill)",
+        "MARPLAN (Oral Pill)"
+      ]
+    },
+    {
+      "id": "ketamine",
+      "name": "Ketamine",
+      "aliases": [
+        "Ketalar"
+      ],
+      "categories": [
+        "Specialist depression treatments"
+      ],
+      "terms": [
+        "ketamine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "KETALAR (Injectable)",
+        "Ketamine (Injectable)"
+      ]
+    },
+    {
+      "id": "lamotrigine",
+      "name": "Lamotrigine",
+      "aliases": [
+        "Lamictal"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "lamotrigine"
+      ],
+      "referenceDrugIds": [
+        "lamotrigine"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "LaMICtal (Oral Disintegrating)",
+        "LaMICtal (Oral Pill)",
+        "LaMICtal (Oral Suspension Tablet)",
+        "LaMICtal XR (Oral Pill)",
+        "lamoTRIgine (Oral Disintegrating)",
+        "lamoTRIgine (Oral Liquid)",
+        "lamoTRIgine (Oral Pill)",
+        "lamoTRIgine (Oral Suspension Tablet)",
+        "lamoTRIgine XR (Oral Pill)",
+        "SUBVENITE (Oral Liquid)",
+        "SUBVENITE (Oral Pill)"
+      ]
+    },
+    {
+      "id": "lemborexant",
+      "name": "Lemborexant",
+      "aliases": [
+        "Dayvigo"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "lemborexant"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "DAYVIGO (Oral Pill)",
+        "Lemborexant (Oral Pill)"
+      ]
+    },
+    {
+      "id": "levomilnacipran",
+      "name": "Levomilnacipran",
+      "aliases": [
+        "Fetzima"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "levomilnacipran"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "FETZIMA XR (Oral Pill)",
+        "Levomilnacipran XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "lisdexamfetamine",
+      "name": "Lisdexamfetamine",
+      "aliases": [
+        "Vyvanse"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "lisdexamfetamine"
+      ],
+      "referenceDrugIds": [
+        "lisdexamfetamine"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "ARYNTA (Oral Liquid)",
+        "Lisdexamfetamine (Chewable)",
+        "Lisdexamfetamine (Oral Liquid)",
+        "Lisdexamfetamine (Oral Pill)",
+        "VYVANSE (Chewable)",
+        "VYVANSE (Oral Pill)"
+      ]
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "aliases": [
+        "Lithobid",
+        "Eskalith"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "lithium"
+      ],
+      "referenceDrugIds": [
+        "lithium"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "Lithium (Oral Pill)",
+        "Lithium carbonate (Oral Pill)",
+        "Lithium carbonate XR (Oral Pill)",
+        "Lithium citrate (Oral Liquid)",
+        "LITHOBID XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "lofexidine",
+      "name": "Lofexidine",
+      "aliases": [
+        "Lucemyra"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "lofexidine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Lofexidine (Oral Pill)",
+        "LUCEMYRA (Oral Pill)"
+      ]
+    },
+    {
+      "id": "lorazepam",
+      "name": "Lorazepam",
+      "aliases": [
+        "Ativan"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "lorazepam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ATIVAN (Injectable)",
+        "ATIVAN (Oral Pill)",
+        "LORazepam (Injectable)",
+        "LORazepam (Oral Liquid)",
+        "LORazepam (Oral Pill)",
+        "LORazepam XR (Oral Pill)",
+        "LOREEV XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "loxapine",
+      "name": "Loxapine",
+      "aliases": [
+        "Loxitane",
+        "Adasuve"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "loxapine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "ADASUVE (Inhalant)",
+        "Loxapine (Inhalant)",
+        "Loxapine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "lumateperone",
+      "name": "Lumateperone",
+      "aliases": [
+        "Caplyta"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "lumateperone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "CAPLYTA (Oral Pill)",
+        "Lumateperone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "lurasidone",
+      "name": "Lurasidone",
+      "aliases": [
+        "Latuda"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "lurasidone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "LATUDA (Oral Pill)",
+        "Lurasidone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "maprotiline",
+      "name": "Maprotiline",
+      "aliases": [
+        "Ludiomil"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "maprotiline"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": []
+    },
+    {
+      "id": "melatonin",
+      "name": "Melatonin",
+      "aliases": [],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "melatonin"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Acetaminophen/Melatonin (Oral Pill)",
+        "hydroxytryptophan/Magnesium oxide/Melatonin/Tryptophan/Vitamin B6 (Oral Pill)",
+        "hydroxytryptophan/Melatonin (Oral Pill)",
+        "MELATONEX XR (Oral Pill)",
+        "Melatonin (Chewable)",
+        "Melatonin (Oral Disintegrating)",
+        "Melatonin (Oral Liquid)",
+        "Melatonin (Oral Pill)",
+        "Melatonin (Sublingual)",
+        "Melatonin XR (Oral Pill)",
+        "Melatonin/Pyridoxine (Oral Pill)",
+        "Melatonin/Pyridoxine XR (Oral Pill)",
+        "Melatonin/Threonine (Chewable)",
+        "Melatonin/Tryptophan (Oral Pill)",
+        "Melatonin/Vitamin B6 (Oral Pill)",
+        "Melatonin/Vitamin B6 (Sublingual)",
+        "Melatonin/Vitamin B6 XR (Oral Pill)",
+        "SOMNICIN (Oral Pill)"
+      ]
+    },
+    {
+      "id": "memantine",
+      "name": "Memantine",
+      "aliases": [
+        "Namenda"
+      ],
+      "categories": [
+        "Cognition & related symptoms"
+      ],
+      "terms": [
+        "memantine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Donepezil/Memantine XR (Oral Pill)",
+        "Memantine (Oral Liquid)",
+        "Memantine (Oral Pill)",
+        "Memantine XR (Oral Pill)",
+        "NAMENDA (Oral Pill)",
+        "NAMENDA XR (Oral Pill)",
+        "NAMZARIC XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "methadone",
+      "name": "Methadone",
+      "aliases": [
+        "Dolophine",
+        "Methadose"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "methadone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "DISKETS (Oral Suspension Tablet)",
+        "DOLOPHINE (Oral Pill)",
+        "Methadone (Injectable)",
+        "Methadone (Oral Liquid)",
+        "Methadone (Oral Pill)",
+        "Methadone (Oral Suspension Tablet)",
+        "METHADOSE (Oral Liquid)",
+        "METHADOSE (Oral Suspension Tablet)"
+      ]
+    },
+    {
+      "id": "methamphetamine",
+      "name": "Methamphetamine",
+      "aliases": [
+        "Desoxyn"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "methamphetamine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "DESOXYN (Oral Pill)",
+        "Methamphetamine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "methylphenidate",
+      "name": "Methylphenidate",
+      "aliases": [
+        "Ritalin",
+        "Concerta",
+        "Daytrana",
+        "Jornay",
+        "Quillivant",
+        "Quillichew",
+        "Aptensio",
+        "Metadate",
+        "Relexxii"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "methylphenidate"
+      ],
+      "referenceDrugIds": [
+        "concerta"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "APTENSIO XR (Oral Pill)",
+        "CONCERTA XR (Oral Pill)",
+        "COTEMPLA (Oral Disintegrating)",
+        "DAYTRANA (Transdermal)",
+        "JORNAY XR (Oral Pill)",
+        "METADATE XR (Oral Pill)",
+        "METHYLIN (Oral Liquid)",
+        "Methylphenidate (Chewable)",
+        "Methylphenidate (Oral Disintegrating)",
+        "Methylphenidate (Oral Liquid)",
+        "Methylphenidate (Oral Pill)",
+        "Methylphenidate (Transdermal)",
+        "Methylphenidate XR (Chewable)",
+        "Methylphenidate XR (Oral Liquid)",
+        "Methylphenidate XR (Oral Pill)",
+        "QUILLICHEW XR (Chewable)",
+        "QUILLIVANT XR (Oral Liquid)",
+        "RELEXXII XR (Oral Pill)",
+        "RITALIN (Oral Pill)",
+        "RITALIN XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "mirtazapine",
+      "name": "Mirtazapine",
+      "aliases": [
+        "Remeron"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "mirtazapine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Mirtazapine (Oral Disintegrating)",
+        "Mirtazapine (Oral Pill)",
+        "REMERON (Oral Disintegrating)",
+        "REMERON (Oral Pill)"
+      ]
+    },
+    {
+      "id": "mixed-oxybate-salts",
+      "name": "Mixed oxybate salts",
+      "aliases": [
+        "Xywav"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "oxybate"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "LUMRYZ (Oral Suspension Granules)",
+        "Oxybate (Oral Liquid)",
+        "Oxybate (Oral Suspension Granules)",
+        "XYREM (Oral Liquid)",
+        "XYWAV (Oral Liquid)"
+      ]
+    },
+    {
+      "id": "modafinil",
+      "name": "Modafinil",
+      "aliases": [
+        "Provigil"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "modafinil"
+      ],
+      "referenceDrugIds": [
+        "modafinil"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "Modafinil (Oral Pill)",
+        "PROVIGIL (Oral Pill)"
+      ]
+    },
+    {
+      "id": "molindone",
+      "name": "Molindone",
+      "aliases": [
+        "Moban"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "molindone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Molindone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "nalmefene",
+      "name": "Nalmefene",
+      "aliases": [
+        "Opvee",
+        "Zurnai"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "nalmefene"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Nalmefene (Injectable)",
+        "Nalmefene (Nasal)",
+        "OPVEE (Nasal)",
+        "ZURNAI (Injectable)"
+      ]
+    },
+    {
+      "id": "naloxone",
+      "name": "Naloxone",
+      "aliases": [
+        "Narcan",
+        "Evzio",
+        "Kloxxado"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "naloxone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "BUNAVAIL (Buccal)",
+        "Buprenorphine/Naloxone (Buccal)",
+        "Buprenorphine/Naloxone (Sublingual)",
+        "KLOXXADO (Nasal)",
+        "Naloxone (Injectable)",
+        "Naloxone (Nasal)",
+        "Naloxone/Pentazocine (Oral Pill)",
+        "NARCAN (Nasal)",
+        "REXTOVY (Nasal)",
+        "REZENOPY (Nasal)",
+        "SUBOXONE (Sublingual)",
+        "ZIMHI (Injectable)",
+        "ZUBSOLV (Sublingual)"
+      ]
+    },
+    {
+      "id": "naltrexone",
+      "name": "Naltrexone",
+      "aliases": [
+        "ReVia",
+        "Vivitrol"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "naltrexone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "buPROPion/Naltrexone XR (Oral Pill)",
+        "CONTRAVE XR (Oral Pill)",
+        "Naltrexone (Injectable)",
+        "Naltrexone (Oral Pill)",
+        "REVIA (Oral Pill)",
+        "VIVITROL (Injectable)"
+      ]
+    },
+    {
+      "id": "nefazodone",
+      "name": "Nefazodone",
+      "aliases": [
+        "Serzone"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "nefazodone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Nefazodone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "nicotine",
+      "name": "Nicotine",
+      "aliases": [
+        "Nicoderm",
+        "Nicorette",
+        "Nicotrol"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "nicotine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "HABITROL (Transdermal)",
+        "NICODERM C-Q (Transdermal)",
+        "NICORELIEF (Chewable)",
+        "NICORETTE (Chewable)",
+        "NICORETTE (Oral Lozenge)",
+        "Nicotine (Chewable)",
+        "Nicotine (Inhalant)",
+        "Nicotine (Nasal)",
+        "Nicotine (Oral Lozenge)",
+        "Nicotine (Transdermal)",
+        "NICOTROL (Inhalant)",
+        "NICOTROL (Nasal)",
+        "THRIVE (Chewable)"
+      ]
+    },
+    {
+      "id": "nortriptyline",
+      "name": "Nortriptyline",
+      "aliases": [
+        "Pamelor"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "nortriptyline"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Nortriptyline (Oral Liquid)",
+        "Nortriptyline (Oral Pill)",
+        "PAMELOR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "olanzapine",
+      "name": "Olanzapine",
+      "aliases": [
+        "Zyprexa",
+        "Relprevv"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "olanzapine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "FLUoxetine/OLANZapine (Oral Pill)",
+        "LYBALVI (Oral Pill)",
+        "OLANZapine (Injectable)",
+        "OLANZapine (Oral Disintegrating)",
+        "OLANZapine (Oral Pill)",
+        "OLANZapine/Samidorphan (Oral Pill)",
+        "SYMBYAX (Oral Pill)",
+        "ZyPREXA (Injectable)",
+        "ZyPREXA (Oral Disintegrating)",
+        "ZyPREXA (Oral Pill)"
+      ]
+    },
+    {
+      "id": "olanzapine-samidorphan",
+      "name": "Olanzapine/samidorphan",
+      "aliases": [
+        "Lybalvi"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "olanzapine/samidorphan"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "LYBALVI (Oral Pill)",
+        "OLANZapine/Samidorphan (Oral Pill)"
+      ]
+    },
+    {
+      "id": "oxazepam",
+      "name": "Oxazepam",
+      "aliases": [
+        "Serax"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "oxazepam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Oxazepam (Oral Pill)"
+      ]
+    },
+    {
+      "id": "oxcarbazepine",
+      "name": "Oxcarbazepine",
+      "aliases": [
+        "Trileptal",
+        "Oxtellar"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "oxcarbazepine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "OXcarbazepine (Oral Liquid)",
+        "OXcarbazepine (Oral Pill)",
+        "OXcarbazepine XR (Oral Pill)",
+        "OXTELLAR XR (Oral Pill)",
+        "TRILEPTAL (Oral Liquid)",
+        "TRILEPTAL (Oral Pill)"
+      ]
+    },
+    {
+      "id": "paliperidone",
+      "name": "Paliperidone",
+      "aliases": [
+        "Invega"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "paliperidone"
+      ],
+      "referenceDrugIds": [
+        "paliperidone"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "ERZOFRI (Injectable)",
+        "INVEGA (Injectable)",
+        "INVEGA XR (Oral Pill)",
+        "Paliperidone (Injectable)",
+        "Paliperidone XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "paroxetine",
+      "name": "Paroxetine",
+      "aliases": [
+        "Paxil",
+        "Pexeva"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "paroxetine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "BRISDELLE (Oral Pill)",
+        "PARoxetine (Oral Liquid)",
+        "PARoxetine (Oral Pill)",
+        "PARoxetine XR (Oral Pill)",
+        "PAXIL (Oral Liquid)",
+        "PAXIL (Oral Pill)",
+        "PAXIL XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "perphenazine",
+      "name": "Perphenazine",
+      "aliases": [
+        "Trilafon"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "perphenazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Amitriptyline/Perphenazine (Oral Pill)",
+        "Perphenazine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "phenelzine",
+      "name": "Phenelzine",
+      "aliases": [
+        "Nardil"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "phenelzine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "NARDIL (Oral Pill)",
+        "Phenelzine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "pimavanserin",
+      "name": "Pimavanserin",
+      "aliases": [
+        "Nuplazid"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "pimavanserin"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "NUPLAZID (Oral Pill)",
+        "Pimavanserin (Oral Pill)"
+      ]
+    },
+    {
+      "id": "pimozide",
+      "name": "Pimozide",
+      "aliases": [
+        "Orap"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "pimozide"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Pimozide (Oral Pill)"
+      ]
+    },
+    {
+      "id": "pitolisant",
+      "name": "Pitolisant",
+      "aliases": [
+        "Wakix"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "pitolisant"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Pitolisant (Oral Pill)",
+        "WAKIX (Oral Pill)"
+      ]
+    },
+    {
+      "id": "pramipexole",
+      "name": "Pramipexole",
+      "aliases": [
+        "Mirapex"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "pramipexole"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "MIRAPEX (Oral Pill)",
+        "MIRAPEX XR (Oral Pill)",
+        "Pramipexole (Oral Pill)",
+        "Pramipexole XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "prazosin",
+      "name": "Prazosin",
+      "aliases": [
+        "Minipress"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "prazosin"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "MINIPRESS (Oral Pill)",
+        "Prazosin (Oral Pill)"
+      ]
+    },
+    {
+      "id": "pregabalin",
+      "name": "Pregabalin",
+      "aliases": [
+        "Lyrica"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "pregabalin"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "LYRICA (Oral Liquid)",
+        "LYRICA (Oral Pill)",
+        "LYRICA XR (Oral Pill)",
+        "Pregabalin (Oral Liquid)",
+        "Pregabalin (Oral Pill)",
+        "Pregabalin XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "propranolol",
+      "name": "Propranolol",
+      "aliases": [
+        "Inderal"
+      ],
+      "categories": [
+        "Anxiety & related adjuncts"
+      ],
+      "terms": [
+        "propranolol"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "HEMANGEOL (Oral Liquid)",
+        "INDERAL XR (Oral Pill)",
+        "INNOPRAN XR (Oral Pill)",
+        "Propranolol (Injectable)",
+        "Propranolol (Oral Liquid)",
+        "Propranolol (Oral Pill)",
+        "Propranolol XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "protriptyline",
+      "name": "Protriptyline",
+      "aliases": [
+        "Vivactil"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "protriptyline"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Protriptyline (Oral Pill)"
+      ]
+    },
+    {
+      "id": "quazepam",
+      "name": "Quazepam",
+      "aliases": [
+        "Doral"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "quazepam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "DORAL (Oral Pill)",
+        "Quazepam (Oral Pill)"
+      ]
+    },
+    {
+      "id": "quetiapine",
+      "name": "Quetiapine",
+      "aliases": [
+        "Seroquel"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "quetiapine"
+      ],
+      "referenceDrugIds": [
+        "quetiapine"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "QUEtiapine (Oral Pill)",
+        "QUEtiapine XR (Oral Pill)",
+        "SEROQUEL (Oral Pill)",
+        "SEROQUEL XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "ramelteon",
+      "name": "Ramelteon",
+      "aliases": [
+        "Rozerem"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "ramelteon"
+      ],
+      "referenceDrugIds": [
+        "ramelteon"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "Ramelteon (Oral Pill)",
+        "ROZEREM (Oral Pill)"
+      ]
+    },
+    {
+      "id": "risperidone",
+      "name": "Risperidone",
+      "aliases": [
+        "Risperdal",
+        "Perseris",
+        "Uzedy",
+        "Rykindo"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "risperidone"
+      ],
+      "referenceDrugIds": [
+        "risperidone"
+      ],
+      "productIds": [
+        "risperidone"
+      ],
+      "rxGroups": [
+        "PERSERIS (Injectable)",
+        "RisperDAL (Injectable)",
+        "RisperDAL (Oral Liquid)",
+        "RisperDAL (Oral Pill)",
+        "risperiDONE (Injectable)",
+        "risperiDONE (Oral Disintegrating)",
+        "risperiDONE (Oral Liquid)",
+        "risperiDONE (Oral Pill)",
+        "RYKINDO (Injectable)",
+        "UZEDY (Injectable)"
+      ]
+    },
+    {
+      "id": "rivastigmine",
+      "name": "Rivastigmine",
+      "aliases": [
+        "Exelon"
+      ],
+      "categories": [
+        "Cognition & related symptoms"
+      ],
+      "terms": [
+        "rivastigmine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "EXELON (Transdermal)",
+        "Rivastigmine (Oral Pill)",
+        "Rivastigmine (Transdermal)"
+      ]
+    },
+    {
+      "id": "ropinirole",
+      "name": "Ropinirole",
+      "aliases": [
+        "Requip"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "ropinirole"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "rOPINIRole (Oral Pill)",
+        "rOPINIRole XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "rotigotine",
+      "name": "Rotigotine",
+      "aliases": [
+        "Neupro"
+      ],
+      "categories": [
+        "Other source-mentioned medicines"
+      ],
+      "terms": [
+        "rotigotine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "NEUPRO (Transdermal)",
+        "Rotigotine (Transdermal)"
+      ]
+    },
+    {
+      "id": "selegiline",
+      "name": "Selegiline",
+      "aliases": [
+        "Emsam"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "selegiline"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "EMSAM (Transdermal)",
+        "Selegiline (Oral Disintegrating)",
+        "Selegiline (Oral Pill)",
+        "Selegiline (Transdermal)",
+        "ZELAPAR (Oral Disintegrating)"
+      ]
+    },
+    {
+      "id": "serdexmethylphenidate-dexmethylphenidate",
+      "name": "Serdexmethylphenidate/dexmethylphenidate",
+      "aliases": [
+        "Azstarys"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "serdexmethylphenidate/dexmethylphenidate"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "AZSTARYS (Oral Pill)",
+        "Dexmethylphenidate/Serdexmethylphenidate (Oral Pill)"
+      ]
+    },
+    {
+      "id": "sertraline",
+      "name": "Sertraline",
+      "aliases": [
+        "Zoloft"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "sertraline"
+      ],
+      "referenceDrugIds": [
+        "sertraline"
+      ],
+      "productIds": [
+        "sertraline"
+      ],
+      "rxGroups": [
+        "Sertraline (Oral Liquid)",
+        "Sertraline (Oral Pill)",
+        "ZOLOFT (Oral Liquid)",
+        "ZOLOFT (Oral Pill)"
+      ]
+    },
+    {
+      "id": "sodium-oxybate",
+      "name": "Sodium oxybate",
+      "aliases": [
+        "Xyrem",
+        "Lumryz"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "sodium oxybate"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "LUMRYZ (Oral Suspension Granules)",
+        "Oxybate (Oral Liquid)",
+        "Oxybate (Oral Suspension Granules)",
+        "XYREM (Oral Liquid)",
+        "XYWAV (Oral Liquid)"
+      ]
+    },
+    {
+      "id": "solriamfetol",
+      "name": "Solriamfetol",
+      "aliases": [
+        "Sunosi"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "solriamfetol"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Solriamfetol (Oral Pill)",
+        "SUNOSI (Oral Pill)"
+      ]
+    },
+    {
+      "id": "suvorexant",
+      "name": "Suvorexant",
+      "aliases": [
+        "Belsomra"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "suvorexant"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "BELSOMRA (Oral Pill)",
+        "Suvorexant (Oral Pill)"
+      ]
+    },
+    {
+      "id": "tasimelteon",
+      "name": "Tasimelteon",
+      "aliases": [
+        "Hetlioz"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "tasimelteon"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "HETLIOZ (Oral Liquid)",
+        "HETLIOZ (Oral Pill)",
+        "Tasimelteon (Oral Liquid)",
+        "Tasimelteon (Oral Pill)"
+      ]
+    },
+    {
+      "id": "temazepam",
+      "name": "Temazepam",
+      "aliases": [
+        "Restoril"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "temazepam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "RESTORIL (Oral Pill)",
+        "Temazepam (Oral Pill)"
+      ]
+    },
+    {
+      "id": "tetrabenazine",
+      "name": "Tetrabenazine",
+      "aliases": [
+        "Xenazine"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "tetrabenazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Tetrabenazine (Oral Pill)",
+        "XENAZINE (Oral Pill)"
+      ]
+    },
+    {
+      "id": "thioridazine",
+      "name": "Thioridazine",
+      "aliases": [
+        "Mellaril"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "thioridazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Thioridazine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "thiothixene",
+      "name": "Thiothixene",
+      "aliases": [
+        "Navane"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "thiothixene"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Thiothixene (Oral Pill)"
+      ]
+    },
+    {
+      "id": "topiramate",
+      "name": "Topiramate",
+      "aliases": [
+        "Topamax",
+        "Trokendi",
+        "Qudexy"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "topiramate"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "EPRONTIA (Oral Liquid)",
+        "Phentermine/Topiramate XR (Oral Pill)",
+        "QSYMIA XR (Oral Pill)",
+        "QUDEXY XR (Oral Pill)",
+        "TOPAMAX (Oral Pill)",
+        "Topiramate (Oral Liquid)",
+        "Topiramate (Oral Pill)",
+        "Topiramate XR (Oral Pill)",
+        "TROKENDI XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "tramadol",
+      "name": "Tramadol",
+      "aliases": [],
+      "categories": [
+        "Other source-mentioned medicines"
+      ],
+      "terms": [
+        "tramadol"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Acetaminophen/traMADol (Oral Pill)",
+        "Celecoxib/traMADol (Oral Pill)",
+        "CONZIP XR (Oral Pill)",
+        "QDOLO (Oral Liquid)",
+        "SEGLENTIS (Oral Pill)",
+        "traMADol (Oral Liquid)",
+        "traMADol (Oral Pill)",
+        "traMADol XR (Oral Pill)",
+        "ULTRACET (Oral Pill)",
+        "ULTRAM (Oral Pill)",
+        "ULTRAM XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "tranylcypromine",
+      "name": "Tranylcypromine",
+      "aliases": [
+        "Parnate"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "tranylcypromine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "PARNATE (Oral Pill)",
+        "Tranylcypromine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "trazodone",
+      "name": "Trazodone",
+      "aliases": [
+        "Desyrel",
+        "Oleptro"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "trazodone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "RALDESY (Oral Liquid)",
+        "traZODone (Oral Liquid)",
+        "traZODone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "triazolam",
+      "name": "Triazolam",
+      "aliases": [
+        "Halcion"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "triazolam"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "HALCION (Oral Pill)",
+        "Triazolam (Oral Pill)"
+      ]
+    },
+    {
+      "id": "trifluoperazine",
+      "name": "Trifluoperazine",
+      "aliases": [
+        "Stelazine"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "trifluoperazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Trifluoperazine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "trihexyphenidyl",
+      "name": "Trihexyphenidyl",
+      "aliases": [
+        "Artane"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "trihexyphenidyl"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Trihexyphenidyl (Oral Liquid)",
+        "Trihexyphenidyl (Oral Pill)"
+      ]
+    },
+    {
+      "id": "trimipramine",
+      "name": "Trimipramine",
+      "aliases": [
+        "Surmontil"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "trimipramine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Trimipramine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "valbenazine",
+      "name": "Valbenazine",
+      "aliases": [
+        "Ingrezza"
+      ],
+      "categories": [
+        "Movement effects & related adjuncts"
+      ],
+      "terms": [
+        "valbenazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "INGREZZA (Oral Pill)",
+        "Valbenazine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "valproic-acid",
+      "name": "Valproic acid",
+      "aliases": [
+        "Depakene"
+      ],
+      "categories": [
+        "Mood stabilizers & anticonvulsants"
+      ],
+      "terms": [
+        "valproic acid",
+        "valproate"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Valproate (Injectable)",
+        "Valproate (Oral Liquid)",
+        "Valproate (Oral Pill)"
+      ]
+    },
+    {
+      "id": "varenicline",
+      "name": "Varenicline",
+      "aliases": [
+        "Chantix"
+      ],
+      "categories": [
+        "Addiction treatment & reversal"
+      ],
+      "terms": [
+        "varenicline"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "CHANTIX (Oral Pill)",
+        "TYRVAYA (Nasal)",
+        "Varenicline (Nasal)",
+        "Varenicline (Oral Pill)"
+      ]
+    },
+    {
+      "id": "venlafaxine",
+      "name": "Venlafaxine",
+      "aliases": [
+        "Effexor"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "venlafaxine"
+      ],
+      "referenceDrugIds": [
+        "venlafaxine"
+      ],
+      "productIds": [],
+      "rxGroups": [
+        "EFFEXOR XR (Oral Pill)",
+        "Venlafaxine (Oral Pill)",
+        "Venlafaxine XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "vilazodone",
+      "name": "Vilazodone",
+      "aliases": [
+        "Viibryd"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "vilazodone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "VIIBRYD (Oral Pill)",
+        "Vilazodone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "viloxazine",
+      "name": "Viloxazine",
+      "aliases": [
+        "Qelbree"
+      ],
+      "categories": [
+        "ADHD medications"
+      ],
+      "terms": [
+        "viloxazine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "QELBREE XR (Oral Pill)",
+        "Viloxazine XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "vortioxetine",
+      "name": "Vortioxetine",
+      "aliases": [
+        "Trintellix"
+      ],
+      "categories": [
+        "Antidepressants"
+      ],
+      "terms": [
+        "vortioxetine"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "TRINTELLIX (Oral Pill)",
+        "Vortioxetine (Oral Pill)"
+      ]
+    },
+    {
+      "id": "xanomeline-trospium",
+      "name": "Xanomeline/trospium",
+      "aliases": [
+        "Cobenfy"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "xanomeline/trospium"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "COBENFY (Oral Pill)",
+        "Trospium/Xanomeline (Oral Pill)"
+      ]
+    },
+    {
+      "id": "zaleplon",
+      "name": "Zaleplon",
+      "aliases": [
+        "Sonata"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "zaleplon"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Zaleplon (Oral Pill)"
+      ]
+    },
+    {
+      "id": "ziprasidone",
+      "name": "Ziprasidone",
+      "aliases": [
+        "Geodon"
+      ],
+      "categories": [
+        "Antipsychotics"
+      ],
+      "terms": [
+        "ziprasidone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "GEODON (Injectable)",
+        "GEODON (Oral Pill)",
+        "Ziprasidone (Injectable)",
+        "Ziprasidone (Oral Pill)"
+      ]
+    },
+    {
+      "id": "zolpidem",
+      "name": "Zolpidem",
+      "aliases": [
+        "Ambien",
+        "Edluar",
+        "Intermezzo",
+        "Zolpimist"
+      ],
+      "categories": [
+        "Sleep & wakefulness"
+      ],
+      "terms": [
+        "zolpidem"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "AMBIEN (Oral Pill)",
+        "AMBIEN XR (Oral Pill)",
+        "EDLUAR (Sublingual)",
+        "Zolpidem (Oral Pill)",
+        "Zolpidem (Sublingual)",
+        "Zolpidem XR (Oral Pill)"
+      ]
+    },
+    {
+      "id": "zuranolone",
+      "name": "Zuranolone",
+      "aliases": [
+        "Zurzuvae"
+      ],
+      "categories": [
+        "Specialist depression treatments"
+      ],
+      "terms": [
+        "zuranolone"
+      ],
+      "referenceDrugIds": [],
+      "productIds": [],
+      "rxGroups": [
+        "Zuranolone (Oral Pill)",
+        "ZURZUVAE (Oral Pill)"
+      ]
+    }
+  ],
+  "rxTermsRelease": "202611"
+}
