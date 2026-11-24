@@ -171,3 +171,7 @@ Medication cards now use distinct class colors with matching text tags and an op
 
 ### Clickable medication class key
 Each color-key item is now a keyboard-accessible filter button. Selecting a class clears the name search and shows all medicines tagged with that class, including secondary classes. The category selector and pressed button stay synchronized. All classes restores the full directory.
+
+
+### Compact diagnosis cards and group filters
+Diagnosis cards start collapsed in a compact grid. Select a diagnosis to expand its timeframe, findings, required review and therapy references. Group colors and clickable color-key filters organize the existing seven diagnosis groups; progress remains yellow for partial review and green for complete review, with group tags retained. Expansion survives checkbox changes and filtering. A newly completed review opens the diagnosis and its medication reference panel. Group filters combine with progress filters and preserve visit findings.
