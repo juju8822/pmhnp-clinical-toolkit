@@ -167,3 +167,7 @@ Coverage includes antidepressants, antipsychotics, mood/anticonvulsant reference
 ## Medication class colors and simplified cards
 
 Medication cards now use distinct class colors with matching text tags and an optional color key. The first class determines the card color; additional class tags retain their own colors. User-facing RxCUI numbers, the formulation-choice banner, and DailyMed navigation links were removed from the medication cards and strength details. Source identifiers and source URLs remain in the underlying catalogs. Dosing/safety content and strength/form descriptions remain available in expandable cards. Existing workflow checks were updated to verify the simplified display.
+
+
+### Clickable medication class key
+Each color-key item is now a keyboard-accessible filter button. Selecting a class clears the name search and shows all medicines tagged with that class, including secondary classes. The category selector and pressed button stay synchronized. All classes restores the full directory.
