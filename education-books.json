@@ -1,0 +1,2485 @@
+{
+  "name": "Psychology Books",
+  "rootUrl": "https://drive.google.com/drive/folders/1IS77oKsHu583dRnP0BSuCC2LraL-uz9O",
+  "checked": "2026-11-24",
+  "scope": "Visible file titles indexed from the supplied public Google Drive folder, including the nested Essentials assessment folder. Book contents have not been imported, summarized or clinically validated. Links open the original Drive files; availability is controlled by their owner.",
+  "folders": [
+    {
+      "name": "Psychopharmacology",
+      "subject": "Psychopharmacology",
+      "url": "https://drive.google.com/drive/folders/19VHuY6CvtZyRI65vN4r7nNvkzrhnD1oe"
+    },
+    {
+      "name": "Abnormal Psychology",
+      "subject": "Abnormal Psychology",
+      "url": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9"
+    },
+    {
+      "name": "Behavior Modification",
+      "subject": "Behavior Modification",
+      "url": "https://drive.google.com/drive/folders/1KLPC7q4kH5gH_tYk0fe3qCUthAV1JIx2"
+    },
+    {
+      "name": "Biological Psychology",
+      "subject": "Biological Psychology",
+      "url": "https://drive.google.com/drive/folders/1I8w404NxJtkeTchP9JWGy68P9nsILKDw"
+    },
+    {
+      "name": "Career Development",
+      "subject": "Career Development",
+      "url": "https://drive.google.com/drive/folders/1y3FfGKejNdOMXr6xg0lYX5XeSJm4PVFf"
+    },
+    {
+      "name": "Clinical Psychology",
+      "subject": "Clinical Psychology",
+      "url": "https://drive.google.com/drive/folders/1FKeoLWGDqeGijczcPsLbKkyBtGnEmZfA"
+    },
+    {
+      "name": "Cognitive Psychology",
+      "subject": "Cognitive Psychology",
+      "url": "https://drive.google.com/drive/folders/1XvqFpMZeJ4v9czC8y8iH-XFlJCWo8bIY"
+    },
+    {
+      "name": "Community Psychology",
+      "subject": "Community Psychology",
+      "url": "https://drive.google.com/drive/folders/1oJs0PTFpPZZP3ujuwkSzMWELgIw0o7yA"
+    },
+    {
+      "name": "Consumer Psychology",
+      "subject": "Consumer Psychology",
+      "url": "https://drive.google.com/drive/folders/1ixTCGqKp-9lDCzuWkYjP4wn305t3X6gG"
+    },
+    {
+      "name": "Counseling and Psychotherapy",
+      "subject": "Counseling and Psychotherapy",
+      "url": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_"
+    },
+    {
+      "name": "Developmental Psychology",
+      "subject": "Developmental Psychology",
+      "url": "https://drive.google.com/drive/folders/13EFMxWcg-wX5-FYZo8pnt5Qv4Suf14k1"
+    },
+    {
+      "name": "Educational Psychology",
+      "subject": "Educational Psychology",
+      "url": "https://drive.google.com/drive/folders/1Y48LJ6ZkwAQDXBixh4htbYKq6uQbnDbj"
+    },
+    {
+      "name": "Engineering Psychology",
+      "subject": "Engineering Psychology",
+      "url": "https://drive.google.com/drive/folders/1XoUnv3FG8LQbTxUkqDVf9b3pPQZLDrO6"
+    },
+    {
+      "name": "Ethics in Psychology",
+      "subject": "Ethics in Psychology",
+      "url": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP"
+    },
+    {
+      "name": "Evolutionary Psychology",
+      "subject": "Evolutionary Psychology",
+      "url": "https://drive.google.com/drive/folders/1e0pUJyUFTE_LatOwW-hpOkVseHhBXzsb"
+    },
+    {
+      "name": "Experimental Psychology",
+      "subject": "Experimental Psychology",
+      "url": "https://drive.google.com/drive/folders/16tj1cQtbVHnkcBd2wVb0dKPOfXQhyPKi"
+    },
+    {
+      "name": "Field Methods in Psychology",
+      "subject": "Field Methods in Psychology",
+      "url": "https://drive.google.com/drive/folders/1tyxUIGOsV2jDM0962lBVmS4sUwBjlcm1"
+    },
+    {
+      "name": "Forensic Psychology",
+      "subject": "Forensic Psychology",
+      "url": "https://drive.google.com/drive/folders/1jL1UkjXqDxzxEOnB9OnVBedeNRlhFoX9"
+    },
+    {
+      "name": "General Psychology",
+      "subject": "General Psychology",
+      "url": "https://drive.google.com/drive/folders/1gQgriSS_XKlC7GvW_Yl4T7MeWNXIARb3"
+    },
+    {
+      "name": "Group Dynamics/Process",
+      "subject": "Group Dynamics/Process",
+      "url": "https://drive.google.com/drive/folders/10ht1hEp5xHPutWyuW8GffulC9Qs4inoq"
+    },
+    {
+      "name": "Health Psychology",
+      "subject": "Health Psychology",
+      "url": "https://drive.google.com/drive/folders/1vULErsHCmzrynheZFM5zcpgcWLKETjpi"
+    },
+    {
+      "name": "Human Resource",
+      "subject": "Human Resource",
+      "url": "https://drive.google.com/drive/folders/1wodPZCgLEvz4siuT0Y224-T0hkm1bSlR"
+    },
+    {
+      "name": "Industrial/Organizational Psychology",
+      "subject": "Industrial/Organizational Psychology",
+      "url": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP"
+    },
+    {
+      "name": "LGBTQ Psychology",
+      "subject": "LGBTQ Psychology",
+      "url": "https://drive.google.com/drive/folders/157zfJ8NSMQaAENSxqAJRRX5Wj4IMept_"
+    },
+    {
+      "name": "Military Psychology",
+      "subject": "Military Psychology",
+      "url": "https://drive.google.com/drive/folders/15ebfsR82w6kcfZ-IDHtdtwRdfamkXp1G"
+    },
+    {
+      "name": "Neuropsychology",
+      "subject": "Neuropsychology",
+      "url": "https://drive.google.com/drive/folders/1ieb293JtfjZ8vOO_t0tdNDrbK8RO7kxx"
+    },
+    {
+      "name": "Political Psychology",
+      "subject": "Political Psychology",
+      "url": "https://drive.google.com/drive/folders/1r9XJr0cTR76M0ur2vBzTZ5lVIo6eQ6iw"
+    },
+    {
+      "name": "Positive Psychology",
+      "subject": "Positive Psychology",
+      "url": "https://drive.google.com/drive/folders/1Iw0_3ZJ84v9tLY6WhXIDD9nz4e2APthE"
+    },
+    {
+      "name": "Psychological Assessment",
+      "subject": "Psychological Assessment",
+      "url": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T"
+    },
+    {
+      "name": "Psychological Research",
+      "subject": "Psychological Research",
+      "url": "https://drive.google.com/drive/folders/1NT9vHE0pDPyPWjnHb_egiDEDbwIuGJOn"
+    },
+    {
+      "name": "Psychological Statistics",
+      "subject": "Psychological Statistics",
+      "url": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD"
+    },
+    {
+      "name": "Psychology of Learning",
+      "subject": "Psychology of Learning",
+      "url": "https://drive.google.com/drive/folders/1CgdSbKzlx4qgP7wJFcueNYtMs1B6k2xi"
+    },
+    {
+      "name": "Psychoneuroimmunology",
+      "subject": "Psychoneuroimmunology",
+      "url": "https://drive.google.com/drive/folders/1pbpCXuA2Z1ahzLQCQ0DM7OS2h8WeD1d0"
+    },
+    {
+      "name": "Sikolohiyang Pilipino",
+      "subject": "Sikolohiyang Pilipino",
+      "url": "https://drive.google.com/drive/folders/1uofjBAWQ_fgT5A6war-DF0PesX2f3DeM"
+    },
+    {
+      "name": "Social Psychology",
+      "subject": "Social Psychology",
+      "url": "https://drive.google.com/drive/folders/192I2UtwSoWs96MgP9TchteXQG3EIQpFY"
+    },
+    {
+      "name": "Sports Psychology",
+      "subject": "Sports Psychology",
+      "url": "https://drive.google.com/drive/folders/1sRQpOVufe0SqDEYVryMvQaX2OdPIH5PT"
+    },
+    {
+      "name": "Test Development (3)",
+      "subject": "Test Development (3)",
+      "url": "https://drive.google.com/drive/folders/1eMRiuIVrhQPsvsO1W7WLv4y6BNZ68K5-"
+    },
+    {
+      "name": "Theories of Personality",
+      "subject": "Theories of Personality",
+      "url": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP"
+    },
+    {
+      "name": "Psychological Assessment / Essentials",
+      "subject": "Psychological Assessment",
+      "url": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj"
+    }
+  ],
+  "books": [
+    {
+      "id": "1bUhm4NEAEHg74VDZZ6TzGO91juEE6U6i",
+      "title": "(Clinical Supervision Essentials Series) Dr. Carol A. Falender PhD, Dr. Edward P. Shafranske PhD ABPP - Supervision Essentials for the Practice of Competency-Based Supervision-American Psychological",
+      "filename": "(Clinical Supervision Essentials Series) Dr. Carol A. Falender PhD, Dr. Edward P. Shafranske PhD  ABPP - Supervision Essentials for the Practice of Competency-Based Supervision-American Psychological .pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1bUhm4NEAEHg74VDZZ6TzGO91juEE6U6i/view"
+    },
+    {
+      "id": "1QiV0BJByg3RNlZ2XYHkBXCa3jfB7uWF5",
+      "title": "Allen C. Israel Jennifer Weil Malatras Rita Wicks- Nelson - Abnormal Child and Adolescent Psychology-Routledge (2020)",
+      "filename": "Allen C. Israel_ Jennifer Weil Malatras_ Rita Wicks- Nelson - Abnormal Child and Adolescent Psychology-Routledge (2020).epub",
+      "format": "EPUB",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1QiV0BJByg3RNlZ2XYHkBXCa3jfB7uWF5/view"
+    },
+    {
+      "id": "1ByMLybICr7PTrW7W9-E3RWJmW3kr4TVd",
+      "title": "Andrew R. Getzfeld - Abnormal Psychology Casebook A New Perspective-Prentice Hall (2003)",
+      "filename": "Andrew R. Getzfeld - Abnormal Psychology Casebook_ A New Perspective-Prentice Hall (2003).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1ByMLybICr7PTrW7W9-E3RWJmW3kr4TVd/view"
+    },
+    {
+      "id": "1Zl4OQbCLLLAcLDhrqD-yNIAwRTKf4TtY",
+      "title": "Barlow Durand - Abnormal Psychology",
+      "filename": "Barlow _ Durand - Abnormal Psychology.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1Zl4OQbCLLLAcLDhrqD-yNIAwRTKf4TtY/view"
+    },
+    {
+      "id": "1-kL6E2-iaEvB09frQhpJE1HL8G9sbnTl",
+      "title": "Benjamin J. Sadock, Virginia A. Sadock, Pedro Ruiz - Kaplan and Sadock s Synopsis of Psychiatry-Wolters Kluwer (2014)",
+      "filename": "Benjamin J. Sadock, Virginia A. Sadock, Pedro Ruiz - Kaplan and Sadock_s Synopsis of Psychiatry-Wolters Kluwer (2014).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1-kL6E2-iaEvB09frQhpJE1HL8G9sbnTl/view"
+    },
+    {
+      "id": "1gVMTaR48IEdi496XyJcIy72r8JQyN_x3",
+      "title": "Butcher, Hooley, Mineka, Nock - Abnormal Psychology",
+      "filename": "Butcher, Hooley, Mineka, Nock - Abnormal Psychology.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1gVMTaR48IEdi496XyJcIy72r8JQyN_x3/view"
+    },
+    {
+      "id": "1ej3ym8-F_MCrMoo22GyZ4mnc2i79LhpT",
+      "title": "Case Studies in Abnormal Psychology 9th Edition",
+      "filename": "Case Studies in Abnormal Psychology 9th Edition.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1ej3ym8-F_MCrMoo22GyZ4mnc2i79LhpT/view"
+    },
+    {
+      "id": "1XLYbUrcZBd1ECy6uPhWvoYIwMclSg5d_",
+      "title": "Casebook for Dsm-5(tm) Diagnosis and Treatment Planning by Elizabeth Ventura (z-lib.org)",
+      "filename": "Casebook for Dsm-5(tm) Diagnosis and Treatment Planning by Elizabeth Ventura (z-lib.org).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1XLYbUrcZBd1ECy6uPhWvoYIwMclSg5d_/view"
+    },
+    {
+      "id": "1aTDZknXvGt2CPxWKZmNccPU_a_y_s_Ce",
+      "title": "Changes-From-DSM-IV-TR-to-DSM-5",
+      "filename": "Changes-From-DSM-IV-TR-to-DSM-5.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1aTDZknXvGt2CPxWKZmNccPU_a_y_s_Ce/view"
+    },
+    {
+      "id": "1Imj_J3Tsc2HOxen0Jo6eV_20ONOS1BG0",
+      "title": "David H. Barlow - Clinical Handbook of Psychological Disorders A Step-by-Step Treatment Manual-The Guilford Press (2014)",
+      "filename": "David H. Barlow - Clinical Handbook of Psychological Disorders_ A Step-by-Step Treatment Manual-The Guilford Press (2014).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1Imj_J3Tsc2HOxen0Jo6eV_20ONOS1BG0/view"
+    },
+    {
+      "id": "18Op-Aq-NWc4jfiBwbEV2Fywpn0NriGxI",
+      "title": "David H. Barlow V. Mark Durand - Abnormal Psychology An Integrative Approach- 8th (2017)",
+      "filename": "David H. Barlow_ V. Mark Durand - Abnormal Psychology_ An Integrative Approach- 8th (2017).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/18Op-Aq-NWc4jfiBwbEV2Fywpn0NriGxI/view"
+    },
+    {
+      "id": "1OEDjZHdB8uouT1UKWu4CFFfQ_vqGwTqW",
+      "title": "David H. Barlow, V. Mark Durand, Stefan G. Hofmann - Psychopathology An Integrative Approach to Mental Disorders (MindTap Course List)-Cengage Learning (2023)",
+      "filename": "David H. Barlow, V. Mark Durand, Stefan G. Hofmann - Psychopathology_ An Integrative Approach to Mental Disorders (MindTap Course List)-Cengage Learning (2023).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1OEDjZHdB8uouT1UKWu4CFFfQ_vqGwTqW/view"
+    },
+    {
+      "id": "1tWKzEUv8YEk7LXm3upcYcpbmPjjyQdL0",
+      "title": "David Sue, Derald Wing Sue, Diane M. Sue, Stanley Sue - Understanding Abnormal Behavior (MindTap Course List)-Cengage Learning (2021)",
+      "filename": "David Sue, Derald Wing Sue, Diane M. Sue, Stanley Sue - Understanding Abnormal Behavior (MindTap Course List)-Cengage Learning (2021).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1tWKzEUv8YEk7LXm3upcYcpbmPjjyQdL0/view"
+    },
+    {
+      "id": "1YzS5_CVyNKXL8duooxdSS7awPgNkUB7w",
+      "title": "David Sue, Derald Wing Sue, Diane Sue, Stanley Sue - Understanding Abnormal Behavior (2015, Wadsworth Publishing)",
+      "filename": "David Sue, Derald Wing Sue, Diane Sue, Stanley Sue - Understanding Abnormal Behavior (2015, Wadsworth Publishing).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1YzS5_CVyNKXL8duooxdSS7awPgNkUB7w/view"
+    },
+    {
+      "id": "1UIq8ziP-DYrz91WYR-3RbrOMsGDDZP8g",
+      "title": "DSM 5",
+      "filename": "DSM 5.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1UIq8ziP-DYrz91WYR-3RbrOMsGDDZP8g/view"
+    },
+    {
+      "id": "1o8QZpkBkV0D_iLO4pIH9BwRwtYiVQjIS",
+      "title": "DSM 5 TR",
+      "filename": "DSM 5 TR.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1o8QZpkBkV0D_iLO4pIH9BwRwtYiVQjIS/view"
+    },
+    {
+      "id": "1nV-ggrBhDq1suSOGAW2jOPXNu9UJQEaK",
+      "title": "DSM-5-TR",
+      "filename": "DSM-5-TR.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1nV-ggrBhDq1suSOGAW2jOPXNu9UJQEaK/view"
+    },
+    {
+      "id": "1OGjAf1px4VS5nlPEw9GX7LMh7dMhu_gR",
+      "title": "DSM-IV TR",
+      "filename": "DSM-IV TR.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1OGjAf1px4VS5nlPEw9GX7LMh7dMhu_gR/view"
+    },
+    {
+      "id": "1f8YfjsBZrnynE4oVc-tVpwoaIS7DNkN_",
+      "title": "DSM-V-made-easy",
+      "filename": "DSM-V-made-easy.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1f8YfjsBZrnynE4oVc-tVpwoaIS7DNkN_/view"
+    },
+    {
+      "id": "1uA6Sy1ZatLdU8HtNGNGgv3faoF-f8oTr",
+      "title": "Eric J Mash, David A Wolfe - Abnormal Child Psychology (2015, Wadsworth Publishing) - libgen.lc",
+      "filename": "Eric J Mash, David A Wolfe - Abnormal Child Psychology (2015, Wadsworth Publishing) - libgen.lc.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1uA6Sy1ZatLdU8HtNGNGgv3faoF-f8oTr/view"
+    },
+    {
+      "id": "1zw4RTtF58o3TPE_-D0rt8kiptyqTZJC3",
+      "title": "Ethan E. Gorenstein - Case Studies in Abnormal Psychology. 2-Worth Publishers (2015)",
+      "filename": "Ethan E. Gorenstein - Case Studies in Abnormal Psychology. 2-Worth Publishers (2015).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1zw4RTtF58o3TPE_-D0rt8kiptyqTZJC3/view"
+    },
+    {
+      "id": "1JFoqOBMUno4nqgUbN4EmQlfCwdHC_Tkq",
+      "title": "Handbook for Psych Disorders",
+      "filename": "Handbook for Psych Disorders.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1JFoqOBMUno4nqgUbN4EmQlfCwdHC_Tkq/view"
+    },
+    {
+      "id": "1am6N8VlWIGtKhXAQfalfKJdGc_m6Sf5D",
+      "title": "Handbook of Differential Diagnosis by Michael B. First, M.D. (z-lib.org)",
+      "filename": "Handbook of Differential Diagnosis by Michael B. First, M.D. (z-lib.org).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1am6N8VlWIGtKhXAQfalfKJdGc_m6Sf5D/view"
+    },
+    {
+      "id": "1eCiBBFWeE8zs5aiMlNYVyqPfNQsPntIk",
+      "title": "ICD 1",
+      "filename": "ICD 1.PDF",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1eCiBBFWeE8zs5aiMlNYVyqPfNQsPntIk/view"
+    },
+    {
+      "id": "1Sgug3IqRJBisjhpvySiVnwpMZx91VXrG",
+      "title": "ICD 2",
+      "filename": "ICD 2.PDF",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1Sgug3IqRJBisjhpvySiVnwpMZx91VXrG/view"
+    },
+    {
+      "id": "1RLr8-6teTixOFLQS7wOglilRm33lQLf1",
+      "title": "ICD 3",
+      "filename": "ICD 3.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1RLr8-6teTixOFLQS7wOglilRm33lQLf1/view"
+    },
+    {
+      "id": "1yowa2wyRMK5YwKwutRQ_D14m_OKsNICA",
+      "title": "James Morrison - DSM-5-TR® Made Easy The Clinician's Guide to Diagnosis-The Guilford Press (1)",
+      "filename": "James Morrison - DSM-5-TR® Made Easy_ The Clinician's Guide to Diagnosis-The Guilford Press (1).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1yowa2wyRMK5YwKwutRQ_D14m_OKsNICA/view"
+    },
+    {
+      "id": "1VJD-dQdXBa2v4JFyGHXCqlGeyEkjmbVg",
+      "title": "JAMES N. BUTCHER - ABNORMAL PSYCHOLOGY GLOBAL EDITION-PEARSON ACADEMIC (2020)",
+      "filename": "JAMES N. BUTCHER - ABNORMAL PSYCHOLOGY GLOBAL EDITION-PEARSON ACADEMIC (2020).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1VJD-dQdXBa2v4JFyGHXCqlGeyEkjmbVg/view"
+    },
+    {
+      "id": "1Of7Yy-1uGxa09M8olVp4wHz4mA34ftIP",
+      "title": "John Austin Ph.D., James Carr Ph.D. - Handbook of Applied Behavior Analysis (2000, Context Press)",
+      "filename": "John Austin Ph.D., James Carr Ph.D. - Handbook of Applied Behavior Analysis (2000, Context Press) - libgen.li.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1Of7Yy-1uGxa09M8olVp4wHz4mA34ftIP/view"
+    },
+    {
+      "id": "1si9XcCSDvJIX6pNgzmK8dYMsBS0ZwDo-",
+      "title": "Kring - Abnormal-Psychology - 12th Edition",
+      "filename": "Kring - Abnormal-Psychology - 12th Edition.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1si9XcCSDvJIX6pNgzmK8dYMsBS0ZwDo-/view"
+    },
+    {
+      "id": "1vS0Zj2awCKQtEfzv-dCGZUYwNwqUF6GJ",
+      "title": "Mark F. Lenzenweger Phd, John F. Clarkin PhD - Major Theories of Personality Disorder-The Guilford Press (2004)",
+      "filename": "Mark F. Lenzenweger Phd, John F. Clarkin PhD - Major Theories of Personality Disorder-The Guilford Press (2004).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1vS0Zj2awCKQtEfzv-dCGZUYwNwqUF6GJ/view"
+    },
+    {
+      "id": "1yj7nr-VCRb3ebDaTPhYQU_LQxG38oPfe",
+      "title": "Mitch Fryling, Ruth Anne Rehfeldt, Jonathan Tarbox, Linda J. H - Applied Behavior Analysis of Language & Cognition Core Concepts & Principles for Practitioners (2020, Context Press)",
+      "filename": "Mitch Fryling, _ Ruth Anne Rehfeldt, Jonathan Tarbox, Linda J. H - Applied Behavior Analysis of Language & Cognition_ Core Concepts & Principles for Practitioners (2020, Context Press) - libgen.li.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1yj7nr-VCRb3ebDaTPhYQU_LQxG38oPfe/view"
+    },
+    {
+      "id": "1K6mTNggcykorFKuPyLeeG9x6ybaBxrk3",
+      "title": "Muskin - DSM-5 Self-Exam Questions Test Questions for the Diagnostic Criteria",
+      "filename": "Muskin - DSM-5 Self-Exam Questions Test Questions for the Diagnostic Criteria.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1K6mTNggcykorFKuPyLeeG9x6ybaBxrk3/view"
+    },
+    {
+      "id": "12GxoFAmi5aaDt5Tl41wcnwCdbVE_62Wy",
+      "title": "Nolen-Hoeksema - Abnormal Psychology",
+      "filename": "Nolen-Hoeksema - Abnormal Psychology.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/12GxoFAmi5aaDt5Tl41wcnwCdbVE_62Wy/view"
+    },
+    {
+      "id": "1u9eEEkKhsEVfP1yqjYKkZ7m3H-kUVAcy",
+      "title": "Psychiatric Interview A Guide to History Taking and the Mental State Examination by Saxby Pridmore (z-lib.org)",
+      "filename": "Psychiatric Interview A Guide to History Taking and the Mental State Examination by Saxby Pridmore (z-lib.org).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1u9eEEkKhsEVfP1yqjYKkZ7m3H-kUVAcy/view"
+    },
+    {
+      "id": "1lkT9Z5KouJNzv1XjacPuWZBeWL-hCASV",
+      "title": "Robert Boland, Marcia Verdiun, Pedro Ruiz - Kaplan & Sadock’s Synopsis of Psychiatry (2021, LWW Wolters Kluwer Health)",
+      "filename": "Robert Boland, Marcia Verdiun, Pedro Ruiz - Kaplan & Sadock’s Synopsis of Psychiatry (2021, LWW Wolters Kluwer Health) - libgen.li.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1lkT9Z5KouJNzv1XjacPuWZBeWL-hCASV/view"
+    },
+    {
+      "id": "18C7J4Eht0Sa431PDWQL6vyAwUjnIoa8e",
+      "title": "Ronald J. Comer 9th - Abnormal Psychology",
+      "filename": "Ronald J. Comer 9th - Abnormal Psychology.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/18C7J4Eht0Sa431PDWQL6vyAwUjnIoa8e/view"
+    },
+    {
+      "id": "1S5gmwslAto6m6x83WAcsJA3MgBSVn24G",
+      "title": "Ronald J. Comer,Jonathan S. Comer - Abnormal Psychology-Worth Publishers (2017)",
+      "filename": "Ronald J. Comer,Jonathan S. Comer - Abnormal Psychology-Worth Publishers (2017).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1S5gmwslAto6m6x83WAcsJA3MgBSVn24G/view"
+    },
+    {
+      "id": "144bMg1WIMxDRtS3x5EC0xjfj7ORk7Sbc",
+      "title": "The Neuropsychiatric Mental Status Examination by Michael Alan Taylor M.D. (auth.) (z-lib.org)",
+      "filename": "The Neuropsychiatric Mental Status Examination by Michael Alan Taylor M.D. (auth.) (z-lib.org).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/144bMg1WIMxDRtS3x5EC0xjfj7ORk7Sbc/view"
+    },
+    {
+      "id": "1gvSpK8UagyGXI3Wp5HeTulA1-qZHRe74",
+      "title": "Thomas F. Oltmanns, Robert E. Emery 7th Edition Abnormal Psychology",
+      "filename": "Thomas F. Oltmanns, Robert E. Emery 7th Edition Abnormal Psychology.pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1gvSpK8UagyGXI3Wp5HeTulA1-qZHRe74/view"
+    },
+    {
+      "id": "1mIYRDbKE1QtQ9IV_FAS44a5P7TIbYHva",
+      "title": "Timothy A. Brown, David H. Barlow - Casebook in Abnormal Psychology, 4th Edition-Cengage Learning (2010)",
+      "filename": "Timothy A. Brown, David H. Barlow - Casebook in Abnormal Psychology, 4th Edition-Cengage Learning (2010).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1mIYRDbKE1QtQ9IV_FAS44a5P7TIbYHva/view"
+    },
+    {
+      "id": "1GPFtfyGLPWu9hgSrHdSedwD8OOpXVjUj",
+      "title": "World Health Organization - The International Statistical Classification of Diseases and Health Related Problems ICD-10, Volume 3. 3-World Health Organization (2008)",
+      "filename": "World Health Organization - The International Statistical Classification of Diseases and Health Related Problems_ ICD-10, Volume 3. 3-World Health Organization (2008).pdf",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1GPFtfyGLPWu9hgSrHdSedwD8OOpXVjUj/view"
+    },
+    {
+      "id": "1b_ynBWX92Qt1WfYjRvpZp1FnhftgErXQ",
+      "title": "WORLDH~1",
+      "filename": "WORLDH~1.PDF",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1b_ynBWX92Qt1WfYjRvpZp1FnhftgErXQ/view"
+    },
+    {
+      "id": "1Lu-nhrjerzUSAcNY8I3_ygkDp2OtfXi3",
+      "title": "WORLDH~2",
+      "filename": "WORLDH~2.PDF",
+      "format": "PDF",
+      "subject": "Abnormal Psychology",
+      "folder": "Abnormal Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14Qnr0dxW23773_DiTrEmKH_mgvKngzt9",
+      "url": "https://drive.google.com/file/d/1Lu-nhrjerzUSAcNY8I3_ygkDp2OtfXi3/view"
+    },
+    {
+      "id": "1moUh9t9TwUkHPiHupuiCG5eocggoU0N6",
+      "title": "Behavior Modification - Principles, Procedures 5th ed. - R. Miltenberger (Cengage, 2012)",
+      "filename": "Behavior Modification - Principles, Procedures 5th ed. - R. Miltenberger (Cengage, 2012).pdf",
+      "format": "PDF",
+      "subject": "Behavior Modification",
+      "folder": "Behavior Modification",
+      "folderUrl": "https://drive.google.com/drive/folders/1KLPC7q4kH5gH_tYk0fe3qCUthAV1JIx2",
+      "url": "https://drive.google.com/file/d/1moUh9t9TwUkHPiHupuiCG5eocggoU0N6/view"
+    },
+    {
+      "id": "1G-w3RhpIEKtx7ktr9TDW1rl4cJA6otXf",
+      "title": "BioPsy - Handbook of Psychology",
+      "filename": "BioPsy - Handbook of Psychology.pdf",
+      "format": "PDF",
+      "subject": "Biological Psychology",
+      "folder": "Biological Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1I8w404NxJtkeTchP9JWGy68P9nsILKDw",
+      "url": "https://drive.google.com/file/d/1G-w3RhpIEKtx7ktr9TDW1rl4cJA6otXf/view"
+    },
+    {
+      "id": "10klu04xBI_52u8DgUxmQIMPmMpelN_KG",
+      "title": "Discovering Biological Psychology",
+      "filename": "Discovering Biological Psychology.pdf",
+      "format": "PDF",
+      "subject": "Biological Psychology",
+      "folder": "Biological Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1I8w404NxJtkeTchP9JWGy68P9nsILKDw",
+      "url": "https://drive.google.com/file/d/10klu04xBI_52u8DgUxmQIMPmMpelN_KG/view"
+    },
+    {
+      "id": "1bEBliRn0AKXdygKAOifp8pkhts5_IQqL",
+      "title": "James W. Kalat - Biological Psychology-Cengage Learning (2018) 13th",
+      "filename": "James W. Kalat - Biological Psychology-Cengage Learning (2018) 13th.pdf",
+      "format": "PDF",
+      "subject": "Biological Psychology",
+      "folder": "Biological Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1I8w404NxJtkeTchP9JWGy68P9nsILKDw",
+      "url": "https://drive.google.com/file/d/1bEBliRn0AKXdygKAOifp8pkhts5_IQqL/view"
+    },
+    {
+      "id": "18BztE-BU_85W-5FGLPZJrI2WR2QnSsT9",
+      "title": "John P. J. Pinel, Steven Barnes - Biopsychology, Global Edition-Pearson (2017)",
+      "filename": "John P. J. Pinel, Steven Barnes - Biopsychology, Global Edition-Pearson (2017).pdf",
+      "format": "PDF",
+      "subject": "Biological Psychology",
+      "folder": "Biological Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1I8w404NxJtkeTchP9JWGy68P9nsILKDw",
+      "url": "https://drive.google.com/file/d/18BztE-BU_85W-5FGLPZJrI2WR2QnSsT9/view"
+    },
+    {
+      "id": "1yxy9Vcd5fu_9kl8i1fu105Hv1XjUm6jZ",
+      "title": "Imelda Villar Career Counseling In the Philippines",
+      "filename": "Imelda Villar_Career Counseling In the Philippines.pdf",
+      "format": "PDF",
+      "subject": "Career Development",
+      "folder": "Career Development",
+      "folderUrl": "https://drive.google.com/drive/folders/1y3FfGKejNdOMXr6xg0lYX5XeSJm4PVFf",
+      "url": "https://drive.google.com/file/d/1yxy9Vcd5fu_9kl8i1fu105Hv1XjUm6jZ/view"
+    },
+    {
+      "id": "1qJRn88JlNVskov7nUBdT1gI-mIAIkUxx",
+      "title": "Jane Laurel Swanson Nadya Fouad Editor Elect -. Nadya a. Fouad - Career Theory and Practice Learning Through Case Studies-Sage Publications (CA) (1999)",
+      "filename": "Jane Laurel Swanson_ Nadya Fouad_ Editor Elect -. Nadya a. Fouad - Career Theory and Practice_ Learning Through Case Studies-Sage Publications (CA) (1999).pdf",
+      "format": "PDF",
+      "subject": "Career Development",
+      "folder": "Career Development",
+      "folderUrl": "https://drive.google.com/drive/folders/1y3FfGKejNdOMXr6xg0lYX5XeSJm4PVFf",
+      "url": "https://drive.google.com/file/d/1qJRn88JlNVskov7nUBdT1gI-mIAIkUxx/view"
+    },
+    {
+      "id": "1VcwkKW1imJ7mHsYiU-YmJ0N1JqnxvWzj",
+      "title": "Steven D. Brown, Robert W. Lent - Career Development and Counseling Putting Theory and Research to Work-Wiley (2013)",
+      "filename": "Steven D. Brown, Robert W. Lent - Career Development and Counseling_ Putting Theory and Research to Work-Wiley (2013).pdf",
+      "format": "PDF",
+      "subject": "Career Development",
+      "folder": "Career Development",
+      "folderUrl": "https://drive.google.com/drive/folders/1y3FfGKejNdOMXr6xg0lYX5XeSJm4PVFf",
+      "url": "https://drive.google.com/file/d/1VcwkKW1imJ7mHsYiU-YmJ0N1JqnxvWzj/view"
+    },
+    {
+      "id": "1T9lKTmihl48tOos95TGrGQj2PuOo3Pkg",
+      "title": "Vernon G. Zunker - Career Counseling A Holistic Approach-Brooks Cole (2006)",
+      "filename": "Vernon G. Zunker - Career Counseling_ A Holistic Approach-Brooks Cole (2006).pdf",
+      "format": "PDF",
+      "subject": "Career Development",
+      "folder": "Career Development",
+      "folderUrl": "https://drive.google.com/drive/folders/1y3FfGKejNdOMXr6xg0lYX5XeSJm4PVFf",
+      "url": "https://drive.google.com/file/d/1T9lKTmihl48tOos95TGrGQj2PuOo3Pkg/view"
+    },
+    {
+      "id": "1jvR4vi-5WochrPelLZSa_Lan9mQANvKj",
+      "title": "Andrew M. Pomerantz - Clinical Psychology Science, Practice, and Culture-Sage Publications, Inc (2017)",
+      "filename": "Andrew M. Pomerantz - Clinical Psychology_ Science, Practice, and Culture-Sage Publications, Inc (2017).pdf",
+      "format": "PDF",
+      "subject": "Clinical Psychology",
+      "folder": "Clinical Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1FKeoLWGDqeGijczcPsLbKkyBtGnEmZfA",
+      "url": "https://drive.google.com/file/d/1jvR4vi-5WochrPelLZSa_Lan9mQANvKj/view"
+    },
+    {
+      "id": "1pNO_AfUHNtXrWEpT4TI4No6b3m-o-Tz6",
+      "title": "Andrew M. Pomerantz - Clinical Psychology Science, Practice, and Diversity-SAGE Publications (2020)",
+      "filename": "Andrew M. Pomerantz - Clinical Psychology_ Science, Practice, and Diversity-SAGE Publications (2020).pdf",
+      "format": "PDF",
+      "subject": "Clinical Psychology",
+      "folder": "Clinical Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1FKeoLWGDqeGijczcPsLbKkyBtGnEmZfA",
+      "url": "https://drive.google.com/file/d/1pNO_AfUHNtXrWEpT4TI4No6b3m-o-Tz6/view"
+    },
+    {
+      "id": "1ETy2cnX4xRwcpbnbyC1SWeajMt_sg9xX",
+      "title": "Clinical - Handbook Of Psychology Vol 08",
+      "filename": "Clinical - Handbook Of Psychology Vol 08.pdf",
+      "format": "PDF",
+      "subject": "Clinical Psychology",
+      "folder": "Clinical Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1FKeoLWGDqeGijczcPsLbKkyBtGnEmZfA",
+      "url": "https://drive.google.com/file/d/1ETy2cnX4xRwcpbnbyC1SWeajMt_sg9xX/view"
+    },
+    {
+      "id": "1Rc_wQJPjJd3mnhs6gbh1PNRmQkiRXVdr",
+      "title": "Timothy J. Trull, Mitch Prinstein - Clinical Psychology-Cengage Learning (2012)",
+      "filename": "Timothy J. Trull, Mitch Prinstein - Clinical Psychology-Cengage Learning (2012).pdf",
+      "format": "PDF",
+      "subject": "Clinical Psychology",
+      "folder": "Clinical Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1FKeoLWGDqeGijczcPsLbKkyBtGnEmZfA",
+      "url": "https://drive.google.com/file/d/1Rc_wQJPjJd3mnhs6gbh1PNRmQkiRXVdr/view"
+    },
+    {
+      "id": "1sAuJmNpnNA-G95dpyk9V4k3--6C0RkBv",
+      "title": "Cognitive Psychology By Strenberg 6th",
+      "filename": "Cognitive Psychology By Strenberg 6th.pdf",
+      "format": "PDF",
+      "subject": "Cognitive Psychology",
+      "folder": "Cognitive Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1XvqFpMZeJ4v9czC8y8iH-XFlJCWo8bIY",
+      "url": "https://drive.google.com/file/d/1sAuJmNpnNA-G95dpyk9V4k3--6C0RkBv/view"
+    },
+    {
+      "id": "1hbH5sQHpVYbEba3dXKN8whiHAzwVQhs-",
+      "title": "E. Bruce Goldstein - Cognitive Psychology Connecting Mind, Research, and Everyday Experience-Cengage Learning Asia Pte Limited (2020)",
+      "filename": "E. Bruce Goldstein - Cognitive Psychology_ Connecting Mind, Research, and Everyday Experience-Cengage Learning Asia Pte Limited (2020).pdf",
+      "format": "PDF",
+      "subject": "Cognitive Psychology",
+      "folder": "Cognitive Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1XvqFpMZeJ4v9czC8y8iH-XFlJCWo8bIY",
+      "url": "https://drive.google.com/file/d/1hbH5sQHpVYbEba3dXKN8whiHAzwVQhs-/view"
+    },
+    {
+      "id": "1ZkRL4HxMRUHuiiB1aILGPfOFgTS6c_f1",
+      "title": "(ADVAN~1",
+      "filename": "(ADVAN~1.PDF",
+      "format": "PDF",
+      "subject": "Community Psychology",
+      "folder": "Community Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1oJs0PTFpPZZP3ujuwkSzMWELgIw0o7yA",
+      "url": "https://drive.google.com/file/d/1ZkRL4HxMRUHuiiB1aILGPfOFgTS6c_f1/view"
+    },
+    {
+      "id": "1GVoWde2S34qn07zim_hKCZQWh5U3-RnB",
+      "title": "Cathrine Jansson-Boyd - Consumer Psychology-Open University Press (2010)",
+      "filename": "Cathrine Jansson-Boyd - Consumer Psychology-Open University Press (2010).pdf",
+      "format": "PDF",
+      "subject": "Consumer Psychology",
+      "folder": "Consumer Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1ixTCGqKp-9lDCzuWkYjP4wn305t3X6gG",
+      "url": "https://drive.google.com/file/d/1GVoWde2S34qn07zim_hKCZQWh5U3-RnB/view"
+    },
+    {
+      "id": "1aSc2fVKUzgbjQvR3X5RL6BTx-DhU8BsY",
+      "title": "Haugtvedt C.P., Herr P.M., Kardes F.R. - Handbook of Consumer Psychology (2008)",
+      "filename": "Haugtvedt C.P., Herr P.M., Kardes F.R. - Handbook of Consumer Psychology (2008).pdf",
+      "format": "PDF",
+      "subject": "Consumer Psychology",
+      "folder": "Consumer Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1ixTCGqKp-9lDCzuWkYjP4wn305t3X6gG",
+      "url": "https://drive.google.com/file/d/1aSc2fVKUzgbjQvR3X5RL6BTx-DhU8BsY/view"
+    },
+    {
+      "id": "1QX_nkQ4PgCjKlnUE3NwxNWiYaiUCSSYa",
+      "title": "Wayne D. Hoyer, Deborah J. MacInnis, Rik Pieters - Consumer Behavior-South-Western College (2012)",
+      "filename": "Wayne D. Hoyer, Deborah J. MacInnis, Rik Pieters - Consumer Behavior-South-Western College (2012).pdf",
+      "format": "PDF",
+      "subject": "Consumer Psychology",
+      "folder": "Consumer Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1ixTCGqKp-9lDCzuWkYjP4wn305t3X6gG",
+      "url": "https://drive.google.com/file/d/1QX_nkQ4PgCjKlnUE3NwxNWiYaiUCSSYa/view"
+    },
+    {
+      "id": "1VGuGKU-BOPnVIHSHexf1zp6dnDt-NfK8",
+      "title": "Celia B. Fisher - Decoding the Ethics Code A Practical Guide for Psychologists (2022, SAGE Publications)",
+      "filename": "Celia B. Fisher - Decoding the Ethics Code_ A Practical Guide for Psychologists (2022, SAGE Publications) - libgen.li.pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1VGuGKU-BOPnVIHSHexf1zp6dnDt-NfK8/view"
+    },
+    {
+      "id": "1jVEAOwPlHgYUkMFBTbjnMWQc574JfNx2",
+      "title": "Corey - Theory-and-Practice-of-Counseling-and-Psychotherapy",
+      "filename": "Corey - Theory-and-Practice-of-Counseling-and-Psychotherapy.pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1jVEAOwPlHgYUkMFBTbjnMWQc574JfNx2/view"
+    },
+    {
+      "id": "1FacnygUnMRbJ3_A856DCCo9S1a56y6wd",
+      "title": "David Capuzzi, Mark D. Stauffer (eds.) - Counseling and Psychotherapy Theories and Interventions-American Counseling Assn (2016)",
+      "filename": "David Capuzzi, Mark D. Stauffer (eds.) - Counseling and Psychotherapy_ Theories and Interventions-American Counseling Assn (2016).pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1FacnygUnMRbJ3_A856DCCo9S1a56y6wd/view"
+    },
+    {
+      "id": "11NsOykCw4zGGA1cmyxqpKjnW6k6MZGZf",
+      "title": "Edward S. Neukrug - The World of the Counselor An Introduction to the Counseling Profession-Cengage Learning (2015)",
+      "filename": "Edward S. Neukrug - The World of the Counselor_ An Introduction to the Counseling Profession-Cengage Learning (2015).pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/11NsOykCw4zGGA1cmyxqpKjnW6k6MZGZf/view"
+    },
+    {
+      "id": "1lP_gepEM6KhTbWH6XJpsfGxVJkOFoY4B",
+      "title": "Elizabeth Reynolds Welfel - Ethics in Counseling and Psychotherapy Standards, Research, and Emerging Issues-Cengage Learning (2015)",
+      "filename": "Elizabeth Reynolds Welfel - Ethics in Counseling and Psychotherapy_ Standards, Research, and Emerging Issues-Cengage Learning (2015).pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1lP_gepEM6KhTbWH6XJpsfGxVJkOFoY4B/view"
+    },
+    {
+      "id": "1F4CeONJt0rYvkh829eaZYvlBtCZHSXOL",
+      "title": "Elliot D Cohen - Counseling Ethics for the 21st Century A Case-Based Guide to Virtuous Practice-Sage Publications, Inc (2018)",
+      "filename": "Elliot D Cohen - Counseling Ethics for the 21st Century_ A Case-Based Guide to Virtuous Practice-Sage Publications, Inc (2018).pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1F4CeONJt0rYvkh829eaZYvlBtCZHSXOL/view"
+    },
+    {
+      "id": "1lq8P8XeE2WGqH_c1P3yMakmIL3T3s1H-",
+      "title": "Gerald Corey - Case Approach to Counseling and Psychotherapy-Cengage Learning (2012)",
+      "filename": "Gerald Corey - Case Approach to Counseling and Psychotherapy-Cengage Learning (2012).pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1lq8P8XeE2WGqH_c1P3yMakmIL3T3s1H-/view"
+    },
+    {
+      "id": "1OMQXLwTdve6mlfNu-n3mrqi73BajvEpy",
+      "title": "Instructor-s-Manual-for-COUNSELING-PSYCHOTHERAPY-THEORIES-IN-CONTEXT-AND-PRACTICE",
+      "filename": "Instructor-s-Manual-for-COUNSELING-PSYCHOTHERAPY-THEORIES-IN-CONTEXT-AND-PRACTICE.pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1OMQXLwTdve6mlfNu-n3mrqi73BajvEpy/view"
+    },
+    {
+      "id": "1y5LBIpY4qv9GbqpFrvGugSBA_66WnVET",
+      "title": "James O. Prochaska, John C. Norcross - Systems of Psychotherapy A Transtheoretical Analysis-Brooks Cole (2013)",
+      "filename": "James O. Prochaska, John C. Norcross - Systems of Psychotherapy_ A Transtheoretical Analysis-Brooks Cole (2013).pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1y5LBIpY4qv9GbqpFrvGugSBA_66WnVET/view"
+    },
+    {
+      "id": "1ztPa9v9yUcJT2wj7elWCz0FS-G6ypmHI",
+      "title": "JOHNSO~1",
+      "filename": "JOHNSO~1.PDF",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1ztPa9v9yUcJT2wj7elWCz0FS-G6ypmHI/view"
+    },
+    {
+      "id": "1za_RncK9J9UKj9By-eScBejgQmGIT4Jb",
+      "title": "Kenneth S. Pope, Melba J. T. Vasquez, Nayeli Y. Chavez-Dueñas, H - Ethics in Psychotherapy and Counseling A Practical Guide (2021)",
+      "filename": "Kenneth S. Pope, Melba J. T. Vasquez, Nayeli Y. Chavez-Dueñas, H - Ethics in Psychotherapy and Counseling_ A Practical Guide (2021) - libgen.li.pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1za_RncK9J9UKj9By-eScBejgQmGIT4Jb/view"
+    },
+    {
+      "id": "1rXBirg_DeM8Z42ZUf8Xc-e3M5cU-ys0E",
+      "title": "Ofer, Ph.D. Zur - Boundaries in Psychotherapy Ethical and Clinical Explorations (2007, American Psychological Association (APA))",
+      "filename": "Ofer, Ph.D. Zur - Boundaries in Psychotherapy_ Ethical and Clinical Explorations (2007, American Psychological Association (APA)) - libgen.li.pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1rXBirg_DeM8Z42ZUf8Xc-e3M5cU-ys0E/view"
+    },
+    {
+      "id": "14R49VV5rlacxbqLf090er0XEKg-3PEKO",
+      "title": "Sharf - Theories of Psychotherapy and Counseling 5th ed",
+      "filename": "Sharf - Theories of Psychotherapy and Counseling 5th ed.pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/14R49VV5rlacxbqLf090er0XEKg-3PEKO/view"
+    },
+    {
+      "id": "1fxOlkFOOUGD3Iv_ZNQLkHL0DtZXwLlmg",
+      "title": "SOFIEB~1",
+      "filename": "SOFIEB~1.PDF",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1fxOlkFOOUGD3Iv_ZNQLkHL0DtZXwLlmg/view"
+    },
+    {
+      "id": "1UDRNCk-Eaeuv9EVXN6oVulpgoHY2KwHI",
+      "title": "The ACA Encyclopedia of Counseling-American Counseling Association (2015)",
+      "filename": "The_ ACA Encyclopedia of Counseling-American Counseling Association (2015).pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1UDRNCk-Eaeuv9EVXN6oVulpgoHY2KwHI/view"
+    },
+    {
+      "id": "1gxzVLZOH3zrVArSPsubiHtFaUcI03gxf",
+      "title": "The Sage Handbook of Counselling and Psychotherapy by Colin Feltham (z-lib.org)",
+      "filename": "The Sage Handbook of Counselling and Psychotherapy by Colin Feltham (z-lib.org).pdf",
+      "format": "PDF",
+      "subject": "Counseling and Psychotherapy",
+      "folder": "Counseling and Psychotherapy",
+      "folderUrl": "https://drive.google.com/drive/folders/1bkC27bHhB39tDv13fpt4gIRQqaliMeu_",
+      "url": "https://drive.google.com/file/d/1gxzVLZOH3zrVArSPsubiHtFaUcI03gxf/view"
+    },
+    {
+      "id": "1Hzxt7aIL-0IQKaa8gUcsTFzBr4k8JAG7",
+      "title": "David R. Shaffer, Katherine Kipp - Developmental Psychology Childhood and Adolescence-Cengage Learning (2013)",
+      "filename": "David R. Shaffer, Katherine Kipp - Developmental Psychology_ Childhood and Adolescence-Cengage Learning (2013).pdf",
+      "format": "PDF",
+      "subject": "Developmental Psychology",
+      "folder": "Developmental Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/13EFMxWcg-wX5-FYZo8pnt5Qv4Suf14k1",
+      "url": "https://drive.google.com/file/d/1Hzxt7aIL-0IQKaa8gUcsTFzBr4k8JAG7/view"
+    },
+    {
+      "id": "1wH0mw2iOj2Vc3UiNJmR-CyIrdrm7i_8X",
+      "title": "Dev Psych Handbook Of Psychology Vol 06",
+      "filename": "Dev Psych Handbook Of Psychology Vol 06.pdf",
+      "format": "PDF",
+      "subject": "Developmental Psychology",
+      "folder": "Developmental Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/13EFMxWcg-wX5-FYZo8pnt5Qv4Suf14k1",
+      "url": "https://drive.google.com/file/d/1wH0mw2iOj2Vc3UiNJmR-CyIrdrm7i_8X/view"
+    },
+    {
+      "id": "1f6HhKKa9abgYJ8IIN3GxHJoV-JREV3Qu",
+      "title": "Diane Papalia, Gabriela Martorell - Experience Human Development-McGraw Hill (2023)",
+      "filename": "Diane Papalia, Gabriela Martorell - Experience Human Development-McGraw Hill (2023).pdf",
+      "format": "PDF",
+      "subject": "Developmental Psychology",
+      "folder": "Developmental Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/13EFMxWcg-wX5-FYZo8pnt5Qv4Suf14k1",
+      "url": "https://drive.google.com/file/d/1f6HhKKa9abgYJ8IIN3GxHJoV-JREV3Qu/view"
+    },
+    {
+      "id": "1Ej2tDqcqOWQV44HKR2hA8acs4IUrUslk",
+      "title": "John W. Santrock - Life-Span Development-McGraw-Hill Education (2018)",
+      "filename": "John W. Santrock - Life-Span Development-McGraw-Hill Education (2018).pdf",
+      "format": "PDF",
+      "subject": "Developmental Psychology",
+      "folder": "Developmental Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/13EFMxWcg-wX5-FYZo8pnt5Qv4Suf14k1",
+      "url": "https://drive.google.com/file/d/1Ej2tDqcqOWQV44HKR2hA8acs4IUrUslk/view"
+    },
+    {
+      "id": "1yWZXo72sd3A4og4zQqrp0cSq6uHxNlrL",
+      "title": "Life-Span Human Development - Sigelman-Rider",
+      "filename": "Life-Span Human Development - Sigelman-Rider.pdf",
+      "format": "PDF",
+      "subject": "Developmental Psychology",
+      "folder": "Developmental Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/13EFMxWcg-wX5-FYZo8pnt5Qv4Suf14k1",
+      "url": "https://drive.google.com/file/d/1yWZXo72sd3A4og4zQqrp0cSq6uHxNlrL/view"
+    },
+    {
+      "id": "1tMAqrT4xSjlEck62JErYGD4LOZ53WV2a",
+      "title": "Educ Psych - Handbook of Psychology",
+      "filename": "Educ Psych - Handbook of Psychology.pdf",
+      "format": "PDF",
+      "subject": "Educational Psychology",
+      "folder": "Educational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1Y48LJ6ZkwAQDXBixh4htbYKq6uQbnDbj",
+      "url": "https://drive.google.com/file/d/1tMAqrT4xSjlEck62JErYGD4LOZ53WV2a/view"
+    },
+    {
+      "id": "1Kh2DrGdWFhy-bTLGCFb_ljIhOvQERWxl",
+      "title": "Jonathon E. Larson - Educational Psychology Cognition and Learning, Individual Differences and Motivation (2009)",
+      "filename": "Jonathon E. Larson - Educational Psychology_ Cognition and Learning, Individual Differences and Motivation (2009).pdf",
+      "format": "PDF",
+      "subject": "Educational Psychology",
+      "folder": "Educational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1Y48LJ6ZkwAQDXBixh4htbYKq6uQbnDbj",
+      "url": "https://drive.google.com/file/d/1Kh2DrGdWFhy-bTLGCFb_ljIhOvQERWxl/view"
+    },
+    {
+      "id": "1XWEICFzR2bobUGdHtOxRnvZqvNihKZ4g",
+      "title": "Advances in Cognitive Engineering and Neuroergonomics-CRC Press (2012)",
+      "filename": "Advances in Cognitive Engineering and Neuroergonomics-CRC Press (2012).pdf",
+      "format": "PDF",
+      "subject": "Engineering Psychology",
+      "folder": "Engineering Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1XoUnv3FG8LQbTxUkqDVf9b3pPQZLDrO6",
+      "url": "https://drive.google.com/file/d/1XWEICFzR2bobUGdHtOxRnvZqvNihKZ4g/view"
+    },
+    {
+      "id": "1on7GYZmE7b6ngES8xcs5Nl1ZdCFBDCwf",
+      "title": "Engineering Psychology and Human Performance-Psychology Press (2012)",
+      "filename": "Engineering Psychology and Human Performance-Psychology Press (2012).pdf",
+      "format": "PDF",
+      "subject": "Engineering Psychology",
+      "folder": "Engineering Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1XoUnv3FG8LQbTxUkqDVf9b3pPQZLDrO6",
+      "url": "https://drive.google.com/file/d/1on7GYZmE7b6ngES8xcs5Nl1ZdCFBDCwf/view"
+    },
+    {
+      "id": "1D84uB12s4YHUY0hQjWQzIlWTVJj6ApY_",
+      "title": "The Brain at Work-Oxford University Press, USA (2008)",
+      "filename": "The Brain at Work-Oxford University Press, USA (2008).pdf",
+      "format": "PDF",
+      "subject": "Engineering Psychology",
+      "folder": "Engineering Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1XoUnv3FG8LQbTxUkqDVf9b3pPQZLDrO6",
+      "url": "https://drive.google.com/file/d/1D84uB12s4YHUY0hQjWQzIlWTVJj6ApY_/view"
+    },
+    {
+      "id": "1UNFHr4m4G30C1ZHzEk3pI49vc-xZT7KE",
+      "title": "Code of Ethics",
+      "filename": "Code of Ethics.pdf",
+      "format": "PDF",
+      "subject": "Ethics in Psychology",
+      "folder": "Ethics in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP",
+      "url": "https://drive.google.com/file/d/1UNFHr4m4G30C1ZHzEk3pI49vc-xZT7KE/view"
+    },
+    {
+      "id": "11i47u6o5nQZaR_RoVhgru8BZI9UiMKC7",
+      "title": "code of ethics pdf",
+      "filename": "code_of_ethics_pdf.pdf",
+      "format": "PDF",
+      "subject": "Ethics in Psychology",
+      "folder": "Ethics in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP",
+      "url": "https://drive.google.com/file/d/11i47u6o5nQZaR_RoVhgru8BZI9UiMKC7/view"
+    },
+    {
+      "id": "16iaODc3Rs5y4grnsrD1l8Pj5OEGUMkDu",
+      "title": "Ethics-in-psychology-and-the-mental-health-professions -standards-and-cases",
+      "filename": "Ethics-in-psychology-and-the-mental-health-professions_-standards-and-cases.pdf",
+      "format": "PDF",
+      "subject": "Ethics in Psychology",
+      "folder": "Ethics in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP",
+      "url": "https://drive.google.com/file/d/16iaODc3Rs5y4grnsrD1l8Pj5OEGUMkDu/view"
+    },
+    {
+      "id": "1SPdoiRdtd0zCMsvIN3ALJygg93qQH1zK",
+      "title": "pap-code-of-ethics-2022",
+      "filename": "pap-code-of-ethics-2022.pdf",
+      "format": "PDF",
+      "subject": "Ethics in Psychology",
+      "folder": "Ethics in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP",
+      "url": "https://drive.google.com/file/d/1SPdoiRdtd0zCMsvIN3ALJygg93qQH1zK/view"
+    },
+    {
+      "id": "13u5ZNWlJxH-Xa1GdJEGRuzu7p1qf4BwO",
+      "title": "PRC PRB FOR Pyshology 2023-04 published",
+      "filename": "PRC PRB FOR Pyshology_2023-04 published.pdf",
+      "format": "PDF",
+      "subject": "Ethics in Psychology",
+      "folder": "Ethics in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP",
+      "url": "https://drive.google.com/file/d/13u5ZNWlJxH-Xa1GdJEGRuzu7p1qf4BwO/view"
+    },
+    {
+      "id": "136uN9m3vfQud3ZIh3rIWsZouZb1p5v9N",
+      "title": "ra 11036",
+      "filename": "ra 11036.pdf",
+      "format": "PDF",
+      "subject": "Ethics in Psychology",
+      "folder": "Ethics in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP",
+      "url": "https://drive.google.com/file/d/136uN9m3vfQud3ZIh3rIWsZouZb1p5v9N/view"
+    },
+    {
+      "id": "1lpiLoxsZ6lDWCLSl5OrPBL2mat2vSH0r",
+      "title": "RA 9258 Code of Ethics",
+      "filename": "RA 9258 Code of Ethics.pdf",
+      "format": "PDF",
+      "subject": "Ethics in Psychology",
+      "folder": "Ethics in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP",
+      "url": "https://drive.google.com/file/d/1lpiLoxsZ6lDWCLSl5OrPBL2mat2vSH0r/view"
+    },
+    {
+      "id": "1mzRoU6RrZ5nRbfVb3zEFMdcjylx2qLEb",
+      "title": "Young, Gerald - Revising the APA Ethics Code (2017)",
+      "filename": "Young, Gerald - Revising the APA Ethics Code (2017).pdf",
+      "format": "PDF",
+      "subject": "Ethics in Psychology",
+      "folder": "Ethics in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/14knnJpkiEwMTlCnpkriOHrVb1WIkIbSP",
+      "url": "https://drive.google.com/file/d/1mzRoU6RrZ5nRbfVb3zEFMdcjylx2qLEb/view"
+    },
+    {
+      "id": "18jnxdx50qCOZeUrMYKlj1jCN8g07QDKN",
+      "title": "Charles Crawford, Dennis Krebs - Foundations of Evolutionary Psychology-Psychology Press (2008)",
+      "filename": "Charles Crawford, Dennis Krebs - Foundations of Evolutionary Psychology-Psychology Press (2008).pdf",
+      "format": "PDF",
+      "subject": "Evolutionary Psychology",
+      "folder": "Evolutionary Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1e0pUJyUFTE_LatOwW-hpOkVseHhBXzsb",
+      "url": "https://drive.google.com/file/d/18jnxdx50qCOZeUrMYKlj1jCN8g07QDKN/view"
+    },
+    {
+      "id": "1X8dLFOKI_8LEM4YqFfHdjJ2nYCwQUf6J",
+      "title": "David M. Buss - The Handbook of Evolutionary Psychology (2005)",
+      "filename": "David M. Buss - The Handbook of Evolutionary Psychology (2005).pdf",
+      "format": "PDF",
+      "subject": "Evolutionary Psychology",
+      "folder": "Evolutionary Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1e0pUJyUFTE_LatOwW-hpOkVseHhBXzsb",
+      "url": "https://drive.google.com/file/d/1X8dLFOKI_8LEM4YqFfHdjJ2nYCwQUf6J/view"
+    },
+    {
+      "id": "1ASF7f4h_VUsDKMKvrwczNsDnUpKNcBnc",
+      "title": "Oscar Zarate - Introducing Evolutionary Psychology",
+      "filename": "Oscar Zarate - Introducing Evolutionary Psychology.pdf",
+      "format": "PDF",
+      "subject": "Evolutionary Psychology",
+      "folder": "Evolutionary Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1e0pUJyUFTE_LatOwW-hpOkVseHhBXzsb",
+      "url": "https://drive.google.com/file/d/1ASF7f4h_VUsDKMKvrwczNsDnUpKNcBnc/view"
+    },
+    {
+      "id": "1eRDz-1TNQ8vemjQxRDcGpJpuD--FFdmE",
+      "title": "Anne Myers, Christine Hansen - Experimental Psychology-Cengage (2011)",
+      "filename": "Anne Myers, Christine Hansen - Experimental Psychology-Cengage (2011).pdf",
+      "format": "PDF",
+      "subject": "Experimental Psychology",
+      "folder": "Experimental Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/16tj1cQtbVHnkcBd2wVb0dKPOfXQhyPKi",
+      "url": "https://drive.google.com/file/d/1eRDz-1TNQ8vemjQxRDcGpJpuD--FFdmE/view"
+    },
+    {
+      "id": "125hEXGWfV5_R87VBPX0SEQg5wE6K1oT4",
+      "title": "Barry H. Kantowitz, III Henry L. Roediger, David G. Elmes - Experimental Psychology -Wadsworth Publishing (2008)",
+      "filename": "Barry H. Kantowitz, III Henry L. Roediger, David G. Elmes - Experimental Psychology  -Wadsworth Publishing (2008).pdf",
+      "format": "PDF",
+      "subject": "Experimental Psychology",
+      "folder": "Experimental Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/16tj1cQtbVHnkcBd2wVb0dKPOfXQhyPKi",
+      "url": "https://drive.google.com/file/d/125hEXGWfV5_R87VBPX0SEQg5wE6K1oT4/view"
+    },
+    {
+      "id": "1520R-ybRugWkO7aihMrSAK0vsr0sMGMb",
+      "title": "Expe Psych - Handbook Of Psychology Vol 04",
+      "filename": "Expe Psych - Handbook Of Psychology Vol 04.pdf",
+      "format": "PDF",
+      "subject": "Experimental Psychology",
+      "folder": "Experimental Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/16tj1cQtbVHnkcBd2wVb0dKPOfXQhyPKi",
+      "url": "https://drive.google.com/file/d/1520R-ybRugWkO7aihMrSAK0vsr0sMGMb/view"
+    },
+    {
+      "id": "1ru7acQWIew_t-LHhCvopV5C6mY6BGqIg",
+      "title": "A Handbook for Social Science Field Research Essays Bibliographic Sources on Research Design and Methods by Ellen Perecman, Dr. Sara R. Curran (z-lib.org)",
+      "filename": "A Handbook for Social Science Field Research Essays  Bibliographic Sources on Research Design and Methods by Ellen Perecman, Dr. Sara R. Curran (z-lib.org).pdf",
+      "format": "PDF",
+      "subject": "Field Methods in Psychology",
+      "folder": "Field Methods in Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1tyxUIGOsV2jDM0962lBVmS4sUwBjlcm1",
+      "url": "https://drive.google.com/file/d/1ru7acQWIew_t-LHhCvopV5C6mY6BGqIg/view"
+    },
+    {
+      "id": "1nefSZKL6QfLI4MCZGaJ9dH39zOjhbT-m",
+      "title": "Curt R. Bartol - Introduction to Forensic Psychology Research and Application-Sage Publications, Inc (2018)",
+      "filename": "Curt R. Bartol - Introduction to Forensic Psychology_ Research and Application-Sage Publications, Inc (2018).pdf",
+      "format": "PDF",
+      "subject": "Forensic Psychology",
+      "folder": "Forensic Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1jL1UkjXqDxzxEOnB9OnVBedeNRlhFoX9",
+      "url": "https://drive.google.com/file/d/1nefSZKL6QfLI4MCZGaJ9dH39zOjhbT-m/view"
+    },
+    {
+      "id": "1w4yMd-oTAeDPtuXDt3GAVHjC2jGR5Lq_",
+      "title": "Solomon M. Fulero, Lawrence S. Wrightsman - Forensic Psychology, 3rd Edition -Wadsworth Publishing (2008)",
+      "filename": "Solomon M. Fulero, Lawrence S. Wrightsman - Forensic Psychology, 3rd Edition  -Wadsworth Publishing (2008).pdf",
+      "format": "PDF",
+      "subject": "Forensic Psychology",
+      "folder": "Forensic Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1jL1UkjXqDxzxEOnB9OnVBedeNRlhFoX9",
+      "url": "https://drive.google.com/file/d/1w4yMd-oTAeDPtuXDt3GAVHjC2jGR5Lq_/view"
+    },
+    {
+      "id": "1MTItJE5BdtADJ5PIwa0pi9WqtE6UBOKQ",
+      "title": "Nolen-Hoeksema et al. Atkinson Hilgard s Introduction to Psychology 15th Edition",
+      "filename": "Nolen-Hoeksema et al. Atkinson _ Hilgard_s Introduction to Psychology 15th Edition.pdf",
+      "format": "PDF",
+      "subject": "General Psychology",
+      "folder": "General Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1gQgriSS_XKlC7GvW_Yl4T7MeWNXIARb3",
+      "url": "https://drive.google.com/file/d/1MTItJE5BdtADJ5PIwa0pi9WqtE6UBOKQ/view"
+    },
+    {
+      "id": "1xJMvY7A9Gk0myPqTrj1azOZt0s0TTB-r",
+      "title": "Psych 2nd edition rathus",
+      "filename": "Psych_2nd_edition_rathus.pdf",
+      "format": "PDF",
+      "subject": "General Psychology",
+      "folder": "General Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1gQgriSS_XKlC7GvW_Yl4T7MeWNXIARb3",
+      "url": "https://drive.google.com/file/d/1xJMvY7A9Gk0myPqTrj1azOZt0s0TTB-r/view"
+    },
+    {
+      "id": "1t9S7SQvcx8oIGWOOqArMxUdi7rF6lP9D",
+      "title": "Psych Notes - Darlene Pedersen",
+      "filename": "Psych Notes - Darlene Pedersen.pdf",
+      "format": "PDF",
+      "subject": "General Psychology",
+      "folder": "General Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1gQgriSS_XKlC7GvW_Yl4T7MeWNXIARb3",
+      "url": "https://drive.google.com/file/d/1t9S7SQvcx8oIGWOOqArMxUdi7rF6lP9D/view"
+    },
+    {
+      "id": "1ShaHU6zWuiGZe1WKNJS1Sw3IvzyXG72R",
+      "title": "Rod Plotnik, Haig Kouyoumdjian - Introduction to Psychology-Wadsworth Publishing (2010) (1)",
+      "filename": "Rod Plotnik, Haig Kouyoumdjian - Introduction to Psychology-Wadsworth Publishing (2010) (1).pdf",
+      "format": "PDF",
+      "subject": "General Psychology",
+      "folder": "General Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1gQgriSS_XKlC7GvW_Yl4T7MeWNXIARb3",
+      "url": "https://drive.google.com/file/d/1ShaHU6zWuiGZe1WKNJS1Sw3IvzyXG72R/view"
+    },
+    {
+      "id": "1bMnRcsQhM0-Q4kc8JqtZFfBXwuQTFi_B",
+      "title": "Spielman - Psychology",
+      "filename": "Spielman - Psychology.pdf",
+      "format": "PDF",
+      "subject": "General Psychology",
+      "folder": "General Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1gQgriSS_XKlC7GvW_Yl4T7MeWNXIARb3",
+      "url": "https://drive.google.com/file/d/1bMnRcsQhM0-Q4kc8JqtZFfBXwuQTFi_B/view"
+    },
+    {
+      "id": "18DEXBDjjUvs2NgxdH-1kij4e8TQ0m0BR",
+      "title": "Daniel J. Levi - Group Dynamics for Teams-Sage Publications, Inc (2016)",
+      "filename": "Daniel J. Levi - Group Dynamics for Teams-Sage Publications, Inc (2016).pdf",
+      "format": "PDF",
+      "subject": "Group Dynamics/Process",
+      "folder": "Group Dynamics/Process",
+      "folderUrl": "https://drive.google.com/drive/folders/10ht1hEp5xHPutWyuW8GffulC9Qs4inoq",
+      "url": "https://drive.google.com/file/d/18DEXBDjjUvs2NgxdH-1kij4e8TQ0m0BR/view"
+    },
+    {
+      "id": "1BgYnv7KsaQrHrpl3yd9ISHN5IL0wZETE",
+      "title": "Forsyth, Donelson R. - Group dynamics-Cengage (2019) (1)",
+      "filename": "Forsyth, Donelson R. - Group dynamics-Cengage (2019) (1).pdf",
+      "format": "PDF",
+      "subject": "Group Dynamics/Process",
+      "folder": "Group Dynamics/Process",
+      "folderUrl": "https://drive.google.com/drive/folders/10ht1hEp5xHPutWyuW8GffulC9Qs4inoq",
+      "url": "https://drive.google.com/file/d/1BgYnv7KsaQrHrpl3yd9ISHN5IL0wZETE/view"
+    },
+    {
+      "id": "1152iSia9tJs9_o-EIVhI4zn_dUHQqkQy",
+      "title": "Groups Process and Practice-Cengage Learning (2018)",
+      "filename": "Groups_ Process and Practice-Cengage Learning (2018).pdf",
+      "format": "PDF",
+      "subject": "Group Dynamics/Process",
+      "folder": "Group Dynamics/Process",
+      "folderUrl": "https://drive.google.com/drive/folders/10ht1hEp5xHPutWyuW8GffulC9Qs4inoq",
+      "url": "https://drive.google.com/file/d/1152iSia9tJs9_o-EIVhI4zn_dUHQqkQy/view"
+    },
+    {
+      "id": "1rzsqLmFhQ1vyPk9KjVMYn1p3ig4-Vy57",
+      "title": "Erica Cook and Lynne Wood - Health Psychology The Basics-Routledge (2020)",
+      "filename": "Erica Cook and Lynne Wood - Health Psychology_ The Basics-Routledge (2020).pdf",
+      "format": "PDF",
+      "subject": "Health Psychology",
+      "folder": "Health Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1vULErsHCmzrynheZFM5zcpgcWLKETjpi",
+      "url": "https://drive.google.com/file/d/1rzsqLmFhQ1vyPk9KjVMYn1p3ig4-Vy57/view"
+    },
+    {
+      "id": "1kZMAfFxE2z5N4Cq50LztSz3Hvz0KNQDR",
+      "title": "Health Psych - Handbook of Psychology",
+      "filename": "Health Psych - Handbook of Psychology.pdf",
+      "format": "PDF",
+      "subject": "Health Psychology",
+      "folder": "Health Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1vULErsHCmzrynheZFM5zcpgcWLKETjpi",
+      "url": "https://drive.google.com/file/d/1kZMAfFxE2z5N4Cq50LztSz3Hvz0KNQDR/view"
+    },
+    {
+      "id": "1xWnjQGzOJwVosQKmzK9fNAmrJ7xjdw82",
+      "title": "Jane Ogden - Health psychology-McGraw-Hill (2012)",
+      "filename": "Jane Ogden - Health psychology-McGraw-Hill (2012).pdf",
+      "format": "PDF",
+      "subject": "Health Psychology",
+      "folder": "Health Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1vULErsHCmzrynheZFM5zcpgcWLKETjpi",
+      "url": "https://drive.google.com/file/d/1xWnjQGzOJwVosQKmzK9fNAmrJ7xjdw82/view"
+    },
+    {
+      "id": "1rTLmd4Fk0rYAxFaVc0HQ9jv-mx0iRKGm",
+      "title": "Linda Brannon, John A. Updegraff, Jess Feist - Health Psychology An Introduction to Behavior and Health-Cengage Learning (2017)",
+      "filename": "Linda Brannon, John A. Updegraff, Jess Feist - Health Psychology_ An Introduction to Behavior and Health-Cengage Learning (2017).pdf",
+      "format": "PDF",
+      "subject": "Health Psychology",
+      "folder": "Health Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1vULErsHCmzrynheZFM5zcpgcWLKETjpi",
+      "url": "https://drive.google.com/file/d/1rTLmd4Fk0rYAxFaVc0HQ9jv-mx0iRKGm/view"
+    },
+    {
+      "id": "1_hPWRNV3cZh5ElDhLQIonMVpcJYFTnDh",
+      "title": "Paul Bennett Val Morrison - introduction to health psychology (2022)",
+      "filename": "Paul Bennett_ Val Morrison - introduction to health psychology (2022).pdf",
+      "format": "PDF",
+      "subject": "Health Psychology",
+      "folder": "Health Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1vULErsHCmzrynheZFM5zcpgcWLKETjpi",
+      "url": "https://drive.google.com/file/d/1_hPWRNV3cZh5ElDhLQIonMVpcJYFTnDh/view"
+    },
+    {
+      "id": "1sNIVKwwdu_L_Us9ajR-j9HlyL0IZSpwQ",
+      "title": "Richard O. Straub - Health Psychology-Worth Publishers (2019)",
+      "filename": "Richard O. Straub - Health Psychology-Worth Publishers (2019).pdf",
+      "format": "PDF",
+      "subject": "Health Psychology",
+      "folder": "Health Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1vULErsHCmzrynheZFM5zcpgcWLKETjpi",
+      "url": "https://drive.google.com/file/d/1sNIVKwwdu_L_Us9ajR-j9HlyL0IZSpwQ/view"
+    },
+    {
+      "id": "17q_lTw2rn95z_6AephRcFgjUeoeiqzQJ",
+      "title": "Shelley E. Taylor - Health Psychology-McGraw Hill (2021)",
+      "filename": "Shelley E. Taylor - Health Psychology-McGraw Hill (2021).pdf",
+      "format": "PDF",
+      "subject": "Health Psychology",
+      "folder": "Health Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1vULErsHCmzrynheZFM5zcpgcWLKETjpi",
+      "url": "https://drive.google.com/file/d/17q_lTw2rn95z_6AephRcFgjUeoeiqzQJ/view"
+    },
+    {
+      "id": "1KAfXks8z7wIybXmBTiQPakFsN-VWTbwb",
+      "title": "Gary Dessler - Human Resource Management (2016, Pearson)",
+      "filename": "Gary Dessler - Human Resource Management (2016, Pearson) - libgen.li.pdf",
+      "format": "PDF",
+      "subject": "Human Resource",
+      "folder": "Human Resource",
+      "folderUrl": "https://drive.google.com/drive/folders/1wodPZCgLEvz4siuT0Y224-T0hkm1bSlR",
+      "url": "https://drive.google.com/file/d/1KAfXks8z7wIybXmBTiQPakFsN-VWTbwb/view"
+    },
+    {
+      "id": "1kzsaOZrD2Kb7375C3m6WmXWCaL13S7F6",
+      "title": "R. Wayne Dean Mondy, Joseph J. Martocchio - Human Resource Management, Global Edition-Pearson (2016)",
+      "filename": "R. Wayne Dean Mondy, Joseph J. Martocchio - Human Resource Management, Global Edition-Pearson (2016).pdf",
+      "format": "PDF",
+      "subject": "Human Resource",
+      "folder": "Human Resource",
+      "folderUrl": "https://drive.google.com/drive/folders/1wodPZCgLEvz4siuT0Y224-T0hkm1bSlR",
+      "url": "https://drive.google.com/file/d/1kzsaOZrD2Kb7375C3m6WmXWCaL13S7F6/view"
+    },
+    {
+      "id": "111yzgqJNXv9lC1qn1zm58hQsp9-_PmSC",
+      "title": "2006 [Muchinsky, P.M.] Psychology Applied to Work",
+      "filename": "2006 [Muchinsky, P.M.] Psychology Applied to Work.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/111yzgqJNXv9lC1qn1zm58hQsp9-_PmSC/view"
+    },
+    {
+      "id": "1hyL3Kxm7SzH4-RHmeyYG3R2QQz2pTCr1",
+      "title": "Aamodt - Industrial Psychology",
+      "filename": "Aamodt - Industrial Psychology.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1hyL3Kxm7SzH4-RHmeyYG3R2QQz2pTCr1/view"
+    },
+    {
+      "id": "1ZVTUb9dTd8PFLL8t2YA81_Jq37wTGfez",
+      "title": "Bisen, Priya Industrial Psychology",
+      "filename": "Bisen, Priya Industrial Psychology.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1ZVTUb9dTd8PFLL8t2YA81_Jq37wTGfez/view"
+    },
+    {
+      "id": "1DI2U2C0TLM71rWiuKBwcEMaslunc7oLL",
+      "title": "Industrial-Organizational Psychology Spector 6th ed",
+      "filename": "Industrial-Organizational Psychology Spector 6th ed.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1DI2U2C0TLM71rWiuKBwcEMaslunc7oLL/view"
+    },
+    {
+      "id": "1Wy7g5rxq5G5h15sE_6TZnaVWWK0KYEyr",
+      "title": "IO - Handbook of Psychology",
+      "filename": "IO - Handbook of Psychology.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1Wy7g5rxq5G5h15sE_6TZnaVWWK0KYEyr/view"
+    },
+    {
+      "id": "1x2z5gKR7rPXyLAchgtbmIWiGALV3pwnL",
+      "title": "Labor Code of the Philippines",
+      "filename": "Labor Code of the Philippines.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1x2z5gKR7rPXyLAchgtbmIWiGALV3pwnL/view"
+    },
+    {
+      "id": "1uaoQBflGUrpQ5Ox4ZOHFY2Gf3HnkeKpK",
+      "title": "McShane, S. Von Glinow, M. Organizational Behavior, 5th Edition",
+      "filename": "McShane, S. _ Von Glinow, M. Organizational Behavior, 5th Edition.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1uaoQBflGUrpQ5Ox4ZOHFY2Gf3HnkeKpK/view"
+    },
+    {
+      "id": "1UxpjF6Qa5GbocTWYY-sFoQmC3w5zgnZ4",
+      "title": "Michael G. Aamodt - Industrial Organizational Psychology An Applied Approach 8th (2015)",
+      "filename": "Michael G. Aamodt - Industrial_Organizational Psychology_ An Applied Approach 8th (2015).pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1UxpjF6Qa5GbocTWYY-sFoQmC3w5zgnZ4/view"
+    },
+    {
+      "id": "1B0LsmomIzasTrTpVJt6si-T-C66dcpDk",
+      "title": "Organizational Psychology - Jex",
+      "filename": "Organizational Psychology - Jex.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1B0LsmomIzasTrTpVJt6si-T-C66dcpDk/view"
+    },
+    {
+      "id": "1To-DuLFO7amcPiFBqPpEcx_av-x9Unnm",
+      "title": "Paul Levy - Industrial Organizational Psychology Understanding the Workplace-Worth Publishers (2019)",
+      "filename": "Paul Levy - Industrial_Organizational Psychology_ Understanding the Workplace-Worth Publishers (2019).pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1To-DuLFO7amcPiFBqPpEcx_av-x9Unnm/view"
+    },
+    {
+      "id": "1hgk5S0sP1D5Lh45a0WFLeeYgdgPjR6Dy",
+      "title": "Riggio - Introduction to Industrial and Organizational Psychology",
+      "filename": "Riggio - Introduction to Industrial and Organizational Psychology.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1hgk5S0sP1D5Lh45a0WFLeeYgdgPjR6Dy/view"
+    },
+    {
+      "id": "16IkRyf4bRqvQ-3F_t08Cq6z6E7-xavKI",
+      "title": "Robbins, S. P. Judge, T.A. Organizational Behavior 5th Edition",
+      "filename": "Robbins, S. P. _ Judge, T.A. Organizational Behavior 5th Edition.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/16IkRyf4bRqvQ-3F_t08Cq6z6E7-xavKI/view"
+    },
+    {
+      "id": "1YOgMHvFnDc6jW_cBZaOOBVqHSRC7_3sh",
+      "title": "Work Psychology Peeters 1st ed",
+      "filename": "Work Psychology Peeters 1st ed.pdf",
+      "format": "PDF",
+      "subject": "Industrial/Organizational Psychology",
+      "folder": "Industrial/Organizational Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1V4jxm-8LOXrAul5y8wY82pvzJcDMTDSP",
+      "url": "https://drive.google.com/file/d/1YOgMHvFnDc6jW_cBZaOOBVqHSRC7_3sh/view"
+    },
+    {
+      "id": "16N81gNUKtGz3qMpb3XeCkKEEIVFL1k-D",
+      "title": "(Practical and Applied Psychology) Richard Ruth, Erik Santacruz - LGBT Psychology and Mental Health Emerging Research and Advances-Praeger (2017)",
+      "filename": "(Practical and Applied Psychology) Richard Ruth, Erik Santacruz - LGBT Psychology and Mental Health_ Emerging Research and Advances-Praeger (2017).pdf",
+      "format": "PDF",
+      "subject": "LGBTQ Psychology",
+      "folder": "LGBTQ Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/157zfJ8NSMQaAENSxqAJRRX5Wj4IMept_",
+      "url": "https://drive.google.com/file/d/16N81gNUKtGz3qMpb3XeCkKEEIVFL1k-D/view"
+    },
+    {
+      "id": "1Jb4sf-BBOYLiOb2DIrSTrm6GWVIj7QaF",
+      "title": "Michele K. Lewis PhD, Isiah Marshall PhD (auth.) - LGBT Psychology Research Perspectives and People of African Descent -Springer-Verlag New York (2012)",
+      "filename": "Michele K. Lewis PhD, Isiah Marshall PhD (auth.) - LGBT Psychology_ Research Perspectives and People of African Descent  -Springer-Verlag New York (2012).pdf",
+      "format": "PDF",
+      "subject": "LGBTQ Psychology",
+      "folder": "LGBTQ Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/157zfJ8NSMQaAENSxqAJRRX5Wj4IMept_",
+      "url": "https://drive.google.com/file/d/1Jb4sf-BBOYLiOb2DIrSTrm6GWVIj7QaF/view"
+    },
+    {
+      "id": "15DTa7Rlty8KDx9Xsv692DeCxSc502_gY",
+      "title": "Peter Hegarty - A Recent History of Lesbian and Gay Psychology From Homophobia to LGBT-Routledge (2018)",
+      "filename": "Peter Hegarty - A Recent History of Lesbian and Gay Psychology_ From Homophobia to LGBT-Routledge (2018).pdf",
+      "format": "PDF",
+      "subject": "LGBTQ Psychology",
+      "folder": "LGBTQ Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/157zfJ8NSMQaAENSxqAJRRX5Wj4IMept_",
+      "url": "https://drive.google.com/file/d/15DTa7Rlty8KDx9Xsv692DeCxSc502_gY/view"
+    },
+    {
+      "id": "1MxSx2hyNB_xeLxTMCa45PuKjx9sjV1AV",
+      "title": "Carrie H. Kennedy, Eric A. Zillmer - Military Psychology Clinical and Operational Applications-The Guilford Press (2006)",
+      "filename": "Carrie H. Kennedy, Eric A. Zillmer - Military Psychology_ Clinical and Operational Applications-The Guilford Press (2006).pdf",
+      "format": "PDF",
+      "subject": "Military Psychology",
+      "folder": "Military Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/15ebfsR82w6kcfZ-IDHtdtwRdfamkXp1G",
+      "url": "https://drive.google.com/file/d/1MxSx2hyNB_xeLxTMCa45PuKjx9sjV1AV/view"
+    },
+    {
+      "id": "1w_JLwXkjkuzfN6zrjzXvYv8OGXQUl1vD",
+      "title": "Stephen V. Bowles,Paul T. Bartone (eds.) - Handbook of Military Psychology Clinical and Organizational Practice-Springer International Publishing (2017)",
+      "filename": "Stephen V. Bowles,Paul T. Bartone (eds.) -  Handbook of Military Psychology_ Clinical and Organizational Practice-Springer International Publishing (2017).pdf",
+      "format": "PDF",
+      "subject": "Military Psychology",
+      "folder": "Military Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/15ebfsR82w6kcfZ-IDHtdtwRdfamkXp1G",
+      "url": "https://drive.google.com/file/d/1w_JLwXkjkuzfN6zrjzXvYv8OGXQUl1vD/view"
+    },
+    {
+      "id": "1Gpypu5ZK0eNmFnwD9yJYtd0-CT7bvuma",
+      "title": "Bryan Kolb, Ian Q. Whishaw - Fundamentals of Human Neuropsychology-Worth Publishers (2015)",
+      "filename": "Bryan Kolb, Ian Q. Whishaw - Fundamentals of Human Neuropsychology-Worth Publishers (2015).pdf",
+      "format": "PDF",
+      "subject": "Neuropsychology",
+      "folder": "Neuropsychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1ieb293JtfjZ8vOO_t0tdNDrbK8RO7kxx",
+      "url": "https://drive.google.com/file/d/1Gpypu5ZK0eNmFnwD9yJYtd0-CT7bvuma/view"
+    },
+    {
+      "id": "12XXRCdZMo0dNV7BoULc7jdtd8z9X3lYY",
+      "title": "Joel E. Morgan, Ida Sue Baron, Joseph H. Ricker - Casebook of Clinical Neuropsychology-Oxford University Press, USA (2010)",
+      "filename": "Joel E. Morgan, Ida Sue Baron, Joseph H. Ricker - Casebook of Clinical Neuropsychology-Oxford University Press, USA (2010).pdf",
+      "format": "PDF",
+      "subject": "Neuropsychology",
+      "folder": "Neuropsychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1ieb293JtfjZ8vOO_t0tdNDrbK8RO7kxx",
+      "url": "https://drive.google.com/file/d/12XXRCdZMo0dNV7BoULc7jdtd8z9X3lYY/view"
+    },
+    {
+      "id": "1q4carjskyxgJtwp3UFGRY8tD7Vvxq9t1",
+      "title": "Morgan, Joel E. Ricker, Joseph H - Textbook of clinical neuropsychology-Routledge Taylor Francis (2018)",
+      "filename": "Morgan, Joel E._ Ricker, Joseph H - Textbook of clinical neuropsychology-Routledge_Taylor _ Francis (2018).pdf",
+      "format": "PDF",
+      "subject": "Neuropsychology",
+      "folder": "Neuropsychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1ieb293JtfjZ8vOO_t0tdNDrbK8RO7kxx",
+      "url": "https://drive.google.com/file/d/1q4carjskyxgJtwp3UFGRY8tD7Vvxq9t1/view"
+    },
+    {
+      "id": "1DGP30KeIeAf_NbnDMhvY8Vqfl55om490",
+      "title": "Cottam - Introduction to Political Psychology",
+      "filename": "Cottam - Introduction to Political Psychology.pdf",
+      "format": "PDF",
+      "subject": "Political Psychology",
+      "folder": "Political Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1r9XJr0cTR76M0ur2vBzTZ5lVIo6eQ6iw",
+      "url": "https://drive.google.com/file/d/1DGP30KeIeAf_NbnDMhvY8Vqfl55om490/view"
+    },
+    {
+      "id": "1tDg3aGQiIQz9P9zEDaKWVYtiwsYByCI3",
+      "title": "David P. Houghton - Political Psychology Situations, Individuals, and Cases-Routledge (2008)",
+      "filename": "David P. Houghton - Political Psychology_ Situations, Individuals, and Cases-Routledge (2008).pdf",
+      "format": "PDF",
+      "subject": "Political Psychology",
+      "folder": "Political Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1r9XJr0cTR76M0ur2vBzTZ5lVIo6eQ6iw",
+      "url": "https://drive.google.com/file/d/1tDg3aGQiIQz9P9zEDaKWVYtiwsYByCI3/view"
+    },
+    {
+      "id": "1Pc9HEE6fZ0y5TrcWy0nVvtcv-G1t5lVY",
+      "title": "Paul Roazen - Cultural Foundations of Political Psychology (2003)",
+      "filename": "Paul Roazen - Cultural Foundations of Political Psychology (2003).pdf",
+      "format": "PDF",
+      "subject": "Political Psychology",
+      "folder": "Political Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1r9XJr0cTR76M0ur2vBzTZ5lVIo6eQ6iw",
+      "url": "https://drive.google.com/file/d/1Pc9HEE6fZ0y5TrcWy0nVvtcv-G1t5lVY/view"
+    },
+    {
+      "id": "1xSA9UUGjJxwSZkWTMp7Odve9dNMAFG1l",
+      "title": "Martin Seligman - Authentic Happiness Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment-Free Press (2004)",
+      "filename": "Martin Seligman - Authentic Happiness_ Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment-Free Press (2004).pdf",
+      "format": "PDF",
+      "subject": "Positive Psychology",
+      "folder": "Positive Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1Iw0_3ZJ84v9tLY6WhXIDD9nz4e2APthE",
+      "url": "https://drive.google.com/file/d/1xSA9UUGjJxwSZkWTMp7Odve9dNMAFG1l/view"
+    },
+    {
+      "id": "1rJ8Pe3BlRbRW-7vS_LmOX3OAxxcHcQsW",
+      "title": "P. Alex Linley, Stephen Joseph, Martin E. P. Seligman - Positive psychology in practice-Wiley (2004)",
+      "filename": "P. Alex Linley, Stephen Joseph, Martin E. P. Seligman - Positive psychology in practice-Wiley (2004).pdf",
+      "format": "PDF",
+      "subject": "Positive Psychology",
+      "folder": "Positive Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1Iw0_3ZJ84v9tLY6WhXIDD9nz4e2APthE",
+      "url": "https://drive.google.com/file/d/1rJ8Pe3BlRbRW-7vS_LmOX3OAxxcHcQsW/view"
+    },
+    {
+      "id": "1ZQsDvyOr8qMPMzbVK8N6scG03UHV3Imo",
+      "title": "(Essentials of psychological assessment series) Coalson, Diane L. Raiford, Susan Engi - Essentials of WPPSI-IV assessment-Wiley (2014)",
+      "filename": "(Essentials of psychological assessment series) Coalson, Diane L._Raiford, Susan Engi - Essentials of WPPSI-IV assessment-Wiley (2014).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1ZQsDvyOr8qMPMzbVK8N6scG03UHV3Imo/view"
+    },
+    {
+      "id": "1r0yLTJTehNjO8rt5QvRZWbO17KaBe201",
+      "title": "(Essentials of Psychological Assessment) Elizabeth O. Lichtenberger, Alan S. Kaufman - Essentials of WAIS-IV Assessment-Wiley (2012)",
+      "filename": "(Essentials of Psychological Assessment) Elizabeth O. Lichtenberger, Alan S. Kaufman - Essentials of WAIS-IV Assessment-Wiley (2012).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1r0yLTJTehNjO8rt5QvRZWbO17KaBe201/view"
+    },
+    {
+      "id": "1E5biy4XtC93NlrLya0VJ9wqB3uDbD7bS",
+      "title": "(Essentials of Psychological Assessment) Jessica R. Gurley - Essentials of Rorschach Assessment - Comprehensive System and R-PAS-Wiley (2016)",
+      "filename": "(Essentials of Psychological Assessment) Jessica R. Gurley - Essentials of Rorschach Assessment - Comprehensive System and R-PAS-Wiley (2016).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1E5biy4XtC93NlrLya0VJ9wqB3uDbD7bS/view"
+    },
+    {
+      "id": "1l1ndvjGeZyqLhhqv0TRzmhZV4CfnPzHO",
+      "title": "A. I. Rabin (auth.), A. I. Rabin (eds.) - Projective Techniques in Personality Assessment A Modern Introduction-Springer-Verlag Berlin Heidelberg (1968)",
+      "filename": "A. I. Rabin (auth.), A. I. Rabin (eds.) - Projective Techniques in Personality Assessment_ A Modern Introduction-Springer-Verlag Berlin Heidelberg (1968).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1l1ndvjGeZyqLhhqv0TRzmhZV4CfnPzHO/view"
+    },
+    {
+      "id": "1EikBu_2R9dlOhkzjeZOfrKKO0Ja3CXZ6",
+      "title": "Alan F. Friedman, P. Kevin Bolinskey, Richard W. Levak, David S. Nichols - Psychological Assessment with the MMPI-2 MMPI-2-RF-Routledge (2014)",
+      "filename": "Alan F. Friedman, P. Kevin Bolinskey, Richard W. Levak, David S. Nichols - Psychological Assessment with the MMPI-2_MMPI-2-RF-Routledge (2014).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1EikBu_2R9dlOhkzjeZOfrKKO0Ja3CXZ6/view"
+    },
+    {
+      "id": "1x11W-Z3yp5AVHnE9yukKQIM4load4z32",
+      "title": "Anastasi - Psychological testing",
+      "filename": "Anastasi - Psychological testing.pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1x11W-Z3yp5AVHnE9yukKQIM4load4z32/view"
+    },
+    {
+      "id": "1409pUlhRnGYM6KV2dnVQpFLvbpuMsk9O",
+      "title": "Assessment - Handbook Of Psychology Vol 10",
+      "filename": "Assessment - Handbook Of Psychology Vol 10.pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1409pUlhRnGYM6KV2dnVQpFLvbpuMsk9O/view"
+    },
+    {
+      "id": "1ugaZbHZb7zSBOXGSzBnguBhG-nncT0Ke",
+      "title": "Celia B. Fisher - Decoding the Ethics Code A Practical Guide for Psychologists",
+      "filename": "Celia B. Fisher - Decoding the Ethics Code_ A Practical Guide for Psychologists.pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1ugaZbHZb7zSBOXGSzBnguBhG-nncT0Ke/view"
+    },
+    {
+      "id": "1QWI-PVvr7h5096F9hnVJQ24ifaztGvzE",
+      "title": "Cohen-Swerdlik-Psychological-Testing-Assessment-9th-Ed",
+      "filename": "Cohen-Swerdlik-Psychological-Testing-Assessment-9th-Ed.pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1QWI-PVvr7h5096F9hnVJQ24ifaztGvzE/view"
+    },
+    {
+      "id": "1_Puy77SW8AfySvQ3mqdHUpjmwKDAanEZ",
+      "title": "Edward L. Zuckerman PhD - Clinician s Thesaurus, 7th Edition The Guide to Conducting Interviews and Writing Psychological Reports (The Clinician s Toolbox) (2010)",
+      "filename": "Edward L. Zuckerman PhD - Clinician_s Thesaurus, 7th Edition_ The Guide to Conducting Interviews and Writing Psychological Reports (The Clinician_s Toolbox) (2010).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1_Puy77SW8AfySvQ3mqdHUpjmwKDAanEZ/view"
+    },
+    {
+      "id": "1dL_-uV4e4t7FCrLQOsIBWf14AV7D7efC",
+      "title": "ELIZAB~1",
+      "filename": "ELIZAB~1.PDF",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1dL_-uV4e4t7FCrLQOsIBWf14AV7D7efC/view"
+    },
+    {
+      "id": "1FwIeNjwtPiS2a-rDPq8vuIwK3rAOAM7K",
+      "title": "Essentials of 16PF Assessment-Wiley (2003)",
+      "filename": "Essentials of 16PF Assessment-Wiley (2003).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1FwIeNjwtPiS2a-rDPq8vuIwK3rAOAM7K/view"
+    },
+    {
+      "id": "1gAf6FTFP5lF7hl_hsfcMUvo_KpVvwPbF",
+      "title": "Essentials of Creativity Assessment (Essentials of Psychological Assessment) (2008)",
+      "filename": "Essentials of Creativity Assessment (Essentials of Psychological Assessment) (2008).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1gAf6FTFP5lF7hl_hsfcMUvo_KpVvwPbF/view"
+    },
+    {
+      "id": "1i16APy1_d0ZJp-3CmPmGXc3xDkTXt6up",
+      "title": "Essentials of DAS-II Assessment (Essentials of Psychological Assessment) (2008)",
+      "filename": "Essentials of DAS-II Assessment (Essentials of Psychological Assessment) (2008).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1i16APy1_d0ZJp-3CmPmGXc3xDkTXt6up/view"
+    },
+    {
+      "id": "15iSArb9ruHxy1C5MtOANLRk-72ZNGHrD",
+      "title": "Essentials of Forensic Psychological Assessment -Wiley (2010)",
+      "filename": "Essentials of Forensic Psychological Assessment -Wiley (2010).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/15iSArb9ruHxy1C5MtOANLRk-72ZNGHrD/view"
+    },
+    {
+      "id": "1yUnao2qs2dY3dkJtJp0vN2DqL4-2J9Mm",
+      "title": "Essentials of KABC-II Assessment-John Wiley Sons (2005)",
+      "filename": "Essentials of KABC-II Assessment-John Wiley _ Sons (2005).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1yUnao2qs2dY3dkJtJp0vN2DqL4-2J9Mm/view"
+    },
+    {
+      "id": "13WxK-LWyZN1ZFRUdmAPvJM70BuxJRc1g",
+      "title": "Essentials of Myers-Briggs Type Indicator Assessment -Wiley (2009)",
+      "filename": "Essentials of Myers-Briggs Type Indicator Assessment -Wiley (2009).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/13WxK-LWyZN1ZFRUdmAPvJM70BuxJRc1g/view"
+    },
+    {
+      "id": "1h1H-CmZAoJh63L5LMlYOC8ivYQBT_t_b",
+      "title": "Essentials of NEPSY-II Assessment (Essentials of Psychological Assessment)-Wiley (2010)",
+      "filename": "Essentials of NEPSY-II Assessment (Essentials of Psychological Assessment)-Wiley (2010).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1h1H-CmZAoJh63L5LMlYOC8ivYQBT_t_b/view"
+    },
+    {
+      "id": "1Osb7_27dry_flNmgin-wBdym-__8QbGP",
+      "title": "Essentials of Neuropsychological Assessment -Wiley (2009)",
+      "filename": "Essentials of Neuropsychological Assessment -Wiley (2009).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1Osb7_27dry_flNmgin-wBdym-__8QbGP/view"
+    },
+    {
+      "id": "1oR_pFvheSmS8cAZrZ4QiNlEgixpo5YA7",
+      "title": "Essentials of Stanford-Binet Intelligence Scales (SB5) Assessment (Essentials of Psychological Assessment) (2004)",
+      "filename": "Essentials of Stanford-Binet Intelligence Scales (SB5) Assessment (Essentials of Psychological Assessment) (2004).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1oR_pFvheSmS8cAZrZ4QiNlEgixpo5YA7/view"
+    },
+    {
+      "id": "1-qV7XsIpsq2iQ30T7lb7-b9KBtHKkYEu",
+      "title": "Essentials of Temperament Assessment (Essentials of Psychological Assessment) (2010)",
+      "filename": "Essentials of Temperament Assessment (Essentials of Psychological Assessment) (2010).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1-qV7XsIpsq2iQ30T7lb7-b9KBtHKkYEu/view"
+    },
+    {
+      "id": "1G2BCDfuRigrxzMFIBOfWCorvpuzxtPY9",
+      "title": "Essentials of WIAT-III and KTEA-II Assessment (Essentials of Psychological Assessment) (2010)",
+      "filename": "Essentials of WIAT-III and KTEA-II Assessment (Essentials of Psychological Assessment) (2010).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1G2BCDfuRigrxzMFIBOfWCorvpuzxtPY9/view"
+    },
+    {
+      "id": "19UemQcptYOAooteOHiCZB_Ox5EvojzUD",
+      "title": "Essentials of WISC-IV Assessment, Second Edition (Essentials of Psychological Assessment) (2009)",
+      "filename": "Essentials of WISC-IV Assessment, Second Edition (Essentials of Psychological Assessment) (2009).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/19UemQcptYOAooteOHiCZB_Ox5EvojzUD/view"
+    },
+    {
+      "id": "1WVJHEFJCvrXPyLh-PN5ADEEgn9gZVSFo",
+      "title": "Essentials of WNV Assessment -Wiley (2008)",
+      "filename": "Essentials of WNV Assessment -Wiley (2008).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1WVJHEFJCvrXPyLh-PN5ADEEgn9gZVSFo/view"
+    },
+    {
+      "id": "109ROJFmnFzgO_WMaNJheyAmTuPxWaf-v",
+      "title": "Essentials of WRAML2 and TOMAL-2 Assessment-John Wiley Sons (2009)",
+      "filename": "Essentials of WRAML2 and TOMAL-2 Assessment-John Wiley _ Sons (2009).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/109ROJFmnFzgO_WMaNJheyAmTuPxWaf-v/view"
+    },
+    {
+      "id": "1A1p_hrtJCxGiYppZRbLYK0BBKQ01g46k",
+      "title": "Gary Groth-Marnat, A. Jordan Wright - Handbook of Psychological Assessment-John Wiley Sons (2016)",
+      "filename": "Gary Groth-Marnat, A. Jordan Wright - Handbook of Psychological Assessment-John Wiley _ Sons (2016).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1A1p_hrtJCxGiYppZRbLYK0BBKQ01g46k/view"
+    },
+    {
+      "id": "1xxvgiCnUFwxav-Ue-9Q4UXN6QNnWGa5J",
+      "title": "Goldfinger, Karen Pomerantz, Andrew M - Psychological assessment and report writing-SAGE Publications (2014)",
+      "filename": "Goldfinger, Karen_Pomerantz, Andrew M - Psychological assessment and report writing-SAGE Publications (2014).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1xxvgiCnUFwxav-Ue-9Q4UXN6QNnWGa5J/view"
+    },
+    {
+      "id": "1o-Z2OV00aKCGnLtv3Y_uv0rbaHosQdNz",
+      "title": "Keith Coaley - An Introduction to Psychological Assessment and Psychometrics -Sage Publications Ltd (2010)",
+      "filename": "Keith Coaley - An Introduction to Psychological Assessment and Psychometrics  -Sage Publications Ltd (2010).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1o-Z2OV00aKCGnLtv3Y_uv0rbaHosQdNz/view"
+    },
+    {
+      "id": "1VXGxgGQcfKgTdsg6qrAvS2uDKAs4TESc",
+      "title": "R. Michael Furr, Verne R. Bacharach - Psychometrics An Introduction-SAGE Publications, Inc (2013)",
+      "filename": "R. Michael Furr, Verne R. Bacharach - Psychometrics_ An Introduction-SAGE Publications, Inc (2013).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1VXGxgGQcfKgTdsg6qrAvS2uDKAs4TESc/view"
+    },
+    {
+      "id": "1NqLsVOjgK3DqPJdVBmNTi9McTBQ-_Sqo",
+      "title": "Robert M. Kaplan, Dennis P. Saccuzzo - Psychological Testing Principles, Applications, and Issues-Cengage Learning (2017) 9th",
+      "filename": "Robert M. Kaplan, Dennis P. Saccuzzo - Psychological Testing_ Principles, Applications, and Issues-Cengage Learning (2017) 9th.pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1NqLsVOjgK3DqPJdVBmNTi9McTBQ-_Sqo/view"
+    },
+    {
+      "id": "1UVH7sDgeRrsmhiGP0qcvuEv3R0TQkmLQ",
+      "title": "The Standards",
+      "filename": "The Standards.pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1UVH7sDgeRrsmhiGP0qcvuEv3R0TQkmLQ/view"
+    },
+    {
+      "id": "1uJe4p_7_RWmtcJW17mvH5vKWIWfP1YHq",
+      "title": "Urbina - Essentials of Psychological Testing",
+      "filename": "Urbina - Essentials of Psychological Testing.pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment",
+      "folderUrl": "https://drive.google.com/drive/folders/1tFtctI8nZ6E3TRM-we3yKw3TdePdrE7T",
+      "url": "https://drive.google.com/file/d/1uJe4p_7_RWmtcJW17mvH5vKWIWfP1YHq/view"
+    },
+    {
+      "id": "1empQ-oaQ_Dz2wLhitjPwjYQ5uuWQE5_4",
+      "title": "Yossef S. Ben-Porath, Martin Sellbom - Interpreting the MMPI-3-University of Minnesota Press (2023)",
+      "filename": "Yossef S. Ben-Porath, Martin Sellbom - Interpreting the MMPI-3-University of Minnesota Press (2023).pdf",
+      "format": "PDF",
+      "subject": "Psychological Assessment",
+      "folder": "Psychological Assessment / Essentials",
+      "folderUrl": "https://drive.google.com/drive/folders/1x1hy6FSOPqM0E_xaf0cgt_r5XEC4VoCj",
+      "url": "https://drive.google.com/file/d/1empQ-oaQ_Dz2wLhitjPwjYQ5uuWQE5_4/view"
+    },
+    {
+      "id": "1_gqOmMSje75epB85H4wVBcHIn7lIr8-r",
+      "title": "Braun, Virginia Clarke, Victoria - Successful qualitative research a practical guide for beginners (2019, Mtm) - libgen.lc",
+      "filename": "Braun, Virginia_Clarke, Victoria - Successful qualitative research a practical guide for beginners (2019, Mtm) - libgen.lc.pdf",
+      "format": "PDF",
+      "subject": "Psychological Research",
+      "folder": "Psychological Research",
+      "folderUrl": "https://drive.google.com/drive/folders/1NT9vHE0pDPyPWjnHb_egiDEDbwIuGJOn",
+      "url": "https://drive.google.com/file/d/1_gqOmMSje75epB85H4wVBcHIn7lIr8-r/view"
+    },
+    {
+      "id": "1tYn5NctWQ6h4Joq6-Py_PaAt4Nr9aTMX",
+      "title": "Creswell, John W. Poth, Cheryl N. - Qualitative Inquiry & Research Design Choosing Among Five Approaches-SAGE (2018)",
+      "filename": "Creswell, John W._ Poth, Cheryl N. - Qualitative Inquiry & Research Design_ Choosing Among Five Approaches-SAGE (2018).pdf",
+      "format": "PDF",
+      "subject": "Psychological Research",
+      "folder": "Psychological Research",
+      "folderUrl": "https://drive.google.com/drive/folders/1NT9vHE0pDPyPWjnHb_egiDEDbwIuGJOn",
+      "url": "https://drive.google.com/file/d/1tYn5NctWQ6h4Joq6-Py_PaAt4Nr9aTMX/view"
+    },
+    {
+      "id": "1SdkuNMR35cyOTSdXUH_RY-dfym3v8wvK",
+      "title": "Frederick J. Gravetter - Research Methods for the Behavioral Sciences-Cengage Learning (2018)",
+      "filename": "Frederick J. Gravetter - Research Methods for the Behavioral Sciences-Cengage Learning (2018).pdf",
+      "format": "PDF",
+      "subject": "Psychological Research",
+      "folder": "Psychological Research",
+      "folderUrl": "https://drive.google.com/drive/folders/1NT9vHE0pDPyPWjnHb_egiDEDbwIuGJOn",
+      "url": "https://drive.google.com/file/d/1SdkuNMR35cyOTSdXUH_RY-dfym3v8wvK/view"
+    },
+    {
+      "id": "1ZnQDA0HEf5omDfATgwU4PHPx15Mquz-L",
+      "title": "History of Psych - Handbook of Psychology",
+      "filename": "History of Psych - Handbook of Psychology.pdf",
+      "format": "PDF",
+      "subject": "Psychological Research",
+      "folder": "Psychological Research",
+      "folderUrl": "https://drive.google.com/drive/folders/1NT9vHE0pDPyPWjnHb_egiDEDbwIuGJOn",
+      "url": "https://drive.google.com/file/d/1ZnQDA0HEf5omDfATgwU4PHPx15Mquz-L/view"
+    },
+    {
+      "id": "1-7is3IBdkCeEJbWUwoth2w4vYNOsDhiR",
+      "title": "John W. Creswell & J. David Creswell - Research Design Qualitative, Quantitative, and Mixed Methods Approaches (0)",
+      "filename": "John W. Creswell & J. David Creswell - Research Design_ Qualitative, Quantitative, and Mixed Methods Approaches (0) - libgen.li.pdf",
+      "format": "PDF",
+      "subject": "Psychological Research",
+      "folder": "Psychological Research",
+      "folderUrl": "https://drive.google.com/drive/folders/1NT9vHE0pDPyPWjnHb_egiDEDbwIuGJOn",
+      "url": "https://drive.google.com/file/d/1-7is3IBdkCeEJbWUwoth2w4vYNOsDhiR/view"
+    },
+    {
+      "id": "17hxCBAdEk62fQ1XU_lvvcoGKYIHTjm-j",
+      "title": "John W. Creswell, J. David Creswell - Research Design Qualitative, Quantitative, and Mixed Methods Approaches (2022, SAGE Publications)",
+      "filename": "John W. Creswell, J. David Creswell - Research Design_ Qualitative, Quantitative, and Mixed Methods Approaches (2022, SAGE Publications) - libgen.li.epub",
+      "format": "EPUB",
+      "subject": "Psychological Research",
+      "folder": "Psychological Research",
+      "folderUrl": "https://drive.google.com/drive/folders/1NT9vHE0pDPyPWjnHb_egiDEDbwIuGJOn",
+      "url": "https://drive.google.com/file/d/17hxCBAdEk62fQ1XU_lvvcoGKYIHTjm-j/view"
+    },
+    {
+      "id": "1JY5DaMG3ozO2Tbv2PrGiQFAmhvADwRp6",
+      "title": "(Introducing Statistical Methods series) Andy Field - Discovering Statistics Using SPSS, (Third Edition) -Sage Publications Ltd (2009)",
+      "filename": "(Introducing Statistical Methods series) Andy Field - Discovering Statistics Using SPSS, (Third Edition)  -Sage Publications Ltd (2009).pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/1JY5DaMG3ozO2Tbv2PrGiQFAmhvADwRp6/view"
+    },
+    {
+      "id": "120GHBYUsx0EeXKOCJDJipSW_xk6Ip87s",
+      "title": "Dana S. Dunn, Suzanne Mannes - Statistics and Data Analysis for the Behavioral Sciences-McGraw-Hill Companies (2001)",
+      "filename": "Dana S. Dunn, Suzanne Mannes - Statistics and Data Analysis for the Behavioral Sciences-McGraw-Hill Companies (2001).pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/120GHBYUsx0EeXKOCJDJipSW_xk6Ip87s/view"
+    },
+    {
+      "id": "1kEJYAjdNQQXAITq92yUl4LluZcSpiJGD",
+      "title": "Deborah J. Rumsey - Statistics Essentials for Dummies-For Dummies (2019)",
+      "filename": "Deborah J. Rumsey - Statistics Essentials for Dummies-For Dummies (2019).pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/1kEJYAjdNQQXAITq92yUl4LluZcSpiJGD/view"
+    },
+    {
+      "id": "1DDDqAzAEfwciTayriVlvQQxmazhcRLC2",
+      "title": "Frederick J Gravetter, Larry B. Wallnau - Statistics for the Behavioral Sciences-Wadsworth Publishing (2012)",
+      "filename": "Frederick J Gravetter, Larry B. Wallnau - Statistics for the Behavioral Sciences-Wadsworth Publishing (2012).pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/1DDDqAzAEfwciTayriVlvQQxmazhcRLC2/view"
+    },
+    {
+      "id": "1VEzjZNUz8vjEM2BeddYkC3qeR4Z9kT5I",
+      "title": "Gravetter, F. J. Wallnau, L.B. Statistics for the Behavioral Sciences",
+      "filename": "Gravetter, F. J. _ Wallnau, L.B. Statistics for the Behavioral Sciences.pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/1VEzjZNUz8vjEM2BeddYkC3qeR4Z9kT5I/view"
+    },
+    {
+      "id": "1xFnKDsvgZ6Xras4GpCP4o4O_H8B2-VSf",
+      "title": "Howell, D. Statistical Methods For Psychology 7th Edition",
+      "filename": "Howell, D. Statistical Methods For Psychology 7th Edition.pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/1xFnKDsvgZ6Xras4GpCP4o4O_H8B2-VSf/view"
+    },
+    {
+      "id": "1_2t-bwCCMuiu1b3I7grMg6C_tOR0QNXr",
+      "title": "Nolan S.A. Heinzen, T. E. Statistics for Behavioral Sciences 2nd Edition",
+      "filename": "Nolan S.A. _ Heinzen, T. E. Statistics for Behavioral Sciences 2nd Edition.pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/1_2t-bwCCMuiu1b3I7grMg6C_tOR0QNXr/view"
+    },
+    {
+      "id": "1-CiVRncbGcXld1o0ht9jnvZGhkCRWpwe",
+      "title": "SPSS.Survival.Manual.4th.Edition",
+      "filename": "SPSS.Survival.Manual.4th.Edition.pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/1-CiVRncbGcXld1o0ht9jnvZGhkCRWpwe/view"
+    },
+    {
+      "id": "1CQUfNzX2JWGWbR8WKRX0rMPVgaXaiHQ_",
+      "title": "Statistics 12th Edition - James McClave, Terry Sincich",
+      "filename": "Statistics 12th Edition - James McClave, Terry Sincich.pdf",
+      "format": "PDF",
+      "subject": "Psychological Statistics",
+      "folder": "Psychological Statistics",
+      "folderUrl": "https://drive.google.com/drive/folders/1fYvcSe9orqyufPmjZKwXuXZyXoAdhGTD",
+      "url": "https://drive.google.com/file/d/1CQUfNzX2JWGWbR8WKRX0rMPVgaXaiHQ_/view"
+    },
+    {
+      "id": "1SysgR9XFyqTAUvGToJqtUze6mWhKjbgz",
+      "title": "Brian H. Ross - Psychology of Learning and Motivation, Vol. 45-Academic Press (2004)",
+      "filename": "Brian H. Ross - Psychology of Learning and Motivation, Vol. 45-Academic Press (2004).pdf",
+      "format": "PDF",
+      "subject": "Psychology of Learning",
+      "folder": "Psychology of Learning",
+      "folderUrl": "https://drive.google.com/drive/folders/1CgdSbKzlx4qgP7wJFcueNYtMs1B6k2xi",
+      "url": "https://drive.google.com/file/d/1SysgR9XFyqTAUvGToJqtUze6mWhKjbgz/view"
+    },
+    {
+      "id": "1lvxsZ3We00gnfkw1rswLDm47o8uzmSAH",
+      "title": "(Methods in Molecular Biology 1781) Qing Yan - Psychoneuroimmunology-Springer New York Humana Press (2018)",
+      "filename": "(Methods in Molecular Biology 1781) Qing Yan - Psychoneuroimmunology-Springer New York_Humana Press (2018).pdf",
+      "format": "PDF",
+      "subject": "Psychoneuroimmunology",
+      "folder": "Psychoneuroimmunology",
+      "folderUrl": "https://drive.google.com/drive/folders/1pbpCXuA2Z1ahzLQCQ0DM7OS2h8WeD1d0",
+      "url": "https://drive.google.com/file/d/1lvxsZ3We00gnfkw1rswLDm47o8uzmSAH/view"
+    },
+    {
+      "id": "1JFExbKOyDa0NcjUVURF2JEb_xmDHtCgG",
+      "title": "Jorge H. Daruna - Introduction to Psychoneuroimmunology-Academic Press (2004)",
+      "filename": "Jorge H. Daruna - Introduction to Psychoneuroimmunology-Academic Press (2004).pdf",
+      "format": "PDF",
+      "subject": "Psychoneuroimmunology",
+      "folder": "Psychoneuroimmunology",
+      "folderUrl": "https://drive.google.com/drive/folders/1pbpCXuA2Z1ahzLQCQ0DM7OS2h8WeD1d0",
+      "url": "https://drive.google.com/file/d/1JFExbKOyDa0NcjUVURF2JEb_xmDHtCgG/view"
+    },
+    {
+      "id": "1UxFjQaJxQUc2Ho0S3Dyi2MtP2ybCE0OQ",
+      "title": "(Schatzberg, Manual of Clinical Psychopharmacology) DeBattista, Charles Schatzberg, Alan F - Manual of clinical psychopharmacology-American Psychiatric Publishing (2015)",
+      "filename": "(Schatzberg, Manual of Clinical Psychopharmacology) DeBattista, Charles_ Schatzberg, Alan F - Manual of clinical psychopharmacology-American Psychiatric Publishing (2015).pdf",
+      "format": "PDF",
+      "subject": "Psychopharmacology",
+      "folder": "Psychopharmacology",
+      "folderUrl": "https://drive.google.com/drive/folders/19VHuY6CvtZyRI65vN4r7nNvkzrhnD1oe",
+      "url": "https://drive.google.com/file/d/1UxFjQaJxQUc2Ho0S3Dyi2MtP2ybCE0OQ/view"
+    },
+    {
+      "id": "140CP_k4nN7oXOHb6R7utKYl2aOv9fDJS",
+      "title": "Enriquez, V. FIlipino Psychology in the Third World",
+      "filename": "Enriquez, V. FIlipino Psychology in the Third World.pdf",
+      "format": "PDF",
+      "subject": "Sikolohiyang Pilipino",
+      "folder": "Sikolohiyang Pilipino",
+      "folderUrl": "https://drive.google.com/drive/folders/1uofjBAWQ_fgT5A6war-DF0PesX2f3DeM",
+      "url": "https://drive.google.com/file/d/140CP_k4nN7oXOHb6R7utKYl2aOv9fDJS/view"
+    },
+    {
+      "id": "1CiV6xfcjcFKVTBXk7WUZ5XMNu13XsMb-",
+      "title": "Enriquez, V.G. (1993). Developing a Filipino Psychology.",
+      "filename": "Enriquez, V.G. (1993).  Developing a Filipino Psychology..pdf",
+      "format": "PDF",
+      "subject": "Sikolohiyang Pilipino",
+      "folder": "Sikolohiyang Pilipino",
+      "folderUrl": "https://drive.google.com/drive/folders/1uofjBAWQ_fgT5A6war-DF0PesX2f3DeM",
+      "url": "https://drive.google.com/file/d/1CiV6xfcjcFKVTBXk7WUZ5XMNu13XsMb-/view"
+    },
+    {
+      "id": "1bvJMNByypGBHvFKLNu0imYPnWGf7ylLx",
+      "title": "Filipino American Psychology A Handbook of Theory, Research, and Clinical Practice by Kevin L. Nadal(auth.) (z-lib.org)",
+      "filename": "Filipino American Psychology A Handbook of Theory, Research, and Clinical Practice by Kevin L. Nadal(auth.) (z-lib.org).pdf",
+      "format": "PDF",
+      "subject": "Sikolohiyang Pilipino",
+      "folder": "Sikolohiyang Pilipino",
+      "folderUrl": "https://drive.google.com/drive/folders/1uofjBAWQ_fgT5A6war-DF0PesX2f3DeM",
+      "url": "https://drive.google.com/file/d/1bvJMNByypGBHvFKLNu0imYPnWGf7ylLx/view"
+    },
+    {
+      "id": "1FtYuOAA95ijdfkxsF7s-4nhiAiuh4B-w",
+      "title": "filipino psychology-enriquez",
+      "filename": "filipino psychology-enriquez.pdf",
+      "format": "PDF",
+      "subject": "Sikolohiyang Pilipino",
+      "folder": "Sikolohiyang Pilipino",
+      "folderUrl": "https://drive.google.com/drive/folders/1uofjBAWQ_fgT5A6war-DF0PesX2f3DeM",
+      "url": "https://drive.google.com/file/d/1FtYuOAA95ijdfkxsF7s-4nhiAiuh4B-w/view"
+    },
+    {
+      "id": "1PL3xsZ3NSXcC7wJhqOW9x8VDfhX9eB8Z",
+      "title": "Gastardo-Conaco. The Development of a Filipino Indigenous Psychology",
+      "filename": "Gastardo-Conaco. The Development of a Filipino Indigenous Psychology.pdf",
+      "format": "PDF",
+      "subject": "Sikolohiyang Pilipino",
+      "folder": "Sikolohiyang Pilipino",
+      "folderUrl": "https://drive.google.com/drive/folders/1uofjBAWQ_fgT5A6war-DF0PesX2f3DeM",
+      "url": "https://drive.google.com/file/d/1PL3xsZ3NSXcC7wJhqOW9x8VDfhX9eB8Z/view"
+    },
+    {
+      "id": "11mQsNnxwnWRhOl5nVBL2mtO6veHH566w",
+      "title": "Summary of SikoPil",
+      "filename": "Summary of SikoPil.doc",
+      "format": "DOC",
+      "subject": "Sikolohiyang Pilipino",
+      "folder": "Sikolohiyang Pilipino",
+      "folderUrl": "https://drive.google.com/drive/folders/1uofjBAWQ_fgT5A6war-DF0PesX2f3DeM",
+      "url": "https://drive.google.com/file/d/11mQsNnxwnWRhOl5nVBL2mtO6veHH566w/view"
+    },
+    {
+      "id": "1HRM90jHQJOOG9V2R8GohB5i2C4-Uzh5i",
+      "title": "Yakat, J. Filipino Psychology",
+      "filename": "Yakat, J. Filipino Psychology.pdf",
+      "format": "PDF",
+      "subject": "Sikolohiyang Pilipino",
+      "folder": "Sikolohiyang Pilipino",
+      "folderUrl": "https://drive.google.com/drive/folders/1uofjBAWQ_fgT5A6war-DF0PesX2f3DeM",
+      "url": "https://drive.google.com/file/d/1HRM90jHQJOOG9V2R8GohB5i2C4-Uzh5i/view"
+    },
+    {
+      "id": "1Ybk5KICL5InOY-WsIcWL3mSDsZsNUj72",
+      "title": "Handbook of Theories of Social Psychology Volume One-SAGE Publications Ltd (2011)",
+      "filename": "Handbook of Theories of Social Psychology_ Volume One-SAGE Publications Ltd (2011).pdf",
+      "format": "PDF",
+      "subject": "Social Psychology",
+      "folder": "Social Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/192I2UtwSoWs96MgP9TchteXQG3EIQpFY",
+      "url": "https://drive.google.com/file/d/1Ybk5KICL5InOY-WsIcWL3mSDsZsNUj72/view"
+    },
+    {
+      "id": "1uzkULIVq9xrI0S9Gd3nHK6RPgzbbFuqN",
+      "title": "Handbook of Theories of Social Psychology Volume Two-SAGE Publications Ltd (2011)",
+      "filename": "Handbook of Theories of Social Psychology_ Volume Two-SAGE Publications Ltd (2011).pdf",
+      "format": "PDF",
+      "subject": "Social Psychology",
+      "folder": "Social Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/192I2UtwSoWs96MgP9TchteXQG3EIQpFY",
+      "url": "https://drive.google.com/file/d/1uzkULIVq9xrI0S9Gd3nHK6RPgzbbFuqN/view"
+    },
+    {
+      "id": "1-ptDYf6p0-5ovZDBRJwwxiiMXzjGAD8h",
+      "title": "Jamie A. Gruman (editor) Lee Coutts (editor) Frank W. Schneider (editor) - Applied social psychology understanding and addressing social and practical problems (2017)",
+      "filename": "Jamie A. Gruman (editor)_ Lee Coutts (editor)_ Frank W. Schneider (editor) - Applied social psychology _ understanding and addressing social and practical problems (2017).pdf",
+      "format": "PDF",
+      "subject": "Social Psychology",
+      "folder": "Social Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/192I2UtwSoWs96MgP9TchteXQG3EIQpFY",
+      "url": "https://drive.google.com/file/d/1-ptDYf6p0-5ovZDBRJwwxiiMXzjGAD8h/view"
+    },
+    {
+      "id": "16PlZsOazohi1-6gGmD3dFHs23ZcoNymr",
+      "title": "Kieran C. O’Doherty, Darrin Hodgetts - The SAGE Handbook of Applied Social Psychology-SAGE Publications (2019)",
+      "filename": "Kieran C. O’Doherty, Darrin Hodgetts - The SAGE Handbook of Applied Social Psychology-SAGE Publications (2019).pdf",
+      "format": "PDF",
+      "subject": "Social Psychology",
+      "folder": "Social Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/192I2UtwSoWs96MgP9TchteXQG3EIQpFY",
+      "url": "https://drive.google.com/file/d/16PlZsOazohi1-6gGmD3dFHs23ZcoNymr/view"
+    },
+    {
+      "id": "1cyOPBWqnpUbE0msjFRhHHzF9jVkDJ73j",
+      "title": "Social Psychology-McGraw-Hill Education (2015)",
+      "filename": "Social Psychology-McGraw-Hill Education (2015).pdf",
+      "format": "PDF",
+      "subject": "Social Psychology",
+      "folder": "Social Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/192I2UtwSoWs96MgP9TchteXQG3EIQpFY",
+      "url": "https://drive.google.com/file/d/1cyOPBWqnpUbE0msjFRhHHzF9jVkDJ73j/view"
+    },
+    {
+      "id": "1ch4EnfWxoP_7u3BryzeFW7GqN9734JIN",
+      "title": "(For Dummies Sports Hobbies) Leif H. Smith, Todd M. Kays - Sports Psychology For Dummies -For Dummies (2010)",
+      "filename": "(For Dummies  Sports _ Hobbies) Leif H. Smith, Todd M. Kays - Sports Psychology For Dummies -For Dummies (2010).pdf",
+      "format": "PDF",
+      "subject": "Sports Psychology",
+      "folder": "Sports Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1sRQpOVufe0SqDEYVryMvQaX2OdPIH5PT",
+      "url": "https://drive.google.com/file/d/1ch4EnfWxoP_7u3BryzeFW7GqN9734JIN/view"
+    },
+    {
+      "id": "1tbapBaMo9-kmK-n4nRfARbssgGEO8IVc",
+      "title": "Britton Brewer - Sport Psychology (Olympic Handbook Of Sports Medicine)-Wiley-Blackwell (2009)",
+      "filename": "Britton Brewer - Sport Psychology (Olympic Handbook Of Sports Medicine)-Wiley-Blackwell (2009).pdf",
+      "format": "PDF",
+      "subject": "Sports Psychology",
+      "folder": "Sports Psychology",
+      "folderUrl": "https://drive.google.com/drive/folders/1sRQpOVufe0SqDEYVryMvQaX2OdPIH5PT",
+      "url": "https://drive.google.com/file/d/1tbapBaMo9-kmK-n4nRfARbssgGEO8IVc/view"
+    },
+    {
+      "id": "1Odyu0OcuiuaOviEKsCw7pfA-W7Qcq_wm",
+      "title": "A Handbook of Test Construction Introduction to Psychometric Design-Routledge (2015)",
+      "filename": "A Handbook of Test Construction_ Introduction to Psychometric Design-Routledge (2015).pdf",
+      "format": "PDF",
+      "subject": "Test Development (3)",
+      "folder": "Test Development (3)",
+      "folderUrl": "https://drive.google.com/drive/folders/1eMRiuIVrhQPsvsO1W7WLv4y6BNZ68K5-",
+      "url": "https://drive.google.com/file/d/1Odyu0OcuiuaOviEKsCw7pfA-W7Qcq_wm/view"
+    },
+    {
+      "id": "1bXgSj1JJxip3k_d7i4rg-mJXpESz1Ttu",
+      "title": "R. Michael Furr - Scale Construction and Psychometrics for Social and Personality Psychology-SAGE Publications (2011)",
+      "filename": "R. Michael Furr - Scale Construction and Psychometrics for Social and Personality Psychology-SAGE Publications (2011).pdf",
+      "format": "PDF",
+      "subject": "Test Development (3)",
+      "folder": "Test Development (3)",
+      "folderUrl": "https://drive.google.com/drive/folders/1eMRiuIVrhQPsvsO1W7WLv4y6BNZ68K5-",
+      "url": "https://drive.google.com/file/d/1bXgSj1JJxip3k_d7i4rg-mJXpESz1Ttu/view"
+    },
+    {
+      "id": "1QqK_RUaa2yrp5aHawE3nCpIZNWO3z8P2",
+      "title": "Suzanne Lane, Mark R. Raymond, Thomas M. Haladyna - Handbook of Test Development-Routledge (2015)",
+      "filename": "Suzanne Lane, Mark R. Raymond, Thomas M. Haladyna - Handbook of Test Development-Routledge (2015).pdf",
+      "format": "PDF",
+      "subject": "Test Development (3)",
+      "folder": "Test Development (3)",
+      "folderUrl": "https://drive.google.com/drive/folders/1eMRiuIVrhQPsvsO1W7WLv4y6BNZ68K5-",
+      "url": "https://drive.google.com/file/d/1QqK_RUaa2yrp5aHawE3nCpIZNWO3z8P2/view"
+    },
+    {
+      "id": "1EEmY3m3iAgBgo93zHHvg1YVvQ8YEGkKM",
+      "title": "David C. Funder - The Personality Puzzle 8th Edition-W W Norton Co Inc (2019)",
+      "filename": "David C. Funder - The Personality Puzzle 8th Edition-W W Norton _ Co Inc (2019).pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/1EEmY3m3iAgBgo93zHHvg1YVvQ8YEGkKM/view"
+    },
+    {
+      "id": "1AlESgCYPZTvwaf30P1eju1pDm8o_578H",
+      "title": "Engler - Personality Theories",
+      "filename": "Engler - Personality Theories.pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/1AlESgCYPZTvwaf30P1eju1pDm8o_578H/view"
+    },
+    {
+      "id": "1m3aVsbYWMiAuVWvpPmy1Vnd2GEWQY8QK",
+      "title": "Feist, Feist Roberts - Theories of Personality",
+      "filename": "Feist, Feist _ Roberts - Theories of Personality.pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/1m3aVsbYWMiAuVWvpPmy1Vnd2GEWQY8QK/view"
+    },
+    {
+      "id": "1kNJ-FMHyJKi7ImRuggM59fWBmB1TySdQ",
+      "title": "Gregory Feist, Tomi-Ann Roberts, Jess Feist - Theories of Personality-McGraw-Hill Education (2020)",
+      "filename": "Gregory Feist, Tomi-Ann Roberts, Jess Feist - Theories of Personality-McGraw-Hill Education (2020).pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/1kNJ-FMHyJKi7ImRuggM59fWBmB1TySdQ/view"
+    },
+    {
+      "id": "1S9x3lfRQxy9c1BcJNy4JBmJkp6_s5frP",
+      "title": "Howard S. Friedman, Miriam W. Schustack - Personality Classic Theories and Modern Research, Books a la Carte Edition-Pearson (2015)",
+      "filename": "Howard S. Friedman, Miriam W. Schustack - Personality_ Classic Theories and Modern Research, Books a la Carte Edition-Pearson (2015).pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/1S9x3lfRQxy9c1BcJNy4JBmJkp6_s5frP/view"
+    },
+    {
+      "id": "1nzEnemgvSDGTfzzZIJilntILAGYivCju",
+      "title": "Jess Feist Gregory J. Feist - Theories of Personality, 9th Edition-McGraw-Hill Education (2017)",
+      "filename": "Jess Feist_ Gregory J. Feist - Theories of Personality, 9th Edition-McGraw-Hill Education (2017).pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/1nzEnemgvSDGTfzzZIJilntILAGYivCju/view"
+    },
+    {
+      "id": "14wuwzGumrmCQ3iNFfOe_zSLFHp0kv0mj",
+      "title": "Personality and Social Psych - Handbook of Psychology",
+      "filename": "Personality and Social Psych - Handbook of Psychology.pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/14wuwzGumrmCQ3iNFfOe_zSLFHp0kv0mj/view"
+    },
+    {
+      "id": "1VvY6JFOd4f8t1BkjaJCRB5XB6q-P_Tmx",
+      "title": "Ryckman - Theories of Personality",
+      "filename": "Ryckman - Theories of Personality.pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/1VvY6JFOd4f8t1BkjaJCRB5XB6q-P_Tmx/view"
+    },
+    {
+      "id": "17Q9a7v4NLmVPJFivrVn9gDaFweC2a3LV",
+      "title": "Schultz Schultz - Theories of Personality",
+      "filename": "Schultz _ Schultz - Theories of Personality.pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/17Q9a7v4NLmVPJFivrVn9gDaFweC2a3LV/view"
+    },
+    {
+      "id": "1bTf0B9L68eNtpSP5kBgfJ658XVbt7HAK",
+      "title": "Susan C. Cloninger - Theories of Personality Understanding Persons (4th Edition) (2003, Prentice Hall)",
+      "filename": "Susan C. Cloninger - Theories of Personality_ Understanding Persons (4th Edition) (2003, Prentice Hall).pdf",
+      "format": "PDF",
+      "subject": "Theories of Personality",
+      "folder": "Theories of Personality",
+      "folderUrl": "https://drive.google.com/drive/folders/1v0ekiyMweCzCEjFJC1sd-geDSDEe1QbP",
+      "url": "https://drive.google.com/file/d/1bTf0B9L68eNtpSP5kBgfJ658XVbt7HAK/view"
+    }
+  ]
+}
